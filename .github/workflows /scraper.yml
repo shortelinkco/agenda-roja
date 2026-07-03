@@ -1,4 +1,4 @@
-name: Actualizar Agenda PirloTV
+name: Actualizar Agenda rojadirecta
 on:
   schedule:
     - cron: '*/15 * * * *'
