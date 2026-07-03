@@ -383,7 +383,7 @@ def actualizar_nube(datos):
         github_token = os.environ.get("TOKEN_GITHUB", "TU_TOKEN_PERSONAL_AQUI") 
         
         # ⚠️ IMPORTANTE: DEBES PONER EL NOMBRE DE TU NUEVO REPOSITORIO AQUÍ
-        repo = "gatoport123/agenda-pirlo" # <---- EJEMPLO: gatoport123/bot-pirlotv
+        repo = "gatoport123/agenda-roja" # <---- EJEMPLO: gatoport123/bot-pirlotv
         # =================================================================
         
         file_path = "agenda.json"
