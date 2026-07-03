@@ -15,7 +15,7 @@ import os
 FUENTES_AGENDA = [
     "https://agenda18.com/agenda.json",               # FUENTE PRINCIPAL (Pelota Libre)
     "https://la20hd.com/eventos/json/agenda123.json", # Respaldo 1
-    "https://pltvhd.com/diaries.json",              # Respaldo 2 (Fubolazo)
+    "https://pltvhd.com/diaries.json",                # Respaldo 2 (Fubolazo)
 ]
 
 API_BANDERAS = "https://agenda18.com/agenda.json"
@@ -141,9 +141,15 @@ def extraer_partidos():
     datos_json = None
     url_fuente_exitosa = ""
     
-    for url_fuente in FUENTES_AGENDA:
+    for indice, url_fuente in enumerate(FUENTES_AGENDA):
         url_con_timestamp = f"{url_fuente}?_={timestamp}"
-        print(f"    -> Intentando conectar a: {url_fuente[:50]}...")
+        
+        # Diferenciamos visualmente la fuente principal de los respaldos
+        if indice == 0:
+            print(f"    -> [PRIORIDAD 1] Intentando actualizar desde FUENTE PRINCIPAL: {url_fuente} ...")
+        else:
+            print(f"    -> [RESPALDO {indice}] Intentando conectar a fuente alternativa: {url_fuente[:50]} ...")
+            
         try:
             respuesta = requests.get(url_con_timestamp, headers=HEADERS, timeout=10)
             respuesta.raise_for_status() 
@@ -383,7 +389,7 @@ def actualizar_nube(datos):
         github_token = os.environ.get("TOKEN_GITHUB", "TU_TOKEN_PERSONAL_AQUI") 
         
         # ⚠️ IMPORTANTE: DEBES PONER EL NOMBRE DE TU NUEVO REPOSITORIO AQUÍ
-        repo = "gatoport123/agenda-roja" # <---- EJEMPLO: gatoport123/bot-pirlotv
+        repo = "shortelinkco/agenda-roja" # <---- EJEMPLO: gatoport123/bot-pirlotv
         # =================================================================
         
         file_path = "agenda.json"
