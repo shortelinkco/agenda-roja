@@ -166,5 +166,27 @@
             }
         ],
         "id": 3
+    },
+    {
+        "datetime": "2026-07-04T22:00:00Z",
+        "flagUrl": "https://img.agenda18.com/uploads/chile_86c07a7b38.png",
+        "league": "Copa Chile",
+        "homeTeam": "Deportes Iquique",
+        "awayTeam": "Coquimbo Unido",
+        "servers": [
+            {
+                "name": "TNT Sports Premium CL",
+                "channel": "TNT Sports Premium CL",
+                "url": "https://la20hd.com/vivo/canal.php?stream=tntsportschile",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTIwaGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT10bnRzcG9ydHNjaGlsZQ=="
+            },
+            {
+                "name": "TNT Sports Premium CL Movil",
+                "channel": "TNT Sports Premium CL Movil",
+                "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/tntchile.html",
+                "iframe": "/embed/eventos?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL3RudGNoaWxlLmh0bWw="
+            }
+        ],
+        "id": 4
     }
 ]
