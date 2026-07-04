@@ -1,21 +1,5 @@
 [
     {
-        "datetime": "2026-07-04T14:00:00Z",
-        "flagUrl": "https://img.agenda18.com/uploads/amistosos_bbe2ec4c17.png",
-        "league": "Amistoso",
-        "homeTeam": "Cruzeiro",
-        "awayTeam": "Defensor Sporting",
-        "servers": [
-            {
-                "name": "Disney+",
-                "channel": "Disney+",
-                "url": "https://la20hd.com/vivo/canal.php?stream=disney1",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTIwaGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1kaXNuZXkx"
-            }
-        ],
-        "id": 1
-    },
-    {
         "datetime": "2026-07-04T17:00:00Z",
         "flagUrl": "https://img.agenda18.com/uploads/fifa_ee72f5c955.png",
         "league": "Copa del Mundo",
@@ -77,13 +61,25 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTIwaGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT13aW5zcG9ydHM="
             },
             {
+                "name": "Vix1",
+                "channel": "Vix1",
+                "url": "https://la20hd.com/vivo/canal.php?stream=vix1",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTIwaGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT12aXgx"
+            },
+            {
                 "name": "Sportv",
                 "channel": "Sportv",
                 "url": "https://la20hd.com/vivo/canal.php?stream=sportv",
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTIwaGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPXNwb3J0dg=="
+            },
+            {
+                "name": "ZDF DE",
+                "channel": "ZDF DE",
+                "url": "https://la16hd.com/play.php?url=aHR0cHM6Ly9hMTFsaXZlLXB2LXRhLWFtYXpvbi5ha2FtYWl6ZWQubmV0L2R1Yi1uaXRyby9saXZlL2NsaWVudHMvZGFzaC9lbmMvZ2U2Z29udjdjeS9vdXQvdjEvYTIxODZjZTU1M2ZiNGEwOGIyODZhYWQzMjM3ZDUzMjgvY2VuYy5tcGQ=&ki=ODFhMDVjOWFmMDdlMTVmNTlkY2FjNTY4MDkwOTU2Zjk=&k=ZDczY2U1NDcxOGRlMjBkNTdlODdkODFjOTVkNTBiMGE=",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE2aGQuY29tL3BsYXkucGhwP3VybD1hSFIwY0hNNkx5OWhNVEZzYVhabExYQjJMWFJoTFdGdFlYcHZiaTVoYTJGdFlXbDZaV1F1Ym1WMEwyUjFZaTF1YVhSeWJ5OXNhWFpsTDJOc2FXVnVkSE12WkdGemFDOWxibU12WjJVMloyOXVkamRqZVM5dmRYUXZkakV2WVRJeE9EWmpaVFUxTTJaaU5HRXdPR0l5T0RaaFlXUXpNak0zWkRVek1qZ3ZZMlZ1WXk1dGNHUT0ma2k9T0RGaE1EVmpPV0ZtTURkbE1UVm1OVGxrWTJGak5UWTRNRGt3T1RVMlpqaz0maz1aRGN6WTJVMU5EY3hPR1JsTWpCa05UZGxPRGRrT0RGak9UVmtOVEJpTUdFPQ=="
             }
         ],
-        "id": 2
+        "id": 1
     },
     {
         "datetime": "2026-07-04T21:00:00Z",
@@ -165,7 +161,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTIwaGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1jYXJhY29s"
             }
         ],
-        "id": 3
+        "id": 2
     },
     {
         "datetime": "2026-07-04T22:00:00Z",
@@ -187,6 +183,6 @@
                 "iframe": "/embed/eventos?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL3RudGNoaWxlLmh0bWw="
             }
         ],
-        "id": 4
+        "id": 3
     }
 ]
