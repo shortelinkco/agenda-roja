@@ -1,54 +1,10 @@
 [
     {
-        "datetime": "2026-07-05T21:00:00Z",
-        "flagUrl": "https://img.agenda18.com/uploads/chile_86c07a7b38.png",
-        "league": "Copa Chile",
-        "homeTeam": "Unión Española",
-        "awayTeam": "O'Higgins",
-        "servers": [
-            {
-                "name": "TNT Sports Premium CL",
-                "channel": "TNT Sports Premium CL",
-                "url": "https://la20hd.com/vivo/canal.php?stream=tntsportschile",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTIwaGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT10bnRzcG9ydHNjaGlsZQ=="
-            },
-            {
-                "name": "TNT Sports Premium CL Movil",
-                "channel": "TNT Sports Premium CL Movil",
-                "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/tntchile.html",
-                "iframe": "/embed/eventos?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL3RudGNoaWxlLmh0bWw="
-            }
-        ],
-        "id": 1
-    },
-    {
-        "datetime": "2026-07-06T00:00:00Z",
-        "flagUrl": "https://img.agenda18.com/uploads/chile_86c07a7b38.png",
-        "league": "Copa Chile",
-        "homeTeam": "Deportes Limache",
-        "awayTeam": "San Marcos",
-        "servers": [
-            {
-                "name": "TNT Sports Premium CL",
-                "channel": "TNT Sports Premium CL",
-                "url": "https://la20hd.com/vivo/canal.php?stream=tntsportschile",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTIwaGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT10bnRzcG9ydHNjaGlsZQ=="
-            },
-            {
-                "name": "TNT Sports Premium CL Movil",
-                "channel": "TNT Sports Premium CL Movil",
-                "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/tntchile.html",
-                "iframe": "/embed/eventos?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL3RudGNoaWxlLmh0bWw="
-            }
-        ],
-        "id": 2
-    },
-    {
-        "datetime": "2026-07-06T00:00:00Z",
+        "datetime": "2026-07-06T17:00:00Z",
         "flagUrl": "https://img.agenda18.com/uploads/fifa_ee72f5c955.png",
         "league": "Copa del Mundo",
-        "homeTeam": "México",
-        "awayTeam": "Inglaterra",
+        "homeTeam": "Portugal",
+        "awayTeam": "España",
         "servers": [
             {
                 "name": "Dsports HD",
@@ -69,6 +25,12 @@
                 "iframe": "/embed/eventos?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2RpcmVjdHZwZXJ1Lmh0bWw="
             },
             {
+                "name": "TVE La 1  HD",
+                "channel": "TVE La 1  HD",
+                "url": "https://la16hd.com/la1tve.php",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE2aGQuY29tL2xhMXR2ZS5waHA="
+            },
+            {
                 "name": "Dsports",
                 "channel": "Dsports",
                 "url": "https://la20hd.com/vivo/canal.php?stream=dsports",
@@ -79,12 +41,6 @@
                 "channel": "Dsports | OP2",
                 "url": "https://la20hd.com/vivo/canal.php?stream=vtvplus",
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTIwaGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT12dHZwbHVz"
-            },
-            {
-                "name": "Telemundo",
-                "channel": "Telemundo",
-                "url": "https://la20hd.com/vivo/canal.php?stream=telemundo",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTIwaGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT10ZWxlbXVuZG8="
             },
             {
                 "name": "Canal 5 MX",
@@ -99,18 +55,36 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE2aGQuY29tL3R1ZG5tYXgucGhw"
             },
             {
-                "name": "Telefe",
-                "channel": "Telefe",
-                "url": "https://la20hd.com/vivo/canal.php?stream=telefe",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTIwaGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT10ZWxlZmU="
+                "name": "America TV",
+                "channel": "America TV",
+                "url": "https://la20hd.com/vivo/canal.php?stream=americatv",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTIwaGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1hbWVyaWNhdHY="
             },
             {
-                "name": "Universo",
-                "channel": "Universo",
-                "url": "https://la20hd.com/vivo/canal.php?stream=universo",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTIwaGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT11bml2ZXJzbw=="
+                "name": "America TV Movil",
+                "channel": "America TV Movil",
+                "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/americatv1.html",
+                "iframe": "/embed/eventos?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2FtZXJpY2F0djEuaHRtbA=="
+            },
+            {
+                "name": "Caracol TV",
+                "channel": "Caracol TV",
+                "url": "https://la20hd.com/vivo/canal.php?stream=caracol",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTIwaGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1jYXJhY29s"
+            },
+            {
+                "name": "Telemundo",
+                "channel": "Telemundo",
+                "url": "https://la20hd.com/vivo/canal.php?stream=telemundo",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTIwaGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT10ZWxlbXVuZG8="
+            },
+            {
+                "name": "Sportv",
+                "channel": "Sportv",
+                "url": "https://la20hd.com/vivo/canal.php?stream=sportv",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTIwaGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPXNwb3J0dg=="
             }
         ],
-        "id": 3
+        "id": 1
     }
 ]
