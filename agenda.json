@@ -1,90 +1,192 @@
 [
     {
-        "datetime": "2026-07-07T20:00:00Z",
-        "flagUrl": "https://img.agenda18.com/uploads/fifa_ee72f5c955.png",
-        "league": "Copa del Mundo",
-        "homeTeam": "Suiza",
-        "awayTeam": "Colombia",
+        "datetime": "2026-07-08T11:30:00Z",
+        "flagUrl": "https://cdn.ftvhd.com/uploads/Pngtree_logo_bike_cycling_mtb_isolated_5209109_fbde4a6148_0df2a2f68b.png",
+        "league": "Fútbol",
+        "homeTeam": "Ciclismo – Tour de France – Etapa #5",
+        "awayTeam": "",
         "servers": [
             {
-                "name": "Dsports HD",
-                "channel": "Dsports HD",
-                "url": "https://la16hd.com/dsportsar.php",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE2aGQuY29tL2RzcG9ydHNhci5waHA="
+                "name": "ESPN 4",
+                "channel": "ESPN 4",
+                "url": "https://tvhd2.com/online/canal.php?stream=even4",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsLnBocD9zdHJlYW09ZXZlbjQ="
             },
             {
-                "name": "Dsports HD LATAM",
-                "channel": "Dsports HD LATAM",
-                "url": "https://la16hd.com/dsportslatam.php",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE2aGQuY29tL2RzcG9ydHNsYXRhbS5waHA="
-            },
-            {
-                "name": "Dsports Movil",
-                "channel": "Dsports Movil",
-                "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/directvperu.html",
-                "iframe": "/embed/eventos?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2RpcmVjdHZwZXJ1Lmh0bWw="
-            },
-            {
-                "name": "Dsports",
-                "channel": "Dsports",
-                "url": "https://la20hd.com/vivo/canal.php?stream=dsports",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTIwaGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1kc3BvcnRz"
-            },
-            {
-                "name": "Dsports | OP2",
-                "channel": "Dsports | OP2",
-                "url": "https://la20hd.com/vivo/canal.php?stream=vtvplus",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTIwaGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT12dHZwbHVz"
-            },
-            {
-                "name": "Canal 5 MX",
-                "channel": "Canal 5 MX",
-                "url": "https://la16hd.com/canal5mx.php",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE2aGQuY29tL2NhbmFsNW14LnBocA=="
-            },
-            {
-                "name": "TUDN MX HD",
-                "channel": "TUDN MX HD",
-                "url": "https://la16hd.com/tudnmax.php",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE2aGQuY29tL3R1ZG5tYXgucGhw"
-            },
-            {
-                "name": "Telemundo",
-                "channel": "Telemundo",
-                "url": "https://la20hd.com/vivo/canal.php?stream=telemundo",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTIwaGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT10ZWxlbXVuZG8="
-            },
-            {
-                "name": "America TV",
-                "channel": "America TV",
-                "url": "https://la20hd.com/vivo/canal.php?stream=americatv",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTIwaGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1hbWVyaWNhdHY="
-            },
-            {
-                "name": "America TV Movil",
-                "channel": "America TV Movil",
-                "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/americatv1.html",
-                "iframe": "/embed/eventos?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2FtZXJpY2F0djEuaHRtbA=="
-            },
-            {
-                "name": "Caracol TV",
-                "channel": "Caracol TV",
-                "url": "https://la20hd.com/vivo/canal.php?stream=caracol",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTIwaGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1jYXJhY29s"
-            },
-            {
-                "name": "Universo",
-                "channel": "Universo",
-                "url": "https://la20hd.com/vivo/canal.php?stream=universo",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTIwaGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT11bml2ZXJzbw=="
-            },
-            {
-                "name": "Sportv",
-                "channel": "Sportv",
-                "url": "https://la20hd.com/vivo/canal.php?stream=sportv",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTIwaGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPXNwb3J0dg=="
+                "name": "ESPN 4 | OP2",
+                "channel": "ESPN 4 | OP2",
+                "url": "https://tvhd2.com/vivo/canal.php?stream=espn4",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG40"
             }
         ],
         "id": 1
+    },
+    {
+        "datetime": "2026-07-08T12:00:00Z",
+        "flagUrl": "https://cdn.ftvhd.com/uploads/Tenis_a5d5fcd1d1_594ebf0186.png",
+        "league": "Fútbol",
+        "homeTeam": "Tenis – Wimbledon – Dia #10 – Cuartos de Final",
+        "awayTeam": "",
+        "servers": [
+            {
+                "name": "ESPN 3",
+                "channel": "ESPN 3",
+                "url": "https://tvhd2.com/online/canal.php?stream=even3",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsLnBocD9zdHJlYW09ZXZlbjM="
+            }
+        ],
+        "id": 2
+    },
+    {
+        "datetime": "2026-07-08T12:30:00Z",
+        "flagUrl": "https://cdn.ftvhd.com/uploads/Tenis_a5d5fcd1d1_594ebf0186.png",
+        "league": "Fútbol",
+        "homeTeam": "Tenis – Wimbledon – Dia #10 – Cuartos de Final",
+        "awayTeam": "",
+        "servers": [
+            {
+                "name": "ESPN 2",
+                "channel": "ESPN 2",
+                "url": "https://tvhd2.com/online/canal.php?stream=even2",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsLnBocD9zdHJlYW09ZXZlbjI="
+            }
+        ],
+        "id": 3
+    },
+    {
+        "datetime": "2026-07-08T20:00:00Z",
+        "flagUrl": "https://cdn.ftvhd.com/uploads/ecuador_6b5e87e044_2fd81bc301.png",
+        "league": "Serie B",
+        "homeTeam": "El Nacional",
+        "awayTeam": "Cumbayá",
+        "servers": [
+            {
+                "name": "ECDF LigaPro",
+                "channel": "ECDF LigaPro",
+                "url": "https://tvhd2.com/canal.php?stream=ecdf_ligapro",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vY2FuYWxlcy5waHA/c3RyZWFtPWVjZGZfbGlnYXBybw=="
+            }
+        ],
+        "id": 4
+    },
+    {
+        "datetime": "2026-07-08T22:00:00Z",
+        "flagUrl": "https://cdn.ftvhd.com/uploads/bolivia_png_81cfc9f71f.png",
+        "league": "Primera División",
+        "homeTeam": "Real Oruro",
+        "awayTeam": "Universitario de Vinto",
+        "servers": [
+            {
+                "name": "Futbol Canal",
+                "channel": "Futbol Canal",
+                "url": "https://tvhd2.com/online/canal.php?stream=even4",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsZXMucGhwP3N0cmVhbT1ldmVuNA=="
+            },
+            {
+                "name": "Futbol Canal | OP2",
+                "channel": "Futbol Canal | OP2",
+                "url": "https://tvhd2.com/vivo/canal.php?stream=even4",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vdml2by9jYW5hbC5waHA/c3RyZWFtPWV2ZW40"
+            }
+        ],
+        "id": 5
+    },
+    {
+        "datetime": "2026-07-08T22:30:00Z",
+        "flagUrl": "https://cdn.ftvhd.com/uploads/ecuador_6b5e87e044_2fd81bc301.png",
+        "league": "Copa Ecuador",
+        "homeTeam": "Santo Domingo",
+        "awayTeam": "Independiente del Valle",
+        "servers": [
+            {
+                "name": "DSports",
+                "channel": "DSports",
+                "url": "https://tvhd2.com/canal.php?stream=dsports",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vY2FuYWxlcy5waHA/c3RyZWFtPWRzcG9ydHM="
+            },
+            {
+                "name": "DSports | OP2",
+                "channel": "DSports | OP2",
+                "url": "https://tvhd2.com/vivo/canal.php?stream=dsports",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vdml2by9jYW5hbC5waHA/c3RyZWFtPWRzcG9ydHM="
+            }
+        ],
+        "id": 6
+    },
+    {
+        "datetime": "2026-07-08T23:00:00Z",
+        "flagUrl": "https://cdn.ftvhd.com/uploads/mlb_f5711cc440_dde64767e4.png",
+        "league": "Fútbol",
+        "homeTeam": "MLB – Cincinnati Reds vs. Philadelphia Phillies",
+        "awayTeam": "",
+        "servers": [
+            {
+                "name": "ESPN 4",
+                "channel": "ESPN 4",
+                "url": "https://tvhd2.com/online/canal.php?stream=even4",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsLnBocD9zdHJlYW09ZXZlbjQ="
+            },
+            {
+                "name": "ESPN 4 | OP2",
+                "channel": "ESPN 4 | OP2",
+                "url": "https://tvhd2.com/vivo/canal.php?stream=espn4",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG40"
+            }
+        ],
+        "id": 7
+    },
+    {
+        "datetime": "2026-07-09T00:00:00Z",
+        "flagUrl": "https://cdn.ftvhd.com/uploads/bolivia_png_81cfc9f71f.png",
+        "league": "Primera División",
+        "homeTeam": "Real Potosí",
+        "awayTeam": "ABB",
+        "servers": [
+            {
+                "name": "Futbol Canal",
+                "channel": "Futbol Canal",
+                "url": "https://tvhd2.com/online/canal.php?stream=even4",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsZXMucGhwP3N0cmVhbT1ldmVuNA=="
+            },
+            {
+                "name": "Futbol Canal | OP2",
+                "channel": "Futbol Canal | OP2",
+                "url": "https://tvhd2.com/vivo/canal.php?stream=even4",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vdml2by9jYW5hbC5waHA/c3RyZWFtPWV2ZW40"
+            }
+        ],
+        "id": 8
+    },
+    {
+        "datetime": "2026-07-09T01:00:00Z",
+        "flagUrl": "https://cdn.ftvhd.com/uploads/ecuador_6b5e87e044_2fd81bc301.png",
+        "league": "Copa Ecuador",
+        "homeTeam": "Independiente Juniors",
+        "awayTeam": "LDU Quito",
+        "servers": [
+            {
+                "name": "DSports",
+                "channel": "DSports",
+                "url": "https://tvhd2.com/canal.php?stream=dsports",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vY2FuYWxlcy5waHA/c3RyZWFtPWRzcG9ydHM="
+            }
+        ],
+        "id": 9
+    },
+    {
+        "datetime": "2026-07-09T02:00:00Z",
+        "flagUrl": "https://cdn.ftvhd.com/uploads/mlb_f5711cc440_dde64767e4.png",
+        "league": "Fútbol",
+        "homeTeam": "MLB – San Diego Padres vs. Arizona Diamondbacks",
+        "awayTeam": "",
+        "servers": [
+            {
+                "name": "ESPN 3",
+                "channel": "ESPN 3",
+                "url": "https://tvhd2.com/online/canal.php?stream=even3",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsLnBocD9zdHJlYW09ZXZlbjM="
+            }
+        ],
+        "id": 10
     }
 ]
