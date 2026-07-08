@@ -1,21 +1,5 @@
 [
     {
-        "datetime": "2026-07-08T19:30:00Z",
-        "flagUrl": "https://img.agenda18.com/uploads/amistoso_paises_b9febc0d3c.png",
-        "league": "Partido Amistoso Internacional",
-        "homeTeam": "Lausanne Sport",
-        "awayTeam": "Flamengo",
-        "servers": [
-            {
-                "name": "Sportv",
-                "channel": "Sportv",
-                "url": "https://la20hd.com/vivo/canal.php?stream=sportv",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTIwaGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPXNwb3J0dg=="
-            }
-        ],
-        "id": 1
-    },
-    {
         "datetime": "2026-07-08T23:00:00Z",
         "flagUrl": "https://img.agenda18.com/uploads/chile_86c07a7b38.png",
         "league": "Copa de la Liga",
@@ -33,6 +17,22 @@
                 "channel": "TNT Sports Premium CL Movil",
                 "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/tntchile.html",
                 "iframe": "/embed/eventos?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL3RudGNoaWxlLmh0bWw="
+            }
+        ],
+        "id": 1
+    },
+    {
+        "datetime": "2026-07-09T00:00:00Z",
+        "flagUrl": "https://img.agenda18.com/uploads/amistosos_bbe2ec4c17.png",
+        "league": "Amistoso",
+        "homeTeam": "Boca juniors",
+        "awayTeam": "Paranaense",
+        "servers": [
+            {
+                "name": "Disney+",
+                "channel": "Disney+",
+                "url": "https://la20hd.com/vivo/canal.php?stream=disney1",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTIwaGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1kaXNuZXkx"
             }
         ],
         "id": 2
