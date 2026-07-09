@@ -25,16 +25,10 @@
                 "iframe": "/embed/eventos?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2RpcmVjdHZwZXJ1Lmh0bWw="
             },
             {
-                "name": "Dsports",
-                "channel": "Dsports",
-                "url": "https://la20hd.com/vivo/canal.php?stream=dsports",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTIwaGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1kc3BvcnRz"
-            },
-            {
-                "name": "Dsports | OP2",
-                "channel": "Dsports | OP2",
-                "url": "https://la20hd.com/vivo/canal.php?stream=vtvplus",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTIwaGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT12dHZwbHVz"
+                "name": "TVE La 1  HD",
+                "channel": "TVE La 1  HD",
+                "url": "https://la16hd.com/la1tve.php",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE2aGQuY29tL2xhMXR2ZS5waHA="
             },
             {
                 "name": "Canal 5 MX",
@@ -43,16 +37,22 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE2aGQuY29tL2NhbmFsNW14LnBocA=="
             },
             {
-                "name": "TVE La 1  HD",
-                "channel": "TVE La 1  HD",
-                "url": "https://la16hd.com/la1tve.php",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE2aGQuY29tL2xhMXR2ZS5waHA="
+                "name": "Dsports",
+                "channel": "Dsports",
+                "url": "https://la20hd.com/vivo/canal.php?stream=dsports",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTIwaGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1kc3BvcnRz"
             },
             {
                 "name": "TUDN MX HD",
                 "channel": "TUDN MX HD",
                 "url": "https://la16hd.com/tudnmax.php",
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE2aGQuY29tL3R1ZG5tYXgucGhw"
+            },
+            {
+                "name": "Dsports | OP2",
+                "channel": "Dsports | OP2",
+                "url": "https://la20hd.com/vivo/canal.php?stream=vtvplus",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTIwaGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT12dHZwbHVz"
             },
             {
                 "name": "Telemundo",
