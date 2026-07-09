@@ -37,10 +37,40 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTIwaGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT12dHZwbHVz"
             },
             {
+                "name": "Canal 5 MX",
+                "channel": "Canal 5 MX",
+                "url": "https://la16hd.com/canal5mx.php",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE2aGQuY29tL2NhbmFsNW14LnBocA=="
+            },
+            {
+                "name": "TVE La 1  HD",
+                "channel": "TVE La 1  HD",
+                "url": "https://la16hd.com/la1tve.php",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE2aGQuY29tL2xhMXR2ZS5waHA="
+            },
+            {
+                "name": "TUDN MX HD",
+                "channel": "TUDN MX HD",
+                "url": "https://la16hd.com/tudnmax.php",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE2aGQuY29tL3R1ZG5tYXgucGhw"
+            },
+            {
                 "name": "Telemundo",
                 "channel": "Telemundo",
                 "url": "https://la20hd.com/vivo/canal.php?stream=telemundo",
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTIwaGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT10ZWxlbXVuZG8="
+            },
+            {
+                "name": "Caracol TV",
+                "channel": "Caracol TV",
+                "url": "https://la20hd.com/vivo/canal.php?stream=caracol",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTIwaGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1jYXJhY29s"
+            },
+            {
+                "name": "Sportv",
+                "channel": "Sportv",
+                "url": "https://la20hd.com/vivo/canal.php?stream=sportv",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTIwaGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPXNwb3J0dg=="
             }
         ],
         "id": 1
