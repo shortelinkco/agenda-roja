@@ -83,6 +83,12 @@
                 "channel": "Cazé TV",
                 "url": "https://la16hd.com/cazetv.php",
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE2aGQuY29tL2NhemV0di5waHA="
+            },
+            {
+                "name": "Vix1",
+                "channel": "Vix1",
+                "url": "https://la20hd.com/vivo/canal.php?stream=vix1",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTIwaGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT12aXgx"
             }
         ],
         "id": 1
