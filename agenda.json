@@ -57,6 +57,18 @@
                 "iframe": "/embed/eventos?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2RpcmVjdHZwZXJ1Lmh0bWw="
             },
             {
+                "name": "Canal 5 MX",
+                "channel": "Canal 5 MX",
+                "url": "https://la16hd.com/canal5mx.php",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE2aGQuY29tL2NhbmFsNW14LnBocA=="
+            },
+            {
+                "name": "TUDN MX HD",
+                "channel": "TUDN MX HD",
+                "url": "https://la16hd.com/tudnmax.php",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE2aGQuY29tL3R1ZG5tYXgucGhw"
+            },
+            {
                 "name": "Telemundo",
                 "channel": "Telemundo",
                 "url": "https://la20hd.com/vivo/canal.php?stream=telemundo",
