@@ -1,55 +1,7 @@
 [
     {
-        "datetime": "2026-07-13T13:00:00Z",
-        "flagUrl": "https://cdn.ftvhd.com/uploads/argentina_2bd748026e_628913fc18.png",
-        "league": "Torneo de Reserva",
-        "homeTeam": "T\nEstudiantes Rio Cuarto 2",
-        "awayTeam": "Defensa y Justicia",
-        "servers": [
-            {
-                "name": "ESPN 2",
-                "channel": "ESPN 2",
-                "url": "https://fltvhd.com/online/canal.php?stream=even2",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbC5waHA/c3RyZWFtPWV2ZW4y"
-            }
-        ],
-        "id": 1
-    },
-    {
-        "datetime": "2026-07-13T13:50:00Z",
-        "flagUrl": "https://cdn.ftvhd.com/uploads/Rugby_f99a2b54da.png",
-        "league": "Fútbol",
-        "homeTeam": "Rugby – World Rugby U20 Championship – Semifinal – Equipos a Confirmar",
-        "awayTeam": "",
-        "servers": [
-            {
-                "name": "ESPN 2",
-                "channel": "ESPN 2",
-                "url": "https://fltvhd.com/online/canal.php?stream=even2",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbC5waHA/c3RyZWFtPWV2ZW4y"
-            }
-        ],
-        "id": 2
-    },
-    {
-        "datetime": "2026-07-13T16:20:00Z",
-        "flagUrl": "https://cdn.ftvhd.com/uploads/Rugby_f99a2b54da.png",
-        "league": "Fútbol",
-        "homeTeam": "Rugby – World Rugby U20 Championship – Semifinal – Equipos a Confirmar",
-        "awayTeam": "",
-        "servers": [
-            {
-                "name": "ESPN 2",
-                "channel": "ESPN 2",
-                "url": "https://fltvhd.com/online/canal.php?stream=even2",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbC5waHA/c3RyZWFtPWV2ZW4y"
-            }
-        ],
-        "id": 3
-    },
-    {
         "datetime": "2026-07-13T18:00:00Z",
-        "flagUrl": "https://cdn.ftvhd.com/uploads/uruguay_e2b9597af8_6abda609fb.png",
+        "flagUrl": "https://img.agenda18.com/uploads/uruguay_e2b9597af8.png",
         "league": "Segunda División",
         "homeTeam": "La Luz",
         "awayTeam": "Tacuarembó",
@@ -57,31 +9,15 @@
             {
                 "name": "Disney+",
                 "channel": "Disney+",
-                "url": "https://fltvhd.com/canal.php?stream=disney1",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kaXNuZXkx"
+                "url": "https://la18hd.su/vivo/canal.php?stream=disney1",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE="
             }
         ],
-        "id": 4
-    },
-    {
-        "datetime": "2026-07-13T20:30:00Z",
-        "flagUrl": "https://cdn.ftvhd.com/uploads/nba_b6210b97b6_06c9c65d5f.png",
-        "league": "Fútbol",
-        "homeTeam": "NBA Summer League – Indiana Pacers",
-        "awayTeam": "Toronto Raptors",
-        "servers": [
-            {
-                "name": "ESPN 3",
-                "channel": "ESPN 3",
-                "url": "https://fltvhd.com/online/canal.php?stream=even3",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbC5waHA/c3RyZWFtPWV2ZW4z"
-            }
-        ],
-        "id": 5
+        "id": 1
     },
     {
         "datetime": "2026-07-13T22:00:00Z",
-        "flagUrl": "https://cdn.ftvhd.com/uploads/uruguay_e2b9597af8_6abda609fb.png",
+        "flagUrl": "https://img.agenda18.com/uploads/uruguay_e2b9597af8.png",
         "league": "Primera División",
         "homeTeam": "Cerro Largo",
         "awayTeam": "Defensor Sporting",
@@ -89,15 +25,15 @@
             {
                 "name": "Disney+",
                 "channel": "Disney+",
-                "url": "https://fltvhd.com/canal.php?stream=espn",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3Bu"
+                "url": "https://la18hd.su/vivo/canal.php?stream=disney2",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTI="
             }
         ],
-        "id": 6
+        "id": 2
     },
     {
         "datetime": "2026-07-13T22:00:00Z",
-        "flagUrl": "https://cdn.ftvhd.com/uploads/uruguay_e2b9597af8_6abda609fb.png",
+        "flagUrl": "https://img.agenda18.com/uploads/uruguay_e2b9597af8.png",
         "league": "Segunda División",
         "homeTeam": "Paysandu",
         "awayTeam": "Fénix",
@@ -105,26 +41,10 @@
             {
                 "name": "Disney+",
                 "channel": "Disney+",
-                "url": "https://fltvhd.com/canal.php?stream=espn",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3Bu"
+                "url": "https://la18hd.su/vivo/canal.php?stream=disney3",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTM="
             }
         ],
-        "id": 7
-    },
-    {
-        "datetime": "2026-07-13T23:00:00Z",
-        "flagUrl": "https://cdn.ftvhd.com/uploads/nba_b6210b97b6_06c9c65d5f.png",
-        "league": "Fútbol",
-        "homeTeam": "NBA Summer League – Memphis Grizzlies",
-        "awayTeam": "Dallas Mavericks",
-        "servers": [
-            {
-                "name": "ESPN 3",
-                "channel": "ESPN 3",
-                "url": "https://fltvhd.com/online/canal.php?stream=even3",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbC5waHA/c3RyZWFtPWV2ZW4z"
-            }
-        ],
-        "id": 8
+        "id": 3
     }
 ]
