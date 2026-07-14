@@ -1,96 +1,114 @@
 [
     {
-        "datetime": "2026-07-14T19:00:00Z",
-        "flagUrl": "https://img.agenda18.com/uploads/fifa_ee72f5c955.png",
-        "league": "Copa del Mundo",
-        "homeTeam": "Francia",
-        "awayTeam": "España | Semi Final 1",
+        "datetime": "2026-07-14T21:30:00Z",
+        "flagUrl": "https://cdn.ftvhd.com/uploads/ecuador_6b5e87e044_2fd81bc301.png",
+        "league": "Serie A",
+        "homeTeam": "Macará",
+        "awayTeam": "Mushuc Runa",
         "servers": [
             {
-                "name": "Dsports HD",
-                "channel": "Dsports HD",
-                "url": "https://la16hd.com/dsportsar.php",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE2aGQuY29tL2RzcG9ydHNhci5waHA="
-            },
-            {
-                "name": "Dsports HD LATAM",
-                "channel": "Dsports HD LATAM",
-                "url": "https://la16hd.com/dsportslatam.php",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE2aGQuY29tL2RzcG9ydHNsYXRhbS5waHA="
-            },
-            {
-                "name": "Dsports Movil",
-                "channel": "Dsports Movil",
-                "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/directvperu.html",
-                "iframe": "/embed/eventos?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2RpcmVjdHZwZXJ1Lmh0bWw="
-            },
-            {
-                "name": "TVE La 1  HD",
-                "channel": "TVE La 1  HD",
-                "url": "https://la16hd.com/la1tve.php",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE2aGQuY29tL2xhMXR2ZS5waHA="
-            },
-            {
-                "name": "Canal 5 MX",
-                "channel": "Canal 5 MX",
-                "url": "https://la16hd.com/canal5mx.php",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE2aGQuY29tL2NhbmFsNW14LnBocA=="
-            },
-            {
-                "name": "TUDN MX HD",
-                "channel": "TUDN MX HD",
-                "url": "https://la16hd.com/tudnmax.php",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE2aGQuY29tL3R1ZG5tYXgucGhw"
-            },
-            {
-                "name": "Disney+",
-                "channel": "Disney+",
-                "url": "https://la18hd.su/vivo/canal.php?stream=disney1",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE="
-            },
-            {
-                "name": "Dsports",
-                "channel": "Dsports",
-                "url": "https://la18hd.su/vivo/canal.php?stream=dsports",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRzcG9ydHM="
-            },
-            {
-                "name": "Dsports | OP2",
-                "channel": "Dsports | OP2",
-                "url": "https://la18hd.su/vivo/canal.php?stream=vtvplus",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXZ0dnBsdXM="
-            },
-            {
-                "name": "Telemundo",
-                "channel": "Telemundo",
-                "url": "https://la18hd.su/vivo/canal.php?stream=telemundo",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXRlbGVtdW5kbw=="
-            },
-            {
-                "name": "America TV",
-                "channel": "America TV",
-                "url": "https://la20hd.com/vivo/canal.php?stream=americatv",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTIwaGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1hbWVyaWNhdHY="
-            },
-            {
-                "name": "America TV Movil",
-                "channel": "America TV Movil",
-                "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/americatv1.html",
-                "iframe": "/embed/eventos?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2FtZXJpY2F0djEuaHRtbA=="
-            },
-            {
-                "name": "Caracol TV",
-                "channel": "Caracol TV",
-                "url": "https://la20hd.com/vivo/canal.php?stream=caracol",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTIwaGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1jYXJhY29s"
-            },
-            {
-                "name": "Win Sports",
-                "channel": "Win Sports",
-                "url": "https://la18hd.su/vivo/canal.php?stream=winsports",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXdpbnNwb3J0cw=="
+                "name": "ECDF LigaPro",
+                "channel": "ECDF LigaPro",
+                "url": "https://fltvhd.com/canal.php?stream=ecdf_ligapro",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lY2RmX2xpZ2Fwcm8="
             }
         ],
         "id": 1
+    },
+    {
+        "datetime": "2026-07-14T22:00:00Z",
+        "flagUrl": "https://cdn.ftvhd.com/uploads/bolivia_png_81cfc9f71f.png",
+        "league": "Primera División",
+        "homeTeam": "Real Oruro",
+        "awayTeam": "Always Ready",
+        "servers": [
+            {
+                "name": "Entel TV PLUS+",
+                "channel": "Entel TV PLUS+",
+                "url": "https://fltvhd.com/online/canal.php?stream=even1",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09ZXZlbjE="
+            }
+        ],
+        "id": 2
+    },
+    {
+        "datetime": "2026-07-14T23:00:00Z",
+        "flagUrl": "https://cdn.ftvhd.com/uploads/nba_b6210b97b6_06c9c65d5f.png",
+        "league": "Fútbol",
+        "homeTeam": "NBA Summer League – Golden State Warriors",
+        "awayTeam": "Memphis Grizzlies",
+        "servers": [
+            {
+                "name": "ESPN 3",
+                "channel": "ESPN 3",
+                "url": "https://fltvhd.com/online/canal.php?stream=even3",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbC5waHA/c3RyZWFtPWV2ZW4z"
+            }
+        ],
+        "id": 3
+    },
+    {
+        "datetime": "2026-07-15T00:00:00Z",
+        "flagUrl": "https://cdn.ftvhd.com/uploads/ecuador_6b5e87e044_2fd81bc301.png",
+        "league": "Serie A",
+        "homeTeam": "Manta",
+        "awayTeam": "Delfin",
+        "servers": [
+            {
+                "name": "ECDF LigaPro",
+                "channel": "ECDF LigaPro",
+                "url": "https://fltvhd.com/canal.php?stream=ecdf_ligapro",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lY2RmX2xpZ2Fwcm8="
+            }
+        ],
+        "id": 4
+    },
+    {
+        "datetime": "2026-07-15T00:00:00Z",
+        "flagUrl": "https://cdn.ftvhd.com/uploads/mlb_f5711cc440_dde64767e4.png",
+        "league": "Fútbol",
+        "homeTeam": "MLB – All Star Game – National League",
+        "awayTeam": "American League",
+        "servers": [
+            {
+                "name": "ESPN 2",
+                "channel": "ESPN 2",
+                "url": "https://fltvhd.com/online/canal.php?stream=even2",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbC5waHA/c3RyZWFtPWV2ZW4y"
+            }
+        ],
+        "id": 5
+    },
+    {
+        "datetime": "2026-07-15T00:00:00Z",
+        "flagUrl": "https://cdn.ftvhd.com/uploads/bolivia_png_81cfc9f71f.png",
+        "league": "Primera División",
+        "homeTeam": "Blooming",
+        "awayTeam": "Gualberto Villarroel SJ",
+        "servers": [
+            {
+                "name": "Entel TV PLUS+",
+                "channel": "Entel TV PLUS+",
+                "url": "https://fltvhd.com/online/canal.php?stream=even1",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbGVzLnBocD9zdHJlYW09ZXZlbjE="
+            }
+        ],
+        "id": 6
+    },
+    {
+        "datetime": "2026-07-15T01:00:00Z",
+        "flagUrl": "https://cdn.ftvhd.com/uploads/nba_b6210b97b6_06c9c65d5f.png",
+        "league": "Fútbol",
+        "homeTeam": "NBA Summer League – Oklahoma City Thunder",
+        "awayTeam": "Denver Nuggets",
+        "servers": [
+            {
+                "name": "ESPN 3",
+                "channel": "ESPN 3",
+                "url": "https://fltvhd.com/online/canal.php?stream=even3",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mbHR2aGQuY29tL29ubGluZS9jYW5hbC5waHA/c3RyZWFtPWV2ZW4z"
+            }
+        ],
+        "id": 7
     }
 ]
