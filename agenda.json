@@ -25,22 +25,70 @@
                 "iframe": "/embed/eventos?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2RpcmVjdHZwZXJ1Lmh0bWw="
             },
             {
+                "name": "TVE La 1  HD",
+                "channel": "TVE La 1  HD",
+                "url": "https://la16hd.com/la1tve.php",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE2aGQuY29tL2xhMXR2ZS5waHA="
+            },
+            {
+                "name": "Canal 5 MX",
+                "channel": "Canal 5 MX",
+                "url": "https://la16hd.com/canal5mx.php",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE2aGQuY29tL2NhbmFsNW14LnBocA=="
+            },
+            {
+                "name": "TUDN MX HD",
+                "channel": "TUDN MX HD",
+                "url": "https://la16hd.com/tudnmax.php",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE2aGQuY29tL3R1ZG5tYXgucGhw"
+            },
+            {
+                "name": "Disney+",
+                "channel": "Disney+",
+                "url": "https://la18hd.su/vivo/canal.php?stream=disney1",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE="
+            },
+            {
                 "name": "Dsports",
                 "channel": "Dsports",
-                "url": "https://la20hd.com/vivo/canal.php?stream=dsports",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTIwaGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1kc3BvcnRz"
+                "url": "https://la18hd.su/vivo/canal.php?stream=dsports",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRzcG9ydHM="
             },
             {
                 "name": "Dsports | OP2",
                 "channel": "Dsports | OP2",
-                "url": "https://la20hd.com/vivo/canal.php?stream=vtvplus",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTIwaGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT12dHZwbHVz"
+                "url": "https://la18hd.su/vivo/canal.php?stream=vtvplus",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXZ0dnBsdXM="
             },
             {
                 "name": "Telemundo",
                 "channel": "Telemundo",
-                "url": "https://la20hd.com/vivo/canal.php?stream=telemundo",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTIwaGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT10ZWxlbXVuZG8="
+                "url": "https://la18hd.su/vivo/canal.php?stream=telemundo",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXRlbGVtdW5kbw=="
+            },
+            {
+                "name": "America TV",
+                "channel": "America TV",
+                "url": "https://la20hd.com/vivo/canal.php?stream=americatv",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTIwaGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1hbWVyaWNhdHY="
+            },
+            {
+                "name": "America TV Movil",
+                "channel": "America TV Movil",
+                "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/americatv1.html",
+                "iframe": "/embed/eventos?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2FtZXJpY2F0djEuaHRtbA=="
+            },
+            {
+                "name": "Caracol TV",
+                "channel": "Caracol TV",
+                "url": "https://la20hd.com/vivo/canal.php?stream=caracol",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTIwaGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1jYXJhY29s"
+            },
+            {
+                "name": "Win Sports",
+                "channel": "Win Sports",
+                "url": "https://la18hd.su/vivo/canal.php?stream=winsports",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXdpbnNwb3J0cw=="
             }
         ],
         "id": 1
