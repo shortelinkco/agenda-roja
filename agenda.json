@@ -1,1 +1,34 @@
-[]
+[
+    {
+        "datetime": "2026-07-20T20:00:00Z",
+        "flagUrl": "https://img.agenda18.com/uploads/uruguay_e2b9597af8.png",
+        "league": "Primera División",
+        "homeTeam": "Torque",
+        "awayTeam": "Danubio",
+        "servers": [
+            {
+                "name": "Disney+",
+                "channel": "Disney+",
+                "url": "https://la18hd.su/vivo/canal.php?stream=disney1",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE="
+            }
+        ],
+        "id": 1
+    },
+    {
+        "datetime": "2026-07-20T23:00:00Z",
+        "flagUrl": "https://img.agenda18.com/uploads/uruguay_e2b9597af8.png",
+        "league": "Primera División",
+        "homeTeam": "Defensor Sporting",
+        "awayTeam": "Liverpool",
+        "servers": [
+            {
+                "name": "Disney+",
+                "channel": "Disney+",
+                "url": "https://la18hd.su/vivo/canal.php?stream=disney2",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTI="
+            }
+        ],
+        "id": 2
+    }
+]
