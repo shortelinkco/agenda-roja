@@ -15,7 +15,7 @@ import os
 FUENTES_AGENDA = [
     "https://agenda18.com/agenda.json",               # FUENTE PRINCIPAL (Pelota Libre)
     "https://la20hd.com/eventos/json/agenda123.json", # Respaldo 1
-    "https://futbollibres.net/js/agenda.js",                # Respaldo 2 (Fubolazo)
+    "https://ftvhd.com/diaries.json",                # Respaldo 2 (Fubolazo)
 ]
 
 API_BANDERAS = "https://agenda18.com/agenda.json"
