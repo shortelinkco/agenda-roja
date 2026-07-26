@@ -14,7 +14,7 @@ import os
 # Si funciona, se detiene ahí. Solo si falla, pasará a las siguientes.
 FUENTES_AGENDA = [
     "https://agenda18.com/agenda.json",               # FUENTE PRINCIPAL (Pelota Libre)
-    "https://la20hd.com/eventos/json/agenda123.json", # Respaldo 1
+    "https://la18hd.su//eventos/json/agenda123.json", # Respaldo 1
     "https://ftvhd.com/diaries.json",                # Respaldo 2 (Fubolazo)
 ]
 
