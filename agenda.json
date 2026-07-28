@@ -55,7 +55,7 @@
     },
     {
         "datetime": "2026-07-28T22:00:00Z",
-        "flagUrl": "https://img.agenda18.com/uploads/paraguay_fc9dd78de7.png",
+        "flagUrl": "https://img.agenda18.com/uploads/argentina_2bd748026e.png",
         "league": "Liga Profesional",
         "homeTeam": "San Lorenzo",
         "awayTeam": "Gimnasia Mendoza",
@@ -161,6 +161,12 @@
                 "channel": "Fanatiz06",
                 "url": "https://la18hd.su/vivo/canal.php?stream=fanatiz6",
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXo2"
+            },
+            {
+                "name": "Win Sports",
+                "channel": "Win Sports",
+                "url": "https://la18hd.su/vivo/canal.php?stream=winsports",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXdpbnNwb3J0cw=="
             }
         ],
         "id": 7
