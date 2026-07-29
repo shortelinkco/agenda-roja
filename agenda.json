@@ -1,21 +1,5 @@
 [
     {
-        "datetime": "2026-07-28T19:00:00Z",
-        "flagUrl": "https://img.agenda18.com/uploads/paraguay_fc9dd78de7.png",
-        "league": "Copa de Primera",
-        "homeTeam": "Rubio Ñú",
-        "awayTeam": "Sportivo Ameliano",
-        "servers": [
-            {
-                "name": "Fanatiz01",
-                "channel": "Fanatiz01",
-                "url": "https://la18hd.su/vivo/canal.php?stream=fanatiz1",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXox"
-            }
-        ],
-        "id": 1
-    },
-    {
         "datetime": "2026-07-28T21:00:00Z",
         "flagUrl": "https://img.agenda18.com/uploads/concacaf_liga_campeones_fad6673376.png",
         "league": "Campeonato Sub-20",
@@ -35,7 +19,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZveHNwb3J0czJfdXNh"
             }
         ],
-        "id": 2
+        "id": 1
     },
     {
         "datetime": "2026-07-28T21:30:00Z",
@@ -47,11 +31,11 @@
             {
                 "name": "Fanatiz02",
                 "channel": "Fanatiz02",
-                "url": "https://la14hd.com/vivo/canal.php?stream=fanatiz2",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE0aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1mYW5hdGl6Mg=="
+                "url": "https://la18hd.su/vivo/canal.php?stream=fanatiz2",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXoy"
             }
         ],
-        "id": 3
+        "id": 2
     },
     {
         "datetime": "2026-07-28T22:00:00Z",
@@ -77,6 +61,40 @@
                 "channel": "ESPN Premium Movil",
                 "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espnpremium2.html",
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG5wcmVtaXVtMi5odG1s"
+            }
+        ],
+        "id": 3
+    },
+    {
+        "datetime": "2026-07-28T22:00:00Z",
+        "flagUrl": "https://img.agenda18.com/uploads/image_modified_f8ce531f01.png",
+        "league": "Copa Sudamericana",
+        "homeTeam": "Tigre",
+        "awayTeam": "Nacional",
+        "servers": [
+            {
+                "name": "Dsports | OP2",
+                "channel": "Dsports | OP2",
+                "url": "https://la18hd.su/vivo/canal.php?stream=vtvplus",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXZ0dnBsdXM="
+            },
+            {
+                "name": "Fanatiz05",
+                "channel": "Fanatiz05",
+                "url": "https://la18hd.su/vivo/canal.php?stream=fanatiz5",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXo1"
+            },
+            {
+                "name": "Dsports",
+                "channel": "Dsports",
+                "url": "https://la18hd.su/vivo/canal.php?stream=dsports",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRzcG9ydHM="
+            },
+            {
+                "name": "Dsports Movil",
+                "channel": "Dsports Movil",
+                "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/directvperu.html",
+                "iframe": "/embed/eventos?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2RpcmVjdHZwZXJ1Lmh0bWw="
             }
         ],
         "id": 4
@@ -110,34 +128,6 @@
         "id": 5
     },
     {
-        "datetime": "2026-07-28T22:00:00Z",
-        "flagUrl": "https://img.agenda18.com/uploads/image_modified_f8ce531f01.png",
-        "league": "Copa Sudamericana",
-        "homeTeam": "Tigre",
-        "awayTeam": "Nacional",
-        "servers": [
-            {
-                "name": "Dsports",
-                "channel": "Dsports",
-                "url": "https://la18hd.su/vivo/canal.php?stream=dsports",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRzcG9ydHM="
-            },
-            {
-                "name": "Dsports | OP2",
-                "channel": "Dsports | OP2",
-                "url": "https://la18hd.su/vivo/canal.php?stream=vtvplus",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXZ0dnBsdXM="
-            },
-            {
-                "name": "Dsports Movil",
-                "channel": "Dsports Movil",
-                "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/directvperu.html",
-                "iframe": "/embed/eventos?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2RpcmVjdHZwZXJ1Lmh0bWw="
-            }
-        ],
-        "id": 6
-    },
-    {
         "datetime": "2026-07-28T23:15:00Z",
         "flagUrl": "https://img.agenda18.com/uploads/colombia_dcf9cc2637.png",
         "league": "Liga Colombia",
@@ -169,7 +159,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXdpbnNwb3J0cw=="
             }
         ],
-        "id": 7
+        "id": 6
     },
     {
         "datetime": "2026-07-29T00:00:00Z",
@@ -185,7 +175,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTI="
             }
         ],
-        "id": 8
+        "id": 7
     },
     {
         "datetime": "2026-07-29T00:15:00Z",
@@ -213,7 +203,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG5wcmVtaXVtMi5odG1s"
             }
         ],
-        "id": 9
+        "id": 8
     },
     {
         "datetime": "2026-07-29T00:15:00Z",
@@ -253,7 +243,7 @@
                 "iframe": "/embed/eventos?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2ZveGRlcG9ydGVzdHYuaHRtbA=="
             }
         ],
-        "id": 10
+        "id": 9
     },
     {
         "datetime": "2026-07-29T00:30:00Z",
@@ -287,7 +277,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4xX25s"
             }
         ],
-        "id": 11
+        "id": 10
     },
     {
         "datetime": "2026-07-29T01:30:00Z",
@@ -315,7 +305,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXoxMA=="
             }
         ],
-        "id": 12
+        "id": 11
     },
     {
         "datetime": "2026-07-29T02:00:00Z",
@@ -331,7 +321,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTY="
             }
         ],
-        "id": 13
+        "id": 12
     },
     {
         "datetime": "2026-07-29T02:00:00Z",
@@ -347,7 +337,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTc="
             }
         ],
-        "id": 14
+        "id": 13
     },
     {
         "datetime": "2026-07-29T02:00:00Z",
@@ -369,6 +359,6 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZveHNwb3J0czJfdXNh"
             }
         ],
-        "id": 15
+        "id": 14
     }
 ]
