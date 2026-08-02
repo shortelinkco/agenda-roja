@@ -16,22 +16,6 @@
         "id": 1
     },
     {
-        "datetime": "2026-08-02T15:00:00Z",
-        "flagUrl": "https://img.agenda18.com/uploads/uruguay_e2b9597af8.png",
-        "league": "Segunda División",
-        "homeTeam": "Atenas",
-        "awayTeam": "Deportivo Colonia",
-        "servers": [
-            {
-                "name": "Disney+",
-                "channel": "Disney+",
-                "url": "https://la18hd.su/vivo/canal.php?stream=disney2",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTI="
-            }
-        ],
-        "id": 2
-    },
-    {
         "datetime": "2026-08-02T16:00:00Z",
         "flagUrl": "https://img.agenda18.com/uploads/peru_ddc4e685cf.png",
         "league": "Liga 1",
@@ -51,7 +35,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2xpZ2FwZXJ1Lmh0bWw="
             }
         ],
-        "id": 3
+        "id": 2
     },
     {
         "datetime": "2026-08-02T16:00:00Z",
@@ -67,7 +51,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWNsYXJvc3BvcnRzMQ=="
             }
         ],
-        "id": 4
+        "id": 3
     },
     {
         "datetime": "2026-08-02T16:00:00Z",
@@ -107,7 +91,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lc3BucGx1czE="
             }
         ],
-        "id": 5
+        "id": 4
     },
     {
         "datetime": "2026-08-02T16:30:00Z",
@@ -129,7 +113,7 @@
                 "iframe": "/embed/eventos?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL3RudGNoaWxlLmh0bWw="
             }
         ],
-        "id": 6
+        "id": 5
     },
     {
         "datetime": "2026-08-02T17:30:00Z",
@@ -157,7 +141,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG5wcmVtaXVtMi5odG1s"
             }
         ],
-        "id": 7
+        "id": 6
     },
     {
         "datetime": "2026-08-02T17:30:00Z",
@@ -185,7 +169,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXoz"
             }
         ],
-        "id": 8
+        "id": 7
     },
     {
         "datetime": "2026-08-02T18:00:00Z",
@@ -201,7 +185,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTM="
             }
         ],
-        "id": 9
+        "id": 8
     },
     {
         "datetime": "2026-08-02T18:00:00Z",
@@ -217,7 +201,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTY="
             }
         ],
-        "id": 10
+        "id": 9
     },
     {
         "datetime": "2026-08-02T19:00:00Z",
@@ -233,7 +217,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWFtYXpvbl9wcmltZTE="
             }
         ],
-        "id": 11
+        "id": 10
     },
     {
         "datetime": "2026-08-02T19:00:00Z",
@@ -249,7 +233,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXo1"
             }
         ],
-        "id": 12
+        "id": 11
     },
     {
         "datetime": "2026-08-02T19:00:00Z",
@@ -271,7 +255,7 @@
                 "iframe": "/embed/eventos?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL3RudGNoaWxlLmh0bWw="
             }
         ],
-        "id": 13
+        "id": 12
     },
     {
         "datetime": "2026-08-02T20:00:00Z",
@@ -317,7 +301,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG5hcg=="
             }
         ],
-        "id": 14
+        "id": 13
     },
     {
         "datetime": "2026-08-02T20:00:00Z",
@@ -333,7 +317,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWNsYXJvc3BvcnRzMQ=="
             }
         ],
-        "id": 15
+        "id": 14
     },
     {
         "datetime": "2026-08-02T20:30:00Z",
@@ -355,7 +339,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2xpZ2FwZXJ1Lmh0bWw="
             }
         ],
-        "id": 16
+        "id": 15
     },
     {
         "datetime": "2026-08-02T20:45:00Z",
@@ -383,7 +367,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL3dpbnNwb3J0cy5odG1s"
             }
         ],
-        "id": 17
+        "id": 16
     },
     {
         "datetime": "2026-08-02T21:00:00Z",
@@ -399,7 +383,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWFtYXpvbl9wcmltZTE="
             }
         ],
-        "id": 18
+        "id": 17
     },
     {
         "datetime": "2026-08-02T21:30:00Z",
@@ -421,7 +405,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbGVzLnBocD9zdHJlYW09c3BvcnR2"
             }
         ],
-        "id": 19
+        "id": 18
     },
     {
         "datetime": "2026-08-02T21:30:00Z",
@@ -437,7 +421,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXo5"
             }
         ],
-        "id": 20
+        "id": 19
     },
     {
         "datetime": "2026-08-02T21:30:00Z",
@@ -459,7 +443,7 @@
                 "iframe": "/embed/eventos?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL3RudGNoaWxlLmh0bWw="
             }
         ],
-        "id": 21
+        "id": 20
     },
     {
         "datetime": "2026-08-02T22:15:00Z",
@@ -511,7 +495,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG5hcg=="
             }
         ],
-        "id": 22
+        "id": 21
     },
     {
         "datetime": "2026-08-02T22:30:00Z",
@@ -557,7 +541,7 @@
                 "iframe": "/embed/eventos?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2ZveGRlcG9ydGVzdHYuaHRtbA=="
             }
         ],
-        "id": 23
+        "id": 22
     },
     {
         "datetime": "2026-08-02T22:45:00Z",
@@ -591,7 +575,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXox"
             }
         ],
-        "id": 24
+        "id": 23
     },
     {
         "datetime": "2026-08-02T23:00:00Z",
@@ -613,7 +597,7 @@
                 "iframe": "/embed/eventos?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL3R1ZG51c2F0di5odG1s"
             }
         ],
-        "id": 25
+        "id": 24
     },
     {
         "datetime": "2026-08-02T23:30:00Z",
@@ -641,7 +625,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXoy"
             }
         ],
-        "id": 26
+        "id": 25
     },
     {
         "datetime": "2026-08-03T00:30:00Z",
@@ -669,7 +653,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXoz"
             }
         ],
-        "id": 27
+        "id": 26
     },
     {
         "datetime": "2026-08-03T01:00:00Z",
@@ -697,7 +681,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL3dpbnNwb3J0cy5odG1s"
             }
         ],
-        "id": 28
+        "id": 27
     },
     {
         "datetime": "2026-08-03T01:00:00Z",
@@ -719,6 +703,6 @@
                 "iframe": "/embed/eventos?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL3R1ZG51c2F0di5odG1s"
             }
         ],
-        "id": 29
+        "id": 28
     }
 ]
