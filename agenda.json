@@ -44,22 +44,6 @@
         "id": 2
     },
     {
-        "datetime": "2026-08-04T22:30:00Z",
-        "flagUrl": "https://img.agenda18.com/uploads/images_d754c79ab2.png",
-        "league": "Campeonato Sub-20 de la CONCACAF",
-        "homeTeam": "Costa Rica Sub-20",
-        "awayTeam": "Haití Sub-20",
-        "servers": [
-            {
-                "name": "Disney+",
-                "channel": "Disney+",
-                "url": "https://la18hd.su/vivo/canal.php?stream=disney1",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE="
-            }
-        ],
-        "id": 3
-    },
-    {
         "datetime": "2026-08-04T23:15:00Z",
         "flagUrl": "https://img.agenda18.com/uploads/colombia_dcf9cc2637.png",
         "league": "Liga Colombia",
@@ -85,7 +69,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL3dpbnNwb3J0cy5odG1s"
             }
         ],
-        "id": 4
+        "id": 3
     },
     {
         "datetime": "2026-08-04T23:15:00Z",
@@ -107,7 +91,7 @@
                 "iframe": "/embed/eventos?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL3RudGNoaWxlLmh0bWw="
             }
         ],
-        "id": 5
+        "id": 4
     },
     {
         "datetime": "2026-08-04T23:45:00Z",
@@ -123,7 +107,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPW1sczFlcw=="
             }
         ],
-        "id": 6
+        "id": 5
     },
     {
         "datetime": "2026-08-04T23:45:00Z",
@@ -139,7 +123,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPW1sczJlbg=="
             }
         ],
-        "id": 7
+        "id": 6
     },
     {
         "datetime": "2026-08-04T23:45:00Z",
@@ -155,7 +139,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPW1sczNlbg=="
             }
         ],
-        "id": 8
+        "id": 7
     },
     {
         "datetime": "2026-08-05T00:00:00Z",
@@ -171,6 +155,120 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTI="
             }
         ],
+        "id": 8
+    },
+    {
+        "datetime": "2026-08-05T00:30:00Z",
+        "flagUrl": "https://img.agenda18.com/uploads/estados_unidos_de_america_b400fc18c4.png",
+        "league": "Leagues Cup",
+        "homeTeam": "Minnesota United",
+        "awayTeam": "Juárez",
+        "servers": [
+            {
+                "name": "MLS04EN",
+                "channel": "MLS04EN",
+                "url": "https://la18hd.su/vivo/canal.php?stream=mls4en",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPW1sczRlbg=="
+            }
+        ],
         "id": 9
+    },
+    {
+        "datetime": "2026-08-05T01:00:00Z",
+        "flagUrl": "https://img.agenda18.com/uploads/colombia_dcf9cc2637.png",
+        "league": "Liga de Colombia",
+        "homeTeam": "Millonarios",
+        "awayTeam": "Deportivo Pasto",
+        "servers": [
+            {
+                "name": "Win Sports +",
+                "channel": "Win Sports +",
+                "url": "https://la18hd.su/vivo/canal.php?stream=winsportsplus",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXdpbnNwb3J0c3BsdXM="
+            },
+            {
+                "name": "Win Sports + HD",
+                "channel": "Win Sports + HD",
+                "url": "https://la18hd.su/vivo/canal.php?stream=winsports2",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXdpbnNwb3J0czI="
+            },
+            {
+                "name": "Win Sports + |  opc3",
+                "channel": "Win Sports + |  opc3",
+                "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/winsports.html",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL3dpbnNwb3J0cy5odG1s"
+            },
+            {
+                "name": "Fanatiz01",
+                "channel": "Fanatiz01",
+                "url": "https://la18hd.su/vivo/canal.php?stream=fanatiz1",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXox"
+            }
+        ],
+        "id": 10
+    },
+    {
+        "datetime": "2026-08-05T02:00:00Z",
+        "flagUrl": "https://img.agenda18.com/uploads/leagues_cup_f7b23c5e8d.png",
+        "league": "Leagues Cup",
+        "homeTeam": "Tigres UANL",
+        "awayTeam": "Real Salt Lake",
+        "servers": [
+            {
+                "name": "MLS04EN",
+                "channel": "MLS04EN",
+                "url": "https://la18hd.su/vivo/canal.php?stream=mls4en",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPW1sczRlbg=="
+            }
+        ],
+        "id": 11
+    },
+    {
+        "datetime": "2026-08-05T02:00:00Z",
+        "flagUrl": "https://img.agenda18.com/uploads/copa_centroamericana_59d23aa32c.png",
+        "league": "Copa Centroamericana de CONCACAF",
+        "homeTeam": "Antigua GFC",
+        "awayTeam": "Real Estelí",
+        "servers": [
+            {
+                "name": "Disney+",
+                "channel": "Disney+",
+                "url": "https://la18hd.su/vivo/canal.php?stream=disney4",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTQ="
+            }
+        ],
+        "id": 12
+    },
+    {
+        "datetime": "2026-08-05T02:00:00Z",
+        "flagUrl": "https://img.agenda18.com/uploads/copa_centroamericana_59d23aa32c.png",
+        "league": "Copa Centroamericana de CONCACAF",
+        "homeTeam": "Diriangén",
+        "awayTeam": "Alajuelense",
+        "servers": [
+            {
+                "name": "Disney+",
+                "channel": "Disney+",
+                "url": "https://la18hd.su/vivo/canal.php?stream=disney5",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTU="
+            }
+        ],
+        "id": 13
+    },
+    {
+        "datetime": "2026-08-05T02:30:00Z",
+        "flagUrl": "https://img.agenda18.com/uploads/kings_league_america_a4eaddaf7e.png",
+        "league": "Leagues Cup",
+        "homeTeam": "Vancouver Whitecaps",
+        "awayTeam": "Atlante",
+        "servers": [
+            {
+                "name": "MLS01ES",
+                "channel": "MLS01ES",
+                "url": "https://la18hd.su/vivo/canal.php?stream=mls1es",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPW1sczFlcw=="
+            }
+        ],
+        "id": 14
     }
 ]
