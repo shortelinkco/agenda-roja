@@ -1,37 +1,5 @@
 [
     {
-        "datetime": "2026-08-07T18:45:00Z",
-        "flagUrl": "https://img.agenda18.com/uploads/inglaterra_823176495f.png",
-        "league": "EFL Cup",
-        "homeTeam": "Wolverhampton Wanderers",
-        "awayTeam": "Port Vale",
-        "servers": [
-            {
-                "name": "Disney+",
-                "channel": "Disney+",
-                "url": "https://la18hd.su/vivo/canal.php?stream=disney2",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTI="
-            }
-        ],
-        "id": 1
-    },
-    {
-        "datetime": "2026-08-07T19:00:00Z",
-        "flagUrl": "https://img.agenda18.com/uploads/inglaterra_823176495f.png",
-        "league": "EFL Cup",
-        "homeTeam": "Middlesbrough",
-        "awayTeam": "Wrexham",
-        "servers": [
-            {
-                "name": "Disney+",
-                "channel": "Disney+",
-                "url": "https://la18hd.su/vivo/canal.php?stream=disney3",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTM="
-            }
-        ],
-        "id": 2
-    },
-    {
         "datetime": "2026-08-07T20:15:00Z",
         "flagUrl": "https://img.agenda18.com/uploads/peru_ddc4e685cf.png",
         "league": "Liga 1",
@@ -51,7 +19,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2xpZ2FwZXJ1Lmh0bWw="
             }
         ],
-        "id": 3
+        "id": 1
     },
     {
         "datetime": "2026-08-07T21:00:00Z",
@@ -67,7 +35,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXoz"
             }
         ],
-        "id": 4
+        "id": 2
     },
     {
         "datetime": "2026-08-07T22:00:00Z",
@@ -83,7 +51,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTQ="
             }
         ],
-        "id": 5
+        "id": 3
     },
     {
         "datetime": "2026-08-07T22:30:00Z",
@@ -111,7 +79,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXo0"
             }
         ],
-        "id": 6
+        "id": 4
     },
     {
         "datetime": "2026-08-07T23:30:00Z",
@@ -127,6 +95,31 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPW1sczFlcw=="
             }
         ],
+        "id": 5
+    },
+    {
+        "datetime": "2026-08-07T23:30:00Z",
+        "flagUrl": "https://img.agenda18.com/uploads/leagues_cup_f7b23c5e8d.png",
+        "league": "Leagues Cup",
+        "homeTeam": "Charlotte",
+        "awayTeam": "Atlas",
+        "servers": [
+            {
+                "name": "MLS02EN",
+                "channel": "MLS02EN",
+                "url": "https://la18hd.su/vivo/canal.php?stream=mls2en",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPW1sczJlbg=="
+            }
+        ],
+        "id": 6
+    },
+    {
+        "datetime": "2026-08-08T00:00:00Z",
+        "flagUrl": "https://img.agenda18.com/uploads/leagues_cup_f7b23c5e8d.png",
+        "league": "Leagues Cup",
+        "homeTeam": "Cincinnati",
+        "awayTeam": "Pumas UNAM",
+        "servers": [],
         "id": 7
     }
 ]
