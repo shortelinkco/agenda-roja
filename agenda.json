@@ -1,27 +1,5 @@
 [
     {
-        "datetime": "2026-08-07T20:15:00Z",
-        "flagUrl": "https://img.agenda18.com/uploads/peru_ddc4e685cf.png",
-        "league": "Liga 1",
-        "homeTeam": "Comerciantes Unidos",
-        "awayTeam": "Cusco",
-        "servers": [
-            {
-                "name": "Liga1max",
-                "channel": "Liga1max",
-                "url": "https://la18hd.su/vivo/canal.php?stream=liga1max",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWxpZ2ExbWF4"
-            },
-            {
-                "name": "Liga1max Movil",
-                "channel": "Liga1max Movil",
-                "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/ligaperu.html",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2xpZ2FwZXJ1Lmh0bWw="
-            }
-        ],
-        "id": 1
-    },
-    {
         "datetime": "2026-08-07T21:00:00Z",
         "flagUrl": "https://img.agenda18.com/uploads/paraguay_fc9dd78de7.png",
         "league": "Liga Paraguay",
@@ -35,7 +13,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXoz"
             }
         ],
-        "id": 2
+        "id": 1
     },
     {
         "datetime": "2026-08-07T22:00:00Z",
@@ -51,7 +29,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTQ="
             }
         ],
-        "id": 3
+        "id": 2
     },
     {
         "datetime": "2026-08-07T22:30:00Z",
@@ -79,7 +57,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXo0"
             }
         ],
-        "id": 4
+        "id": 3
     },
     {
         "datetime": "2026-08-07T23:30:00Z",
@@ -95,7 +73,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPW1sczFlcw=="
             }
         ],
-        "id": 5
+        "id": 4
     },
     {
         "datetime": "2026-08-07T23:30:00Z",
@@ -111,7 +89,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPW1sczJlbg=="
             }
         ],
-        "id": 6
+        "id": 5
     },
     {
         "datetime": "2026-08-08T00:00:00Z",
@@ -120,6 +98,6 @@
         "homeTeam": "Cincinnati",
         "awayTeam": "Pumas UNAM",
         "servers": [],
-        "id": 7
+        "id": 6
     }
 ]
