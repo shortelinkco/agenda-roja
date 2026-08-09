@@ -1,125 +1,5 @@
 [
     {
-        "datetime": "2026-08-08T20:30:00Z",
-        "flagUrl": "https://img.agenda18.com/uploads/peru_ddc4e685cf.png",
-        "league": "Liga 1",
-        "homeTeam": "Juan Pablo II College",
-        "awayTeam": "Atlético Grau",
-        "servers": [
-            {
-                "name": "Liga1max",
-                "channel": "Liga1max",
-                "url": "https://la18hd.su/vivo/canal.php?stream=liga1max",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWxpZ2ExbWF4"
-            },
-            {
-                "name": "Liga1max Movil",
-                "channel": "Liga1max Movil",
-                "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/ligaperu.html",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2xpZ2FwZXJ1Lmh0bWw="
-            }
-        ],
-        "id": 1
-    },
-    {
-        "datetime": "2026-08-08T21:20:00Z",
-        "flagUrl": "https://img.agenda18.com/uploads/colombia_dcf9cc2637.png",
-        "league": "Primera A",
-        "homeTeam": "Fortaleza CEIF",
-        "awayTeam": "Cúcuta Deportivo",
-        "servers": [
-            {
-                "name": "Win Sports",
-                "channel": "Win Sports",
-                "url": "https://la18hd.su/vivo/canal.php?stream=winsports",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXdpbnNwb3J0cw=="
-            },
-            {
-                "name": "Win Sports + HD",
-                "channel": "Win Sports + HD",
-                "url": "https://la18hd.su/vivo/canal.php?stream=winsports2",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXdpbnNwb3J0czI="
-            },
-            {
-                "name": "Win Sports + |  opc3",
-                "channel": "Win Sports + |  opc3",
-                "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/winsports.html",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL3dpbnNwb3J0cy5odG1s"
-            }
-        ],
-        "id": 2
-    },
-    {
-        "datetime": "2026-08-08T21:30:00Z",
-        "flagUrl": "https://img.agenda18.com/uploads/leagues_cup_f7b23c5e8d.png",
-        "league": "Leagues Cup",
-        "homeTeam": "New England",
-        "awayTeam": "Houston Dynamo",
-        "servers": [
-            {
-                "name": "MLS01ES",
-                "channel": "MLS01ES",
-                "url": "https://la18hd.su/vivo/canal.php?stream=mls1es",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPW1sczFlcw=="
-            }
-        ],
-        "id": 3
-    },
-    {
-        "datetime": "2026-08-08T21:30:00Z",
-        "flagUrl": "https://img.agenda18.com/uploads/chile_86c07a7b38.png",
-        "league": "Primera División",
-        "homeTeam": "Coquimbo Unido",
-        "awayTeam": "La Serena",
-        "servers": [
-            {
-                "name": "TNT Sports Premium CL",
-                "channel": "TNT Sports Premium CL",
-                "url": "https://la18hd.su/vivo/canal.php?stream=tntsportschile",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXRudHNwb3J0c2NoaWxl"
-            },
-            {
-                "name": "TNT Sports Premium CL Movil",
-                "channel": "TNT Sports Premium CL Movil",
-                "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/tntchile.html",
-                "iframe": "/embed/eventos?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL3RudGNoaWxlLmh0bWw="
-            }
-        ],
-        "id": 4
-    },
-    {
-        "datetime": "2026-08-08T21:30:00Z",
-        "flagUrl": "https://img.agenda18.com/uploads/uruguay_e2b9597af8.png",
-        "league": "Primera División",
-        "homeTeam": "Torque",
-        "awayTeam": "Peñarol",
-        "servers": [
-            {
-                "name": "Disney+",
-                "channel": "Disney+",
-                "url": "https://la18hd.su/vivo/canal.php?stream=disney13",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTEz"
-            }
-        ],
-        "id": 5
-    },
-    {
-        "datetime": "2026-08-08T21:30:00Z",
-        "flagUrl": "https://img.agenda18.com/uploads/brasil_25a533e5f7.png",
-        "league": "Brasileirão",
-        "homeTeam": "Remo",
-        "awayTeam": "Atlético Mineiro",
-        "servers": [
-            {
-                "name": "Premiere 2 BR ",
-                "channel": "Premiere 2 BR ",
-                "url": "https://la18hd.su/vivo/canal.php?stream=premiere2",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXByZW1pZXJlMg=="
-            }
-        ],
-        "id": 6
-    },
-    {
         "datetime": "2026-08-08T22:15:00Z",
         "flagUrl": "https://img.agenda18.com/uploads/argentina_2bd748026e.png",
         "league": "Liga Profesional",
@@ -163,7 +43,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXox"
             }
         ],
-        "id": 7
+        "id": 1
     },
     {
         "datetime": "2026-08-08T22:30:00Z",
@@ -179,7 +59,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPW1sczJlbg=="
             }
         ],
-        "id": 8
+        "id": 2
     },
     {
         "datetime": "2026-08-08T23:00:00Z",
@@ -207,7 +87,7 @@
                 "iframe": "/embed/eventos?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG5teC4xLmh0bWw="
             }
         ],
-        "id": 9
+        "id": 3
     },
     {
         "datetime": "2026-08-08T23:00:00Z",
@@ -223,7 +103,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXBhcmFtb3VudDE="
             }
         ],
-        "id": 10
+        "id": 4
     },
     {
         "datetime": "2026-08-08T23:25:00Z",
@@ -251,7 +131,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL3dpbnNwb3J0cy5odG1s"
             }
         ],
-        "id": 11
+        "id": 5
     },
     {
         "datetime": "2026-08-08T23:30:00Z",
@@ -273,7 +153,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXoz"
             }
         ],
-        "id": 12
+        "id": 6
     },
     {
         "datetime": "2026-08-09T00:00:00Z",
@@ -289,7 +169,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPW1sczNlbg=="
             }
         ],
-        "id": 13
+        "id": 7
     },
     {
         "datetime": "2026-08-09T00:00:00Z",
@@ -317,7 +197,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXByZW1pZXJlMQ=="
             }
         ],
-        "id": 14
+        "id": 8
     },
     {
         "datetime": "2026-08-09T00:30:00Z",
@@ -345,7 +225,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG5wcmVtaXVtMi5odG1s"
             }
         ],
-        "id": 15
+        "id": 9
     },
     {
         "datetime": "2026-08-09T00:30:00Z",
@@ -373,7 +253,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL3RudHNwb3J0czIuaHRtbA=="
             }
         ],
-        "id": 16
+        "id": 10
     },
     {
         "datetime": "2026-08-09T01:00:00Z",
@@ -395,7 +275,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2xpZ2FwZXJ1Lmh0bWw="
             }
         ],
-        "id": 17
+        "id": 11
     },
     {
         "datetime": "2026-08-09T01:00:00Z",
@@ -435,7 +315,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZveHNwb3J0czFfdXNh"
             }
         ],
-        "id": 18
+        "id": 12
     },
     {
         "datetime": "2026-08-09T01:30:00Z",
@@ -444,6 +324,6 @@
         "homeTeam": "Deportivo Pasto",
         "awayTeam": "Deportivo Cali",
         "servers": [],
-        "id": 19
+        "id": 13
     }
 ]
