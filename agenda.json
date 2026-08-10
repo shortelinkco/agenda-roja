@@ -76,6 +76,22 @@
         "id": 4
     },
     {
+        "datetime": "2026-08-10T21:30:00Z",
+        "flagUrl": "https://img.agenda18.com/uploads/ecuador_6b5e87e044.png",
+        "league": "Serie A de Ecuador",
+        "homeTeam": "Libertad",
+        "awayTeam": "Universidad Católica",
+        "servers": [
+            {
+                "name": "ECDF LigaPro",
+                "channel": "ECDF LigaPro",
+                "url": "https://la18hd.su/vivo/canal.php?stream=ecdf_ligapro",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVjZGZfbGlnYXBybw=="
+            }
+        ],
+        "id": 5
+    },
+    {
         "datetime": "2026-08-10T22:00:00Z",
         "flagUrl": "https://img.agenda18.com/uploads/argentina_2bd748026e.png",
         "league": "Liga Argentina",
@@ -101,7 +117,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL3RudHNwb3J0czIuaHRtbA=="
             }
         ],
-        "id": 5
+        "id": 6
     },
     {
         "datetime": "2026-08-10T22:00:00Z",
@@ -117,7 +133,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTI="
             }
         ],
-        "id": 6
+        "id": 7
     },
     {
         "datetime": "2026-08-10T23:00:00Z",
@@ -145,7 +161,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL3dpbnNwb3J0cy5odG1s"
             }
         ],
-        "id": 7
+        "id": 8
     },
     {
         "datetime": "2026-08-11T00:15:00Z",
@@ -173,7 +189,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXo1"
             }
         ],
-        "id": 8
+        "id": 9
     },
     {
         "datetime": "2026-08-11T01:00:00Z",
@@ -201,6 +217,6 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL3dpbnNwb3J0cy5odG1s"
             }
         ],
-        "id": 9
+        "id": 10
     }
 ]
