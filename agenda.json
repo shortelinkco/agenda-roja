@@ -1,52 +1,6 @@
 [
     {
         "datetime": "2026-08-11T22:00:00Z",
-        "flagUrl": "https://img.agenda18.com/uploads/copa_libertadores_f60faf808a.png",
-        "league": "Copa Libertadores",
-        "homeTeam": "Fluminense",
-        "awayTeam": "Independiente Rivadavia",
-        "servers": [
-            {
-                "name": "ESPN2",
-                "channel": "ESPN2",
-                "url": "https://la18hd.su/vivo/canal.php?stream=espn2",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4y"
-            },
-            {
-                "name": "Disney+",
-                "channel": "Disney+",
-                "url": "https://la18hd.su/vivo/canal.php?stream=disney1",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE="
-            },
-            {
-                "name": "ESPN2 Movil",
-                "channel": "ESPN2 Movil",
-                "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn2tv.html",
-                "iframe": "/embed/eventos?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG4ydHYuaHRtbA=="
-            },
-            {
-                "name": "Fox Sports ",
-                "channel": "Fox Sports ",
-                "url": "https://la18hd.su/vivo/canal.php?stream=foxsports",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZveHNwb3J0cw=="
-            },
-            {
-                "name": "ESPN3 MX",
-                "channel": "ESPN3 MX",
-                "url": "https://la18hd.su/vivo/canal.php?stream=espn3mx",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4zbXg="
-            },
-            {
-                "name": "Fanatiz01",
-                "channel": "Fanatiz01",
-                "url": "https://la18hd.su/vivo/canal.php?stream=fanatiz1",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXox"
-            }
-        ],
-        "id": 1
-    },
-    {
-        "datetime": "2026-08-11T22:00:00Z",
         "flagUrl": "https://img.agenda18.com/uploads/image_modified_f8ce531f01.png",
         "league": "Copa Sudamericana",
         "homeTeam": "Boca Juniors",
@@ -87,6 +41,52 @@
                 "channel": "Fanatiz02",
                 "url": "https://la18hd.su/vivo/canal.php?stream=fanatiz2",
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXoy"
+            }
+        ],
+        "id": 1
+    },
+    {
+        "datetime": "2026-08-11T22:00:00Z",
+        "flagUrl": "https://img.agenda18.com/uploads/copa_libertadores_f60faf808a.png",
+        "league": "Copa Libertadores",
+        "homeTeam": "Fluminense",
+        "awayTeam": "Independiente Rivadavia",
+        "servers": [
+            {
+                "name": "ESPN5",
+                "channel": "ESPN5",
+                "url": "https://la18hd.su/vivo/canal.php?stream=espn5",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG41"
+            },
+            {
+                "name": "Disney+",
+                "channel": "Disney+",
+                "url": "https://la18hd.su/vivo/canal.php?stream=disney1",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE="
+            },
+            {
+                "name": "ESPN5 Movil",
+                "channel": "ESPN5 Movil",
+                "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn5tv.html",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG41dHYuaHRtbA=="
+            },
+            {
+                "name": "Fox Sports ",
+                "channel": "Fox Sports ",
+                "url": "https://la18hd.su/vivo/canal.php?stream=foxsports",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZveHNwb3J0cw=="
+            },
+            {
+                "name": "ESPN3 MX",
+                "channel": "ESPN3 MX",
+                "url": "https://la18hd.su/vivo/canal.php?stream=espn3mx",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4zbXg="
+            },
+            {
+                "name": "Fanatiz01",
+                "channel": "Fanatiz01",
+                "url": "https://la18hd.su/vivo/canal.php?stream=fanatiz1",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXox"
             }
         ],
         "id": 2
@@ -188,5 +188,159 @@
             }
         ],
         "id": 7
+    },
+    {
+        "datetime": "2026-08-12T00:30:00Z",
+        "flagUrl": "https://img.agenda18.com/uploads/copa_libertadores_f60faf808a.png",
+        "league": "Copa Libertadores",
+        "homeTeam": "Estudiantes LP",
+        "awayTeam": "Universidad Católica",
+        "servers": [
+            {
+                "name": "ESPN",
+                "channel": "ESPN",
+                "url": "https://la18hd.su/vivo/canal.php?stream=espn",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4="
+            },
+            {
+                "name": "Disney+",
+                "channel": "Disney+",
+                "url": "https://la18hd.su/vivo/canal.php?stream=disney4",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTQ="
+            },
+            {
+                "name": "ESPN Movil",
+                "channel": "ESPN Movil",
+                "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn1tv.html",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG4xdHYuaHRtbA=="
+            },
+            {
+                "name": "Fox Sports ",
+                "channel": "Fox Sports ",
+                "url": "https://la18hd.su/vivo/canal.php?stream=foxsports",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZveHNwb3J0cw=="
+            },
+            {
+                "name": "Fanatiz04",
+                "channel": "Fanatiz04",
+                "url": "https://la18hd.su/vivo/canal.php?stream=fanatiz4",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXo0"
+            }
+        ],
+        "id": 8
+    },
+    {
+        "datetime": "2026-08-12T00:30:00Z",
+        "flagUrl": "https://img.agenda18.com/uploads/image_modified_f8ce531f01.png",
+        "league": "Copa Sudamericana",
+        "homeTeam": "Bolívar",
+        "awayTeam": "São Paulo",
+        "servers": [
+            {
+                "name": "Dsports ARG",
+                "channel": "Dsports ARG",
+                "url": "https://la18hd.su/vivo/canal.php?stream=dsports_eventos",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRzcG9ydHNfZXZlbnRvcw=="
+            },
+            {
+                "name": "Dsports HD",
+                "channel": "Dsports HD",
+                "url": "https://la16hd.com/dsportsar.php",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE2aGQuY29tL2RzcG9ydHNhci5waHA="
+            },
+            {
+                "name": "Dsports | OP2",
+                "channel": "Dsports | OP2",
+                "url": "https://la18hd.su/vivo/canal.php?stream=vtvplus",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXZ0dnBsdXM="
+            },
+            {
+                "name": "Fanatiz05",
+                "channel": "Fanatiz05",
+                "url": "https://la18hd.su/vivo/canal.php?stream=fanatiz5",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXo1"
+            }
+        ],
+        "id": 9
+    },
+    {
+        "datetime": "2026-08-12T00:30:00Z",
+        "flagUrl": "https://img.agenda18.com/uploads/leagues_cup_f7b23c5e8d.png",
+        "league": "Leagues Cup",
+        "homeTeam": "Minnesota United",
+        "awayTeam": "Atlante",
+        "servers": [
+            {
+                "name": "MLS04EN",
+                "channel": "MLS04EN",
+                "url": "https://la18hd.su/vivo/canal.php?stream=mls4en",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPW1sczRlbg=="
+            }
+        ],
+        "id": 10
+    },
+    {
+        "datetime": "2026-08-12T01:30:00Z",
+        "flagUrl": "https://img.agenda18.com/uploads/leagues_cup_f7b23c5e8d.png",
+        "league": "Leagues Cup",
+        "homeTeam": "Real Salt Lake",
+        "awayTeam": "Juárez",
+        "servers": [
+            {
+                "name": "MLS05EN",
+                "channel": "MLS05EN",
+                "url": "https://la18hd.su/vivo/canal.php?stream=mls5en",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPW1sczVlbg=="
+            }
+        ],
+        "id": 11
+    },
+    {
+        "datetime": "2026-08-12T02:00:00Z",
+        "flagUrl": "https://img.agenda18.com/uploads/leagues_cup_f7b23c5e8d.png",
+        "league": "Leagues Cup",
+        "homeTeam": "Tigres UANL",
+        "awayTeam": "Vancouver Whitecaps",
+        "servers": [
+            {
+                "name": "MLS06EN",
+                "channel": "MLS06EN",
+                "url": "https://la18hd.su/vivo/canal.php?stream=mls6en",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPW1sczZlbg=="
+            }
+        ],
+        "id": 12
+    },
+    {
+        "datetime": "2026-08-12T02:00:00Z",
+        "flagUrl": "https://img.agenda18.com/uploads/copa_centroamericana_59d23aa32c.png",
+        "league": "Copa Centroamericana de CONCACAF",
+        "homeTeam": "Deportivo Saprissa",
+        "awayTeam": "Mixco",
+        "servers": [
+            {
+                "name": "Disney+",
+                "channel": "Disney+",
+                "url": "https://la18hd.su/vivo/canal.php?stream=disney5",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTU="
+            }
+        ],
+        "id": 13
+    },
+    {
+        "datetime": "2026-08-12T02:00:00Z",
+        "flagUrl": "https://img.agenda18.com/uploads/copa_centroamericana_59d23aa32c.png",
+        "league": "Copa Centroamericana de CONCACAF",
+        "homeTeam": "Real Estelí",
+        "awayTeam": "Alianza",
+        "servers": [
+            {
+                "name": "Disney+",
+                "channel": "Disney+",
+                "url": "https://la18hd.su/vivo/canal.php?stream=disney6",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTY="
+            }
+        ],
+        "id": 14
     }
 ]
