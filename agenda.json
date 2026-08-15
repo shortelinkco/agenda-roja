@@ -1,37 +1,5 @@
 [
     {
-        "datetime": "2026-08-15T17:00:00Z",
-        "flagUrl": "https://img.agenda18.com/uploads/espana_a8510f9b5f.png",
-        "league": "LaLiga 2",
-        "homeTeam": "Real Oviedo",
-        "awayTeam": "Granada",
-        "servers": [
-            {
-                "name": "LaLiga TV Hypermotion",
-                "channel": "LaLiga TV Hypermotion",
-                "url": "https://la18hd.su/vivo/canal.php?stream=hypermotion1",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWh5cGVybW90aW9uMQ=="
-            }
-        ],
-        "id": 1
-    },
-    {
-        "datetime": "2026-08-15T17:00:00Z",
-        "flagUrl": "https://img.agenda18.com/uploads/espana_a8510f9b5f.png",
-        "league": "LaLiga 2",
-        "homeTeam": "Cádiz",
-        "awayTeam": "Celta de Vigo II",
-        "servers": [
-            {
-                "name": "LaLiga TV Hypermotion 3",
-                "channel": "LaLiga TV Hypermotion 3",
-                "url": "https://la18hd.su/vivo/canal.php?stream=hypermotion3",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWh5cGVybW90aW9uMw=="
-            }
-        ],
-        "id": 2
-    },
-    {
         "datetime": "2026-08-15T17:30:00Z",
         "flagUrl": "https://img.agenda18.com/uploads/amistosos_bbe2ec4c17.png",
         "league": "Amistoso",
@@ -51,7 +19,7 @@
                 "iframe": "/embed/eventos?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL3R5Y3Nwb3J0c2FyZy5odG1s"
             }
         ],
-        "id": 3
+        "id": 1
     },
     {
         "datetime": "2026-08-15T17:30:00Z",
@@ -91,7 +59,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG5kZXBvcnRlcw=="
             }
         ],
-        "id": 4
+        "id": 2
     },
     {
         "datetime": "2026-08-15T17:30:00Z",
@@ -119,7 +87,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXo0"
             }
         ],
-        "id": 5
+        "id": 3
     },
     {
         "datetime": "2026-08-15T17:30:00Z",
@@ -147,7 +115,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXoz"
             }
         ],
-        "id": 6
+        "id": 4
     },
     {
         "datetime": "2026-08-15T18:00:00Z",
@@ -169,7 +137,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG40bXg="
             }
         ],
-        "id": 7
+        "id": 5
     },
     {
         "datetime": "2026-08-15T18:00:00Z",
@@ -191,7 +159,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2xpZ2FwZXJ1Lmh0bWw="
             }
         ],
-        "id": 8
+        "id": 6
     },
     {
         "datetime": "2026-08-15T18:00:00Z",
@@ -219,7 +187,7 @@
                 "iframe": "/embed/eventos?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2ZveGRlcG9ydGVzdHYuaHRtbA=="
             }
         ],
-        "id": 9
+        "id": 7
     },
     {
         "datetime": "2026-08-15T18:30:00Z",
@@ -235,7 +203,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE0"
             }
         ],
-        "id": 10
+        "id": 8
     },
     {
         "datetime": "2026-08-15T18:45:00Z",
@@ -263,7 +231,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2RzcG9ydHNwbHVzLmh0bWw="
             }
         ],
-        "id": 11
+        "id": 9
     },
     {
         "datetime": "2026-08-15T19:00:00Z",
@@ -279,7 +247,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE1"
             }
         ],
-        "id": 12
+        "id": 10
     },
     {
         "datetime": "2026-08-15T19:00:00Z",
@@ -295,7 +263,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXo1"
             }
         ],
-        "id": 13
+        "id": 11
     },
     {
         "datetime": "2026-08-15T19:15:00Z",
@@ -323,7 +291,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRzcG9ydHNwbHVz"
             }
         ],
-        "id": 14
+        "id": 12
     },
     {
         "datetime": "2026-08-15T19:30:00Z",
@@ -339,7 +307,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE3"
             }
         ],
-        "id": 15
+        "id": 13
     },
     {
         "datetime": "2026-08-15T19:30:00Z",
@@ -379,7 +347,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXNreV9zcG9ydHNfbGFsaWdh"
             }
         ],
-        "id": 16
+        "id": 14
     },
     {
         "datetime": "2026-08-15T19:30:00Z",
@@ -401,7 +369,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXo3"
             }
         ],
-        "id": 17
+        "id": 15
     },
     {
         "datetime": "2026-08-15T19:30:00Z",
@@ -417,7 +385,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWh5cGVybW90aW9uMQ=="
             }
         ],
-        "id": 18
+        "id": 16
     },
     {
         "datetime": "2026-08-15T19:30:00Z",
@@ -463,7 +431,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXo2"
             }
         ],
-        "id": 19
+        "id": 17
     },
     {
         "datetime": "2026-08-15T19:45:00Z",
@@ -491,7 +459,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXo4"
             }
         ],
-        "id": 20
+        "id": 18
     },
     {
         "datetime": "2026-08-15T20:00:00Z",
@@ -507,7 +475,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXBhcmFtb3VudDE="
             }
         ],
-        "id": 21
+        "id": 19
     },
     {
         "datetime": "2026-08-15T20:30:00Z",
@@ -529,7 +497,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2xpZ2FwZXJ1Lmh0bWw="
             }
         ],
-        "id": 22
+        "id": 20
     },
     {
         "datetime": "2026-08-15T21:30:00Z",
@@ -545,7 +513,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXo5"
             }
         ],
-        "id": 23
+        "id": 21
     },
     {
         "datetime": "2026-08-15T21:30:00Z",
@@ -567,7 +535,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXoxMA=="
             }
         ],
-        "id": 24
+        "id": 22
     },
     {
         "datetime": "2026-08-15T21:30:00Z",
@@ -589,7 +557,7 @@
                 "iframe": "/embed/eventos?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL3RudGNoaWxlLmh0bWw="
             }
         ],
-        "id": 25
+        "id": 23
     },
     {
         "datetime": "2026-08-15T22:00:00Z",
@@ -605,7 +573,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE4"
             }
         ],
-        "id": 26
+        "id": 24
     },
     {
         "datetime": "2026-08-15T22:00:00Z",
@@ -627,7 +595,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG5wcmVtaXVtMi5odG1s"
             }
         ],
-        "id": 27
+        "id": 25
     },
     {
         "datetime": "2026-08-15T22:00:00Z",
@@ -649,7 +617,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL3RudHNwb3J0czIuaHRtbA=="
             }
         ],
-        "id": 28
+        "id": 26
     },
     {
         "datetime": "2026-08-15T23:30:00Z",
@@ -669,8 +637,38 @@
                 "channel": "Azteca 7 Movil",
                 "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/azteca7tv.html",
                 "iframe": "/embed/eventos?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2F6dGVjYTd0di5odG1s"
+            },
+            {
+                "name": "ESPN MX",
+                "channel": "ESPN MX",
+                "url": "https://la18hd.su/vivo/canal.php?stream=espnmx",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG5teA=="
+            },
+            {
+                "name": "ESPN MX MOVIL",
+                "channel": "ESPN MX MOVIL",
+                "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espnmx.1.html",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG5teC4xLmh0bWw="
+            },
+            {
+                "name": "TUDN USA",
+                "channel": "TUDN USA",
+                "url": "https://la18hd.su/vivo/canal.php?stream=tudn",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXR1ZG4="
+            },
+            {
+                "name": "TUDN USA Movil",
+                "channel": "TUDN USA Movil",
+                "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/tudnusatv.html",
+                "iframe": "/embed/eventos?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL3R1ZG51c2F0di5odG1s"
+            },
+            {
+                "name": "Univisión",
+                "channel": "Univisión",
+                "url": "https://la18hd.su/vivo/canal.php?stream=univision",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXVuaXZpc2lvbg=="
             }
         ],
-        "id": 29
+        "id": 27
     }
 ]
