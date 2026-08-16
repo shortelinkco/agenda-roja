@@ -8,6 +8,33 @@ import urllib.parse
 import os
 
 # ==========================================================
+# 1. PANEL DE CONFIGURACIÓN GENERAL (¡MODIFICA ESTO PARA CADA BOT!)
+# ==========================================================
+
+# 1.1 - Datos del Repositorio de GitHub
+REPO_GITHUB = "shortelinkco/agenda-roja" # Cambiar para cada bot (ej: mesias010194/bot-pirlotv)
+
+# 1.2 - Datos de Promoción en Telegram
+NOMBRE_MARCA = "Roja Directa Tv"
+DOMINIO_PRINCIPAL = "www.rojadirecta-tv.blog" # El que saldrá en el enlace del mensaje
+
+# 1.3 - Lista de Dominios para IndexNow
+# Agrega aquí todos los dominios que maneja ESTE bot específico.
+# Recuerda que debes crear la "página falsa" en Blogger para cada uno y obtener su Key.
+DOMINIOS_INDEXNOW = [
+    {
+        "host": "www.rojadirecta-tv.blog",
+        "key": "cefe0a48b3084451b0b9a4b994980d96",
+        "keyLocation": "https://www.rojadirecta-tv.blog/cefe0a48b3084451b0b9a4b994980d96"
+    },
+    {
+        "host": "www.rojadirecta-hd.site",
+        "key": "30e671de1eca4b5bb1c3c22f8ae10751", 
+        "keyLocation": "https://www.rojadirecta-hd.site/30e671de1eca4b5bb1c3c22f8ae10751"
+    }
+]
+
+# ==========================================================
 # 1. ENLACES Y RED DE RESPALDOS (FUENTES DE AGENDA)
 # ==========================================================
 # MODO "PRINCIPAL + RESPALDO": El bot intentará extraer de la primera fuente.
@@ -427,6 +454,44 @@ def actualizar_nube(datos):
     except Exception as e:
         print(f"[X] Error general en el proceso de guardado: {e}")
 
+# ==========================================================
+# CEREBRO INDEXNOW: PING AUTOMÁTICO AL BUSCADOR (MULTIDOMINIO)
+# ==========================================================
+def avisar_indexnow():
+    if not DOMINIOS_INDEXNOW:
+        return
+        
+    print("\n[*] Avisando a IndexNow (Bing/Yandex) para todos los dominios de este bot...")
+    url_api = "https://api.indexnow.org/indexnow"
+    headers = {"Content-Type": "application/json; charset=utf-8"}
+    
+    for sitio in DOMINIOS_INDEXNOW:
+        host = sitio.get("host")
+        key = sitio.get("key")
+        key_location = sitio.get("keyLocation")
+        
+        # Saltamos los que no ha llenado el usuario aún
+        if not host or not key or key == "PON_LA_CLAVE_AQUI":
+            continue
+            
+        payload = {
+            "host": host,
+            "key": key,
+            "keyLocation": key_location,
+            "urlList": [
+                f"https://{host}/"
+            ]
+        }
+        
+        try:
+            res = requests.post(url_api, json=payload, headers=headers, timeout=10)
+            if res.status_code in [200, 202]:
+                print(f"    [+] ¡Éxito! IndexNow notificado para: {host}")
+            else:
+                print(f"    [X] Error en {host}: {res.status_code} - {res.text}")
+        except Exception as e:
+            print(f"    [X] Error de conexión con IndexNow para {host}: {e}")
+
 if __name__ == "__main__":
     print("===================================================================")
     print("   BOT GITHUB ACTIONS: EJECUCIÓN AUTOMÁTICA (SITIO SATÉLITE)       ")
@@ -443,5 +508,5 @@ if __name__ == "__main__":
     actualizar_nube(datos)
     
     print("\n[i] El módulo de alertas por Telegram se ha desactivado intencionalmente para evitar spam.")
-        
+      avisar_indexnow()  
     print(f"\n[*] Escaneo finalizado a las: {datetime.now().strftime('%H:%M:%S')}.")
