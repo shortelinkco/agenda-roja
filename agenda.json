@@ -1,105 +1,5 @@
 [
     {
-        "datetime": "2026-08-16T00:15:00Z",
-        "flagUrl": "https://img.agenda18.com/uploads/argentina_2bd748026e.png",
-        "league": "Liga Profesional",
-        "homeTeam": "Platense",
-        "awayTeam": "Boca Juniors",
-        "servers": [
-            {
-                "name": "ESPN2",
-                "channel": "ESPN2",
-                "url": "https://la18hd.su/vivo/canal.php?stream=espn2",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4y"
-            },
-            {
-                "name": "Disney+",
-                "channel": "Disney+",
-                "url": "https://la18hd.su/vivo/canal.php?stream=disney19",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE5"
-            },
-            {
-                "name": "ESPN2 Movil",
-                "channel": "ESPN2 Movil",
-                "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn2tv.html",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG4ydHYuaHRtbA=="
-            },
-            {
-                "name": "ESPN Movil",
-                "channel": "ESPN Movil",
-                "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn1tv.html",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG4xdHYuaHRtbA=="
-            },
-            {
-                "name": "TNT Sports",
-                "channel": "TNT Sports",
-                "url": "https://la18hd.su/vivo/canal.php?stream=tntsports",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXRudHNwb3J0cw=="
-            },
-            {
-                "name": "TNT Sports Movil",
-                "channel": "TNT Sports Movil",
-                "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/tntsports2.html",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL3RudHNwb3J0czIuaHRtbA=="
-            }
-        ],
-        "id": 1
-    },
-    {
-        "datetime": "2026-08-16T00:30:00Z",
-        "flagUrl": "https://img.agenda18.com/uploads/peru_ddc4e685cf.png",
-        "league": "Liga 1",
-        "homeTeam": "Alianza Lima",
-        "awayTeam": "UTC Cajamarca",
-        "servers": [
-            {
-                "name": "Liga1max",
-                "channel": "Liga1max",
-                "url": "https://la18hd.su/vivo/canal.php?stream=liga1max",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWxpZ2ExbWF4"
-            },
-            {
-                "name": "Liga1max Movil",
-                "channel": "Liga1max Movil",
-                "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/ligaperu.html",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2xpZ2FwZXJ1Lmh0bWw="
-            }
-        ],
-        "id": 2
-    },
-    {
-        "datetime": "2026-08-16T00:30:00Z",
-        "flagUrl": "https://img.agenda18.com/uploads/estados_unidos_de_america_b400fc18c4.png",
-        "league": "MLS",
-        "homeTeam": "Nashville SC",
-        "awayTeam": "Inter Miami",
-        "servers": [
-            {
-                "name": "MLS07EN",
-                "channel": "MLS07EN",
-                "url": "https://la18hd.su/vivo/canal.php?stream=mls7en",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPW1sczdlbg=="
-            }
-        ],
-        "id": 3
-    },
-    {
-        "datetime": "2026-08-16T00:30:00Z",
-        "flagUrl": "https://img.agenda18.com/uploads/estados_unidos_de_america_b400fc18c4.png",
-        "league": "MLS",
-        "homeTeam": "Houston Dynamo",
-        "awayTeam": "LA Galaxy",
-        "servers": [
-            {
-                "name": "MLS06EN",
-                "channel": "MLS06EN",
-                "url": "https://la18hd.su/vivo/canal.php?stream=mls6en",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPW1sczZlbg=="
-            }
-        ],
-        "id": 4
-    },
-    {
         "datetime": "2026-08-16T01:00:00Z",
         "flagUrl": "https://img.agenda18.com/uploads/bandera_fbc29cb609.png",
         "league": "Liga de Expansión MX",
@@ -125,7 +25,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG5teC4xLmh0bWw="
             }
         ],
-        "id": 5
+        "id": 1
     },
     {
         "datetime": "2026-08-16T01:00:00Z",
@@ -159,7 +59,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXVuaXZpc2lvbg=="
             }
         ],
-        "id": 6
+        "id": 2
     },
     {
         "datetime": "2026-08-16T01:00:00Z",
@@ -175,7 +75,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXBhcmFtb3VudDE="
             }
         ],
-        "id": 7
+        "id": 3
     },
     {
         "datetime": "2026-08-16T03:10:00Z",
@@ -209,6 +109,6 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWNhbmFsNQ=="
             }
         ],
-        "id": 8
+        "id": 4
     }
 ]
