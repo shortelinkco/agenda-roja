@@ -510,5 +510,5 @@ if __name__ == "__main__":
     actualizar_nube(datos)
     
     print("\n[i] El módulo de alertas por Telegram se ha desactivado intencionalmente para evitar spam.")
-      avisar_indexnow()  
+    avisar_indexnow()  
     print(f"\n[*] Escaneo finalizado a las: {datetime.now().strftime('%H:%M:%S')}.")
