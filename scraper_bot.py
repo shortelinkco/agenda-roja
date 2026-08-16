@@ -17,6 +17,8 @@ REPO_GITHUB = "shortelinkco/agenda-roja" # Cambiar para cada bot (ej: mesias0101
 # 1.2 - Datos de Promoción en Telegram
 NOMBRE_MARCA = "Roja Directa Tv"
 DOMINIO_PRINCIPAL = "www.rojadirecta-tv.blog" # El que saldrá en el enlace del mensaje
+BOT_TOKEN_TELEGRAM = "8796529607:AAE9lP4H9pQUZMaSXAlCTgmEZ160SYhUono" 
+CANAL_ID_TELEGRAM = "@futbol_libre_tv_oficial" # Cambiar para Pirlo o RojaDirecta
 
 # 1.3 - Lista de Dominios para IndexNow
 # Agrega aquí todos los dominios que maneja ESTE bot específico.
