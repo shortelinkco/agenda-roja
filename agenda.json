@@ -1,37 +1,5 @@
 [
     {
-        "datetime": "2026-08-20T01:00:00Z",
-        "flagUrl": "https://img.agenda18.com/uploads/copa_centroamericana_59d23aa32c.png",
-        "league": "Copa Centroamericana de CONCACAF",
-        "homeTeam": "Marathón",
-        "awayTeam": "Alianza",
-        "servers": [
-            {
-                "name": "Disney+",
-                "channel": "Disney+",
-                "url": "https://la18hd.su/vivo/canal.php?stream=disney9",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTk="
-            }
-        ],
-        "id": 1
-    },
-    {
-        "datetime": "2026-08-20T01:00:00Z",
-        "flagUrl": "https://img.agenda18.com/uploads/copa_centroamericana_59d23aa32c.png",
-        "league": "Copa Centroamericana de CONCACAF",
-        "homeTeam": "Mixco",
-        "awayTeam": "UMECIT",
-        "servers": [
-            {
-                "name": "Disney+",
-                "channel": "Disney+",
-                "url": "https://la18hd.su/vivo/canal.php?stream=disney10",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTEw"
-            }
-        ],
-        "id": 2
-    },
-    {
         "datetime": "2026-08-20T02:00:00Z",
         "flagUrl": "https://img.agenda18.com/uploads/estados_unidos_de_america_b400fc18c4.png",
         "league": "MLS",
@@ -57,6 +25,6 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZveHNwb3J0czFfdXNh"
             }
         ],
-        "id": 3
+        "id": 1
     }
 ]
