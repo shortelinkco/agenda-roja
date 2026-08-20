@@ -1,135 +1,5 @@
 [
     {
-        "datetime": "2026-08-19T23:00:00Z",
-        "flagUrl": "https://img.agenda18.com/uploads/colombia_dcf9cc2637.png",
-        "league": "Liga BetPlay",
-        "homeTeam": "Cúcuta Deportivo",
-        "awayTeam": "Inter Bogotá",
-        "servers": [
-            {
-                "name": "Win Sports +",
-                "channel": "Win Sports +",
-                "url": "https://la18hd.su/vivo/canal.php?stream=winsportsplus",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXdpbnNwb3J0c3BsdXM="
-            },
-            {
-                "name": "Win Sports + HD",
-                "channel": "Win Sports + HD",
-                "url": "https://la18hd.su/vivo/canal.php?stream=winsports2",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXdpbnNwb3J0czI="
-            },
-            {
-                "name": "Win Sports + |  opc3",
-                "channel": "Win Sports + |  opc3",
-                "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/winsports.html",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL3dpbnNwb3J0cy5odG1s"
-            },
-            {
-                "name": "Fanatiz06",
-                "channel": "Fanatiz06",
-                "url": "https://la18hd.su/vivo/canal.php?stream=fanatiz6",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXo2"
-            }
-        ],
-        "id": 1
-    },
-    {
-        "datetime": "2026-08-19T23:30:00Z",
-        "flagUrl": "https://img.agenda18.com/uploads/estados_unidos_de_america_b400fc18c4.png",
-        "league": "MLS",
-        "homeTeam": "Philadelphia Union",
-        "awayTeam": "Inter Miami",
-        "servers": [
-            {
-                "name": "MLS01ES",
-                "channel": "MLS01ES",
-                "url": "https://la18hd.su/vivo/canal.php?stream=mls1es",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPW1sczFlcw=="
-            }
-        ],
-        "id": 2
-    },
-    {
-        "datetime": "2026-08-19T23:30:00Z",
-        "flagUrl": "https://img.agenda18.com/uploads/estados_unidos_de_america_b400fc18c4.png",
-        "league": "MLS",
-        "homeTeam": "Columbus Crew",
-        "awayTeam": "CF Montréal",
-        "servers": [
-            {
-                "name": "MLS02EN",
-                "channel": "MLS02EN",
-                "url": "https://la18hd.su/vivo/canal.php?stream=mls2en",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPW1sczJlbg=="
-            }
-        ],
-        "id": 3
-    },
-    {
-        "datetime": "2026-08-19T23:30:00Z",
-        "flagUrl": "https://img.agenda18.com/uploads/estados_unidos_de_america_b400fc18c4.png",
-        "league": "MLS",
-        "homeTeam": "Orlando City SC",
-        "awayTeam": "Chicago Fire",
-        "servers": [
-            {
-                "name": "MLS03EN",
-                "channel": "MLS03EN",
-                "url": "https://la18hd.su/vivo/canal.php?stream=mls3en",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPW1sczNlbg=="
-            }
-        ],
-        "id": 4
-    },
-    {
-        "datetime": "2026-08-19T23:30:00Z",
-        "flagUrl": "https://img.agenda18.com/uploads/estados_unidos_de_america_b400fc18c4.png",
-        "league": "MLS",
-        "homeTeam": "DC United",
-        "awayTeam": "New EnglandMLS: DC United",
-        "servers": [
-            {
-                "name": "MLB",
-                "channel": "MLB",
-                "url": "https://la18hd.su/vivo/canal.php?stream=mlb4",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPW1sYjQ="
-            }
-        ],
-        "id": 5
-    },
-    {
-        "datetime": "2026-08-19T23:30:00Z",
-        "flagUrl": "https://img.agenda18.com/uploads/estados_unidos_de_america_b400fc18c4.png",
-        "league": "MLS",
-        "homeTeam": "Cincinnati",
-        "awayTeam": "New York City",
-        "servers": [
-            {
-                "name": "MLB",
-                "channel": "MLB",
-                "url": "https://la18hd.su/vivo/canal.php?stream=mlb5",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPW1sYjU="
-            }
-        ],
-        "id": 6
-    },
-    {
-        "datetime": "2026-08-19T23:30:00Z",
-        "flagUrl": "https://img.agenda18.com/uploads/estados_unidos_de_america_b400fc18c4.png",
-        "league": "MLS",
-        "homeTeam": "New York RB",
-        "awayTeam": "Nashville SC",
-        "servers": [
-            {
-                "name": "MLB",
-                "channel": "MLB",
-                "url": "https://la18hd.su/vivo/canal.php?stream=mlb6",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPW1sYjY="
-            }
-        ],
-        "id": 7
-    },
-    {
         "datetime": "2026-08-20T00:00:00Z",
         "flagUrl": "https://img.agenda18.com/uploads/estados_unidos_de_america_b400fc18c4.png",
         "league": "MLS",
@@ -161,7 +31,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPW1sczhlbg=="
             }
         ],
-        "id": 8
+        "id": 1
     },
     {
         "datetime": "2026-08-20T00:30:00Z",
@@ -201,7 +71,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXo4"
             }
         ],
-        "id": 9
+        "id": 2
     },
     {
         "datetime": "2026-08-20T00:30:00Z",
@@ -229,7 +99,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXo3"
             }
         ],
-        "id": 10
+        "id": 3
     },
     {
         "datetime": "2026-08-20T00:30:00Z",
@@ -263,7 +133,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXo5"
             }
         ],
-        "id": 11
+        "id": 4
     },
     {
         "datetime": "2026-08-20T01:00:00Z",
@@ -279,7 +149,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTk="
             }
         ],
-        "id": 12
+        "id": 5
     },
     {
         "datetime": "2026-08-20T01:00:00Z",
@@ -295,7 +165,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTEw"
             }
         ],
-        "id": 13
+        "id": 6
     },
     {
         "datetime": "2026-08-20T02:00:00Z",
@@ -323,22 +193,6 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZveHNwb3J0czFfdXNh"
             }
         ],
-        "id": 14
-    },
-    {
-        "datetime": "2026-08-20T03:00:00Z",
-        "flagUrl": "https://img.agenda18.com/uploads/copa_centroamericana_59d23aa32c.png",
-        "league": "Copa Centroamericana de CONCACAF",
-        "homeTeam": "Mixco",
-        "awayTeam": "UMECIT",
-        "servers": [
-            {
-                "name": "Disney+",
-                "channel": "Disney+",
-                "url": "https://la18hd.su/vivo/canal.php?stream=disney11",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTEx"
-            }
-        ],
-        "id": 15
+        "id": 7
     }
 ]
