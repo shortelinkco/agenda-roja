@@ -156,6 +156,22 @@
     {
         "datetime": "2026-08-23T15:00:00Z",
         "flagUrl": "https://img.agenda18.com/uploads/espana_a8510f9b5f.png",
+        "league": "LaLiga 2",
+        "homeTeam": "Eibar",
+        "awayTeam": "Real Valladolid",
+        "servers": [
+            {
+                "name": "LaLiga TV Hypermotion",
+                "channel": "LaLiga TV Hypermotion",
+                "url": "https://la18hd.su/vivo/canal.php?stream=hypermotion1",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWh5cGVybW90aW9uMQ=="
+            }
+        ],
+        "id": 8
+    },
+    {
+        "datetime": "2026-08-23T15:00:00Z",
+        "flagUrl": "https://img.agenda18.com/uploads/espana_a8510f9b5f.png",
         "league": "LaLiga",
         "homeTeam": "Atlético Madrid",
         "awayTeam": "Villarreal",
@@ -183,28 +199,6 @@
                 "channel": "ESPN Deportes",
                 "url": "https://la18hd.su/vivo/canal.php?stream=espndeportes",
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG5kZXBvcnRlcw=="
-            },
-            {
-                "name": "Sky Sports LaLiga MX",
-                "channel": "Sky Sports LaLiga MX",
-                "url": "https://la18hd.su/vivo/canal.php?stream=sky_sports_laliga",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXNreV9zcG9ydHNfbGFsaWdh"
-            }
-        ],
-        "id": 8
-    },
-    {
-        "datetime": "2026-08-23T15:00:00Z",
-        "flagUrl": "https://img.agenda18.com/uploads/espana_a8510f9b5f.png",
-        "league": "LaLiga 2",
-        "homeTeam": "Eibar",
-        "awayTeam": "Real Valladolid",
-        "servers": [
-            {
-                "name": "LaLiga TV Hypermotion",
-                "channel": "LaLiga TV Hypermotion",
-                "url": "https://la18hd.su/vivo/canal.php?stream=hypermotion1",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWh5cGVybW90aW9uMQ=="
             }
         ],
         "id": 9
@@ -261,6 +255,12 @@
                 "channel": "Telemundo",
                 "url": "https://la18hd.su/vivo/canal.php?stream=telemundo",
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXRlbGVtdW5kbw=="
+            },
+            {
+                "name": "MAX",
+                "channel": "MAX",
+                "url": "https://la18hd.su/vivo/canal.php?stream=max1",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPW1heDE="
             }
         ],
         "id": 11
