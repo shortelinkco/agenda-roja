@@ -453,22 +453,28 @@
         "awayTeam": "Barcelona",
         "servers": [
             {
+                "name": "CazeTV",
+                "channel": "CazeTV",
+                "url": "https://la18hd.su/cazetv1.html",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3UvY2F6ZXR2MS5odG1s"
+            },
+            {
                 "name": "TSN3",
                 "channel": "TSN3",
                 "url": "https://la16hd.com/tsn3.php",
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE2aGQuY29tL3RzbjMucGhw"
             },
             {
+                "name": "Premier Sports",
+                "channel": "Premier Sports",
+                "url": "https://la18hd.su/premiersports1k.html",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3UvcHJlbWllcnNwb3J0czFrLmh0bWw="
+            },
+            {
                 "name": "ESPN",
                 "channel": "ESPN",
                 "url": "https://la18hd.su/vivo/canal.php?stream=espn",
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4="
-            },
-            {
-                "name": "Disney+",
-                "channel": "Disney+",
-                "url": "https://la18hd.su/vivo/canal.php?stream=disney1",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE="
             },
             {
                 "name": "ESPN Movil",
