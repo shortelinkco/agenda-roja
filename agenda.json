@@ -82,5 +82,53 @@
             }
         ],
         "id": 3
+    },
+    {
+        "datetime": "2026-08-25T18:00:00Z",
+        "flagUrl": "https://img.agenda18.com/uploads/inglaterra_823176495f.png",
+        "league": "EFL Cup",
+        "homeTeam": "Cardiff City",
+        "awayTeam": "Norwich City",
+        "servers": [
+            {
+                "name": "Paramount+",
+                "channel": "Paramount+",
+                "url": "https://la18hd.su/vivo/canal.php?stream=paramount2",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXBhcmFtb3VudDI="
+            }
+        ],
+        "id": 4
+    },
+    {
+        "datetime": "2026-08-25T18:45:00Z",
+        "flagUrl": "https://img.agenda18.com/uploads/inglaterra_823176495f.png",
+        "league": "EFL Cup",
+        "homeTeam": "Ipswich Town",
+        "awayTeam": "Leicester City",
+        "servers": [
+            {
+                "name": "Paramount+",
+                "channel": "Paramount+",
+                "url": "https://la18hd.su/vivo/canal.php?stream=paramount3",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXBhcmFtb3VudDM="
+            }
+        ],
+        "id": 5
+    },
+    {
+        "datetime": "2026-08-25T18:45:00Z",
+        "flagUrl": "https://img.agenda18.com/uploads/inglaterra_823176495f.png",
+        "league": "EFL Cup",
+        "homeTeam": "Southampton",
+        "awayTeam": "West Ham United",
+        "servers": [
+            {
+                "name": "Disney+",
+                "channel": "Disney+",
+                "url": "https://la18hd.su/vivo/canal.php?stream=disney2",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTI="
+            }
+        ],
+        "id": 6
     }
 ]
