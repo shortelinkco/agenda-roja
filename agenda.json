@@ -1,61 +1,5 @@
 [
     {
-        "datetime": "2026-08-26T00:30:00Z",
-        "flagUrl": "https://img.agenda18.com/uploads/copa_libertadores_f60faf808a.png",
-        "league": "Copa Libertadores",
-        "homeTeam": "Independiente del Valle",
-        "awayTeam": "Deportes Tolima",
-        "servers": [
-            {
-                "name": "ESPN",
-                "channel": "ESPN",
-                "url": "https://la18hd.su/vivo/canal.php?stream=espn",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4="
-            },
-            {
-                "name": "Disney+",
-                "channel": "Disney+",
-                "url": "https://la18hd.su/vivo/canal.php?stream=disney7",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTc="
-            },
-            {
-                "name": "ESPN Movil",
-                "channel": "ESPN Movil",
-                "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn1tv.html",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG4xdHYuaHRtbA=="
-            },
-            {
-                "name": "Fox Sports ",
-                "channel": "Fox Sports ",
-                "url": "https://la18hd.su/vivo/canal.php?stream=foxsports",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZveHNwb3J0cw=="
-            },
-            {
-                "name": "beIN Sports Ñ",
-                "channel": "beIN Sports Ñ",
-                "url": "https://la18hd.su/vivo/canal.php?stream=beinsportes",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWJlaW5zcG9ydGVz"
-            }
-        ],
-        "id": 1
-    },
-    {
-        "datetime": "2026-08-26T00:30:00Z",
-        "flagUrl": "https://img.agenda18.com/uploads/leagues_cup_f7b23c5e8d.png",
-        "league": "Leagues Cup",
-        "homeTeam": "Monterrey",
-        "awayTeam": "Chicago Fire",
-        "servers": [
-            {
-                "name": "MLS01ES",
-                "channel": "MLS01ES",
-                "url": "https://la18hd.su/vivo/canal.php?stream=mls1es",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPW1sczFlcw=="
-            }
-        ],
-        "id": 2
-    },
-    {
         "datetime": "2026-08-26T01:00:00Z",
         "flagUrl": "https://img.agenda18.com/uploads/colombia_dcf9cc2637.png",
         "league": "Liga BetPlay",
@@ -75,7 +19,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXo2"
             }
         ],
-        "id": 3
+        "id": 1
     },
     {
         "datetime": "2026-08-26T01:00:00Z",
@@ -109,7 +53,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXo3"
             }
         ],
-        "id": 4
+        "id": 2
     },
     {
         "datetime": "2026-08-26T02:30:00Z",
@@ -125,7 +69,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPW1sczJlbg=="
             }
         ],
-        "id": 5
+        "id": 3
     },
     {
         "datetime": "2026-08-26T02:30:00Z",
@@ -141,7 +85,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTg="
             }
         ],
-        "id": 6
+        "id": 4
     },
     {
         "datetime": "2026-08-26T02:30:00Z",
@@ -157,6 +101,6 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTk="
             }
         ],
-        "id": 7
+        "id": 5
     }
 ]
