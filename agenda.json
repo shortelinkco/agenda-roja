@@ -89,6 +89,12 @@
                 "channel": "FOX Deportes",
                 "url": "https://la18hd.su/vivo/canal.php?stream=foxdeportes",
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZveGRlcG9ydGVz"
+            },
+            {
+                "name": "FOX Deportes | Móvil",
+                "channel": "FOX Deportes | Móvil",
+                "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/foxdeportestv.html",
+                "iframe": "/embed/eventos?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2ZveGRlcG9ydGVzdHYuaHRtbA=="
             }
         ],
         "id": 4
