@@ -129,40 +129,6 @@
     },
     {
         "datetime": "2026-08-28T18:45:00Z",
-        "flagUrl": "https://img.agenda18.com/uploads/francia_e9d1a8ab33.png",
-        "league": "Ligue 1",
-        "homeTeam": "Lille",
-        "awayTeam": "PSG",
-        "servers": [
-            {
-                "name": "ESPN3",
-                "channel": "ESPN3",
-                "url": "https://la18hd.su/vivo/canal.php?stream=espn3",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4z"
-            },
-            {
-                "name": "Disney+",
-                "channel": "Disney+",
-                "url": "https://la18hd.su/vivo/canal.php?stream=disney5",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTU="
-            },
-            {
-                "name": "ESPN3 Movil",
-                "channel": "ESPN3 Movil",
-                "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn3tv.html",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG4zdHYuaHRtbA=="
-            },
-            {
-                "name": "beIN Sports Ñ",
-                "channel": "beIN Sports Ñ",
-                "url": "https://la18hd.su/vivo/canal.php?stream=beinsportes",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWJlaW5zcG9ydGVz"
-            }
-        ],
-        "id": 6
-    },
-    {
-        "datetime": "2026-08-28T18:45:00Z",
         "flagUrl": "https://img.agenda18.com/uploads/italia_cb19445d70.png",
         "league": "Serie A",
         "homeTeam": "Milan",
@@ -197,6 +163,22 @@
                 "channel": "Universo",
                 "url": "https://la18hd.su/vivo/canal.php?stream=universo",
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXVuaXZlcnNv"
+            }
+        ],
+        "id": 6
+    },
+    {
+        "datetime": "2026-08-28T18:45:00Z",
+        "flagUrl": "https://img.agenda18.com/uploads/francia_e9d1a8ab33.png",
+        "league": "Ligue 1",
+        "homeTeam": "Lille",
+        "awayTeam": "PSG",
+        "servers": [
+            {
+                "name": "Disney+",
+                "channel": "Disney+",
+                "url": "https://la18hd.su/vivo/canal.php?stream=disney5",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTU="
             }
         ],
         "id": 7
