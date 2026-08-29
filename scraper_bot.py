@@ -44,7 +44,7 @@ DOMINIOS_INDEXNOW = [
 FUENTES_AGENDA = [
     "https://agenda18.com/agenda.json",               # FUENTE PRINCIPAL (Pelota Libre)
     "https://la18hd.su//eventos/json/agenda123.json", # Respaldo 1
-    "https://ftvhd.com/diaries.json",                # Respaldo 2 (Fubolazo)
+    "https://futbollibretv.org.pe/diaries.json?v",                # Respaldo 2 (Fubolazo)
 ]
 
 API_BANDERAS = "https://agenda18.com/agenda.json"
