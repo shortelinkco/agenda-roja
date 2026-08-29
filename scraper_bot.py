@@ -42,9 +42,9 @@ DOMINIOS_INDEXNOW = [
 # MODO "PRINCIPAL + RESPALDO": El bot intentará extraer de la primera fuente.
 # Si funciona, se detiene ahí. Solo si falla, pasará a las siguientes.
 FUENTES_AGENDA = [
-    "https://agenda18.com/agenda.json",               # FUENTE PRINCIPAL (Pelota Libre)
+    "https://futbollibretv.org.pe/diaries.json?v",               # FUENTE PRINCIPAL (Pelota Libre)
     "https://la18hd.su//eventos/json/agenda123.json", # Respaldo 1
-    "https://futbollibretv.org.pe/diaries.json?v",                # Respaldo 2 (Fubolazo)
+    "https://agenda18.com/agenda.json",                # Respaldo 2 (Fubolazo)
 ]
 
 API_BANDERAS = "https://agenda18.com/agenda.json"
