@@ -1,109 +1,5 @@
 [
     {
-        "datetime": "2026-08-29T19:00:00Z",
-        "flagUrl": "https://futbollibretv.org.pe/uploads/paraguay_fc9dd78de7_fda39878d0.png",
-        "league": "Primera División",
-        "homeTeam": "Sportivo Trinidense",
-        "awayTeam": "2 de Mayo",
-        "servers": [
-            {
-                "name": "fanatiz 05",
-                "channel": "fanatiz 05",
-                "url": "https://tvf90.com/1.php?stream=fanatiz5",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZhbmF0aXo1"
-            }
-        ],
-        "id": 1
-    },
-    {
-        "datetime": "2026-08-29T19:00:00Z",
-        "flagUrl": "https://futbollibretv.org.pe/uploads/uruguay_e2b9597af8_6abda609fb.png",
-        "league": "Segunda División",
-        "homeTeam": "Huracán",
-        "awayTeam": "Cerrito",
-        "servers": [
-            {
-                "name": "Disney+",
-                "channel": "Disney+",
-                "url": "https://tvf90.com/1.php?stream=disney14",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTE0"
-            }
-        ],
-        "id": 2
-    },
-    {
-        "datetime": "2026-08-29T19:00:00Z",
-        "flagUrl": "https://futbollibretv.org.pe/uploads/bolivia_png_81cfc9f71f.png",
-        "league": "Copa de la División Profesional",
-        "homeTeam": "Gualberto Villarroel SJ",
-        "awayTeam": "Real Oruro",
-        "servers": [
-            {
-                "name": "Entel TV PLUS+",
-                "channel": "Entel TV PLUS+",
-                "url": "https://tvf90.com/1.php?stream=even1",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWV2ZW4x"
-            }
-        ],
-        "id": 3
-    },
-    {
-        "datetime": "2026-08-29T19:00:00Z",
-        "flagUrl": "https://futbollibretv.org.pe/uploads/chile_86c07a7b38_fad5126fd0.png",
-        "league": "Primera B",
-        "homeTeam": "Santiago Wanderers",
-        "awayTeam": "Magallanes",
-        "servers": [
-            {
-                "name": "TNT Sports Premiun CL HD",
-                "channel": "TNT Sports Premiun CL HD",
-                "url": "https://tvf90.com/hd.php?stream=tntsportschile",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT10bnRzcG9ydHNjaGlsZQ=="
-            },
-            {
-                "name": "TNT Sports Premiun CL",
-                "channel": "TNT Sports Premiun CL",
-                "url": "https://tvf90.com/1.php?stream=tntsportschile",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXRudHNwb3J0c2NoaWxl"
-            },
-            {
-                "name": "TNT Sports Premiun CL OP2",
-                "channel": "TNT Sports Premiun CL OP2",
-                "url": "https://tvf90.com/2.php?stream=tntsportschile",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXRudHNwb3J0c2NoaWxl"
-            }
-        ],
-        "id": 4
-    },
-    {
-        "datetime": "2026-08-29T19:00:00Z",
-        "flagUrl": "https://futbollibretv.org.pe/uploads/paises_bajos_f773e994b9_3bb0d207d2.png",
-        "league": "Eredivisie",
-        "homeTeam": "PEC Zwolle",
-        "awayTeam": "NEC",
-        "servers": [
-            {
-                "name": "ESPN NL ",
-                "channel": "ESPN NL ",
-                "url": "https://tvf90.com/1.php?stream=espn1_nl",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4xX25s"
-            },
-            {
-                "name": "ESPN NL | OP2",
-                "channel": "ESPN NL | OP2",
-                "url": "https://tvf90.com/2.php?stream=espn1_nl",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG4xX25s"
-            },
-            {
-                "name": "ESPN NL | OP3",
-                "channel": "ESPN NL | OP3",
-                "url": "https://tvf90.com/3.php?stream=espn1_nl",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4xX25s"
-            }
-        ],
-        "id": 5
-    },
-    {
         "datetime": "2026-08-29T19:30:00Z",
         "flagUrl": "https://futbollibretv.org.pe/uploads/espana_a8510f9b5f_9213b1e460.png",
         "league": "LaLiga",
@@ -159,7 +55,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG5wbHVzMw=="
             }
         ],
-        "id": 6
+        "id": 1
     },
     {
         "datetime": "2026-08-29T19:30:00Z",
@@ -168,7 +64,7 @@
         "homeTeam": "Grêmio",
         "awayTeam": "São Paulo",
         "servers": [],
-        "id": 7
+        "id": 2
     },
     {
         "datetime": "2026-08-29T19:30:00Z",
@@ -184,7 +80,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWh5cGVybW90aW9uMQ=="
             }
         ],
-        "id": 8
+        "id": 3
     },
     {
         "datetime": "2026-08-29T19:30:00Z",
@@ -200,7 +96,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXNwb3J0djI="
             }
         ],
-        "id": 9
+        "id": 4
     },
     {
         "datetime": "2026-08-29T20:00:00Z",
@@ -216,7 +112,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTE="
             }
         ],
-        "id": 10
+        "id": 5
     },
     {
         "datetime": "2026-08-29T20:00:00Z",
@@ -256,7 +152,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZhbmF0aXo2"
             }
         ],
-        "id": 11
+        "id": 6
     },
     {
         "datetime": "2026-08-29T20:00:00Z",
@@ -272,7 +168,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTE1"
             }
         ],
-        "id": 12
+        "id": 7
     },
     {
         "datetime": "2026-08-29T20:30:00Z",
@@ -306,7 +202,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWxpZ2ExbWF4"
             }
         ],
-        "id": 13
+        "id": 8
     },
     {
         "datetime": "2026-08-29T20:30:00Z",
@@ -322,7 +218,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09bWxzMWVz"
             }
         ],
-        "id": 14
+        "id": 9
     },
     {
         "datetime": "2026-08-29T21:00:00Z",
@@ -374,7 +270,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVjZGY="
             }
         ],
-        "id": 15
+        "id": 10
     },
     {
         "datetime": "2026-08-29T21:15:00Z",
@@ -390,7 +286,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWV2ZW4x"
             }
         ],
-        "id": 16
+        "id": 11
     },
     {
         "datetime": "2026-08-29T21:25:00Z",
@@ -424,7 +320,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPXdpbnNwb3J0czI="
             }
         ],
-        "id": 17
+        "id": 12
     },
     {
         "datetime": "2026-08-29T21:30:00Z",
@@ -452,7 +348,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXRudHNwb3J0c2NoaWxl"
             }
         ],
-        "id": 18
+        "id": 13
     },
     {
         "datetime": "2026-08-29T21:30:00Z",
@@ -468,7 +364,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09ZXZlbjY="
             }
         ],
-        "id": 19
+        "id": 14
     },
     {
         "datetime": "2026-08-29T21:30:00Z",
@@ -484,7 +380,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZhbmF0aXo5"
             }
         ],
-        "id": 20
+        "id": 15
     },
     {
         "datetime": "2026-08-29T21:30:00Z",
@@ -512,7 +408,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZhbmF0aXoxMA=="
             }
         ],
-        "id": 21
+        "id": 16
     },
     {
         "datetime": "2026-08-29T22:00:00Z",
@@ -546,7 +442,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXRudHNwb3J0cw=="
             }
         ],
-        "id": 22
+        "id": 17
     },
     {
         "datetime": "2026-08-29T22:00:00Z",
@@ -562,7 +458,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4zbXg="
             }
         ],
-        "id": 23
+        "id": 18
     },
     {
         "datetime": "2026-08-29T22:00:00Z",
@@ -578,7 +474,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTE2"
             }
         ],
-        "id": 24
+        "id": 19
     },
     {
         "datetime": "2026-08-29T23:00:00Z",
@@ -612,7 +508,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXByZW1pZXJlMQ=="
             }
         ],
-        "id": 25
+        "id": 20
     },
     {
         "datetime": "2026-08-29T23:00:00Z",
@@ -628,7 +524,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWV2ZW50b3M="
             }
         ],
-        "id": 26
+        "id": 21
     },
     {
         "datetime": "2026-08-29T23:00:00Z",
@@ -637,7 +533,7 @@
         "homeTeam": "Atlas",
         "awayTeam": "Querétaro",
         "servers": [],
-        "id": 27
+        "id": 22
     },
     {
         "datetime": "2026-08-29T23:00:00Z",
@@ -677,7 +573,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09dW5pdmlzaW9u"
             }
         ],
-        "id": 28
+        "id": 23
     },
     {
         "datetime": "2026-08-29T23:30:00Z",
@@ -711,7 +607,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPXdpbnNwb3J0czI="
             }
         ],
-        "id": 29
+        "id": 24
     },
     {
         "datetime": "2026-08-29T23:30:00Z",
@@ -733,7 +629,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8yLnBocD9zdHJlYW09bWxzMmVu"
             }
         ],
-        "id": 30
+        "id": 25
     },
     {
         "datetime": "2026-08-30T00:00:00Z",
@@ -761,7 +657,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXRudHNwb3J0c2NoaWxl"
             }
         ],
-        "id": 31
+        "id": 26
     },
     {
         "datetime": "2026-08-30T00:00:00Z",
@@ -813,7 +709,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVjZGY="
             }
         ],
-        "id": 32
+        "id": 27
     },
     {
         "datetime": "2026-08-30T00:00:00Z",
@@ -829,7 +725,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09ZXZlbjY="
             }
         ],
-        "id": 33
+        "id": 28
     },
     {
         "datetime": "2026-08-30T00:00:00Z",
@@ -863,7 +759,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4y"
             }
         ],
-        "id": 34
+        "id": 29
     },
     {
         "datetime": "2026-08-30T00:20:00Z",
@@ -885,7 +781,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXByZW1pZXJlMg=="
             }
         ],
-        "id": 35
+        "id": 30
     },
     {
         "datetime": "2026-08-30T00:30:00Z",
@@ -949,7 +845,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZhbmF0aXoy"
             }
         ],
-        "id": 36
+        "id": 31
     },
     {
         "datetime": "2026-08-30T00:30:00Z",
@@ -983,7 +879,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWxpZ2ExbWF4"
             }
         ],
-        "id": 37
+        "id": 32
     },
     {
         "datetime": "2026-08-30T00:30:00Z",
@@ -1023,7 +919,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZhbmF0aXox"
             }
         ],
-        "id": 38
+        "id": 33
     },
     {
         "datetime": "2026-08-30T01:05:00Z",
@@ -1069,7 +965,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09dW5pdmlzaW9u"
             }
         ],
-        "id": 39
+        "id": 34
     },
     {
         "datetime": "2026-08-30T01:30:00Z",
@@ -1103,7 +999,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPXdpbnNwb3J0czI="
             }
         ],
-        "id": 40
+        "id": 35
     },
     {
         "datetime": "2026-08-30T02:00:00Z",
@@ -1119,7 +1015,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09ZnV0dg=="
             }
         ],
-        "id": 41
+        "id": 36
     },
     {
         "datetime": "2026-08-30T03:10:00Z",
@@ -1189,7 +1085,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG5teA=="
             }
         ],
-        "id": 42
+        "id": 37
     },
     {
         "datetime": "2026-08-30T03:10:00Z",
@@ -1223,6 +1119,6 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWZveGRlcG9ydGVz"
             }
         ],
-        "id": 43
+        "id": 38
     }
 ]
