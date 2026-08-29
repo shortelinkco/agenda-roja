@@ -1,145 +1,5 @@
 [
     {
-        "datetime": "2026-08-29T18:45:00Z",
-        "flagUrl": "https://futbollibretv.org.pe/uploads/bandera_francia_9e29308ee7.png",
-        "league": "Ligue 1",
-        "homeTeam": "Lorient",
-        "awayTeam": "Troyes",
-        "servers": [
-            {
-                "name": "Disney+",
-                "channel": "Disney+",
-                "url": "https://tvf90.com/1.php?stream=disney12",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTEy"
-            }
-        ],
-        "id": 1
-    },
-    {
-        "datetime": "2026-08-29T18:45:00Z",
-        "flagUrl": "https://futbollibretv.org.pe/uploads/bandera_francia_9e29308ee7.png",
-        "league": "Ligue 1",
-        "homeTeam": "Brest",
-        "awayTeam": "Toulouse",
-        "servers": [
-            {
-                "name": "Disney+",
-                "channel": "Disney+",
-                "url": "https://tvf90.com/1.php?stream=disney10",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTEw"
-            },
-            {
-                "name": "BeIN Sports EXTRA Español",
-                "channel": "BeIN Sports EXTRA Español",
-                "url": "https://tvf90.com/1.php?stream=beinsportsxtra",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWJlaW5zcG9ydHN4dHJh"
-            }
-        ],
-        "id": 2
-    },
-    {
-        "datetime": "2026-08-29T18:45:00Z",
-        "flagUrl": "https://futbollibretv.org.pe/uploads/italia_cb19445d70_41852551f1.png",
-        "league": "Serie A",
-        "homeTeam": "Juventus",
-        "awayTeam": "Parma",
-        "servers": [
-            {
-                "name": "ESPN",
-                "channel": "ESPN",
-                "url": "https://tvf90.com/1.php?stream=espn",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4="
-            },
-            {
-                "name": "ESPN AR┃OP2",
-                "channel": "ESPN AR┃OP2",
-                "url": "https://tvf90.com/2.php?stream=espn",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG4="
-            },
-            {
-                "name": "ESPN AR┃OP3",
-                "channel": "ESPN AR┃OP3",
-                "url": "https://tvf90.com/3.php?stream=espn",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4="
-            },
-            {
-                "name": "Disney+",
-                "channel": "Disney+",
-                "url": "https://tvf90.com/1.php?stream=disney8",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTg="
-            },
-            {
-                "name": "ESPN MX | HD",
-                "channel": "ESPN MX | HD",
-                "url": "https://tvf90.com/hd.php?stream=espnmx",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BubXg="
-            },
-            {
-                "name": "ESPN MX",
-                "channel": "ESPN MX",
-                "url": "https://tvf90.com/1.php?stream=espnmx",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG5teA=="
-            },
-            {
-                "name": "ESPN MX | OP2",
-                "channel": "ESPN MX | OP2",
-                "url": "https://tvf90.com/2.php?stream=espnmx",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG5teA=="
-            },
-            {
-                "name": "ESPN MX | OP3",
-                "channel": "ESPN MX | OP3",
-                "url": "https://tvf90.com/3.php?stream=espnmx",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG5teA=="
-            },
-            {
-                "name": "Telemundo | HD",
-                "channel": "Telemundo | HD",
-                "url": "https://tvf90.com/hd.php?stream=telemundo",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT10ZWxlbXVuZG8="
-            },
-            {
-                "name": "Telemundo",
-                "channel": "Telemundo",
-                "url": "https://tvf90.com/1.php?stream=telemundo",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXRlbGVtdW5kbw=="
-            }
-        ],
-        "id": 3
-    },
-    {
-        "datetime": "2026-08-29T18:45:00Z",
-        "flagUrl": "https://futbollibretv.org.pe/uploads/bandera_francia_9e29308ee7.png",
-        "league": "Ligue 1",
-        "homeTeam": "Auxerre",
-        "awayTeam": "Angers SCO",
-        "servers": [
-            {
-                "name": "Disney+",
-                "channel": "Disney+",
-                "url": "https://tvf90.com/1.php?stream=disney9",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTk="
-            }
-        ],
-        "id": 4
-    },
-    {
-        "datetime": "2026-08-29T18:45:00Z",
-        "flagUrl": "https://futbollibretv.org.pe/uploads/bandera_francia_9e29308ee7.png",
-        "league": "Ligue 1",
-        "homeTeam": "Olympique Lyonnais",
-        "awayTeam": "Le Havre",
-        "servers": [
-            {
-                "name": "Disney+",
-                "channel": "Disney+",
-                "url": "https://tvf90.com/1.php?stream=disney13",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTEz"
-            }
-        ],
-        "id": 5
-    },
-    {
         "datetime": "2026-08-29T19:00:00Z",
         "flagUrl": "https://futbollibretv.org.pe/uploads/paraguay_fc9dd78de7_fda39878d0.png",
         "league": "Primera División",
@@ -153,7 +13,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZhbmF0aXo1"
             }
         ],
-        "id": 6
+        "id": 1
     },
     {
         "datetime": "2026-08-29T19:00:00Z",
@@ -169,7 +29,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTE0"
             }
         ],
-        "id": 7
+        "id": 2
     },
     {
         "datetime": "2026-08-29T19:00:00Z",
@@ -185,7 +45,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWV2ZW4x"
             }
         ],
-        "id": 8
+        "id": 3
     },
     {
         "datetime": "2026-08-29T19:00:00Z",
@@ -213,7 +73,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXRudHNwb3J0c2NoaWxl"
             }
         ],
-        "id": 9
+        "id": 4
     },
     {
         "datetime": "2026-08-29T19:00:00Z",
@@ -241,7 +101,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4xX25s"
             }
         ],
-        "id": 10
+        "id": 5
     },
     {
         "datetime": "2026-08-29T19:30:00Z",
@@ -299,7 +159,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG5wbHVzMw=="
             }
         ],
-        "id": 11
+        "id": 6
     },
     {
         "datetime": "2026-08-29T19:30:00Z",
@@ -308,7 +168,7 @@
         "homeTeam": "Grêmio",
         "awayTeam": "São Paulo",
         "servers": [],
-        "id": 12
+        "id": 7
     },
     {
         "datetime": "2026-08-29T19:30:00Z",
@@ -324,7 +184,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWh5cGVybW90aW9uMQ=="
             }
         ],
-        "id": 13
+        "id": 8
     },
     {
         "datetime": "2026-08-29T19:30:00Z",
@@ -340,7 +200,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXNwb3J0djI="
             }
         ],
-        "id": 14
+        "id": 9
     },
     {
         "datetime": "2026-08-29T20:00:00Z",
@@ -356,7 +216,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTE="
             }
         ],
-        "id": 15
+        "id": 10
     },
     {
         "datetime": "2026-08-29T20:00:00Z",
@@ -396,7 +256,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZhbmF0aXo2"
             }
         ],
-        "id": 16
+        "id": 11
     },
     {
         "datetime": "2026-08-29T20:00:00Z",
@@ -412,7 +272,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTE1"
             }
         ],
-        "id": 17
+        "id": 12
     },
     {
         "datetime": "2026-08-29T20:30:00Z",
@@ -446,7 +306,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWxpZ2ExbWF4"
             }
         ],
-        "id": 18
+        "id": 13
     },
     {
         "datetime": "2026-08-29T20:30:00Z",
@@ -462,7 +322,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09bWxzMWVz"
             }
         ],
-        "id": 19
+        "id": 14
     },
     {
         "datetime": "2026-08-29T21:00:00Z",
@@ -514,7 +374,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVjZGY="
             }
         ],
-        "id": 20
+        "id": 15
     },
     {
         "datetime": "2026-08-29T21:15:00Z",
@@ -530,7 +390,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWV2ZW4x"
             }
         ],
-        "id": 21
+        "id": 16
     },
     {
         "datetime": "2026-08-29T21:25:00Z",
@@ -564,7 +424,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPXdpbnNwb3J0czI="
             }
         ],
-        "id": 22
+        "id": 17
     },
     {
         "datetime": "2026-08-29T21:30:00Z",
@@ -592,7 +452,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXRudHNwb3J0c2NoaWxl"
             }
         ],
-        "id": 23
+        "id": 18
     },
     {
         "datetime": "2026-08-29T21:30:00Z",
@@ -608,7 +468,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09ZXZlbjY="
             }
         ],
-        "id": 24
+        "id": 19
     },
     {
         "datetime": "2026-08-29T21:30:00Z",
@@ -624,7 +484,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZhbmF0aXo5"
             }
         ],
-        "id": 25
+        "id": 20
     },
     {
         "datetime": "2026-08-29T21:30:00Z",
@@ -652,7 +512,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZhbmF0aXoxMA=="
             }
         ],
-        "id": 26
+        "id": 21
     },
     {
         "datetime": "2026-08-29T22:00:00Z",
@@ -686,7 +546,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXRudHNwb3J0cw=="
             }
         ],
-        "id": 27
+        "id": 22
     },
     {
         "datetime": "2026-08-29T22:00:00Z",
@@ -702,7 +562,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4zbXg="
             }
         ],
-        "id": 28
+        "id": 23
     },
     {
         "datetime": "2026-08-29T22:00:00Z",
@@ -718,7 +578,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTE2"
             }
         ],
-        "id": 29
+        "id": 24
     },
     {
         "datetime": "2026-08-29T23:00:00Z",
@@ -752,7 +612,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXByZW1pZXJlMQ=="
             }
         ],
-        "id": 30
+        "id": 25
     },
     {
         "datetime": "2026-08-29T23:00:00Z",
@@ -768,7 +628,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWV2ZW50b3M="
             }
         ],
-        "id": 31
+        "id": 26
     },
     {
         "datetime": "2026-08-29T23:00:00Z",
@@ -777,7 +637,7 @@
         "homeTeam": "Atlas",
         "awayTeam": "Querétaro",
         "servers": [],
-        "id": 32
+        "id": 27
     },
     {
         "datetime": "2026-08-29T23:00:00Z",
@@ -817,7 +677,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09dW5pdmlzaW9u"
             }
         ],
-        "id": 33
+        "id": 28
     },
     {
         "datetime": "2026-08-29T23:30:00Z",
@@ -851,7 +711,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPXdpbnNwb3J0czI="
             }
         ],
-        "id": 34
+        "id": 29
     },
     {
         "datetime": "2026-08-29T23:30:00Z",
@@ -873,7 +733,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8yLnBocD9zdHJlYW09bWxzMmVu"
             }
         ],
-        "id": 35
+        "id": 30
     },
     {
         "datetime": "2026-08-30T00:00:00Z",
@@ -901,7 +761,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXRudHNwb3J0c2NoaWxl"
             }
         ],
-        "id": 36
+        "id": 31
     },
     {
         "datetime": "2026-08-30T00:00:00Z",
@@ -953,7 +813,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVjZGY="
             }
         ],
-        "id": 37
+        "id": 32
     },
     {
         "datetime": "2026-08-30T00:00:00Z",
@@ -969,7 +829,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09ZXZlbjY="
             }
         ],
-        "id": 38
+        "id": 33
     },
     {
         "datetime": "2026-08-30T00:00:00Z",
@@ -1003,7 +863,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4y"
             }
         ],
-        "id": 39
+        "id": 34
     },
     {
         "datetime": "2026-08-30T00:20:00Z",
@@ -1025,7 +885,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXByZW1pZXJlMg=="
             }
         ],
-        "id": 40
+        "id": 35
     },
     {
         "datetime": "2026-08-30T00:30:00Z",
@@ -1089,7 +949,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZhbmF0aXoy"
             }
         ],
-        "id": 41
+        "id": 36
     },
     {
         "datetime": "2026-08-30T00:30:00Z",
@@ -1123,7 +983,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWxpZ2ExbWF4"
             }
         ],
-        "id": 42
+        "id": 37
     },
     {
         "datetime": "2026-08-30T00:30:00Z",
@@ -1163,7 +1023,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZhbmF0aXox"
             }
         ],
-        "id": 43
+        "id": 38
     },
     {
         "datetime": "2026-08-30T01:05:00Z",
@@ -1209,7 +1069,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09dW5pdmlzaW9u"
             }
         ],
-        "id": 44
+        "id": 39
     },
     {
         "datetime": "2026-08-30T01:30:00Z",
@@ -1243,7 +1103,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPXdpbnNwb3J0czI="
             }
         ],
-        "id": 45
+        "id": 40
     },
     {
         "datetime": "2026-08-30T02:00:00Z",
@@ -1259,7 +1119,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09ZnV0dg=="
             }
         ],
-        "id": 46
+        "id": 41
     },
     {
         "datetime": "2026-08-30T03:10:00Z",
@@ -1329,7 +1189,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG5teA=="
             }
         ],
-        "id": 47
+        "id": 42
     },
     {
         "datetime": "2026-08-30T03:10:00Z",
@@ -1363,6 +1223,6 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWZveGRlcG9ydGVz"
             }
         ],
-        "id": 48
+        "id": 43
     }
 ]
