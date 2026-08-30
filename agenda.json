@@ -1,165 +1,5 @@
 [
     {
-        "datetime": "2026-08-29T23:30:00Z",
-        "flagUrl": "https://futbollibretv.org.pe/uploads/estados_unidos_de_america_b400fc18c4_efc73480e0.png",
-        "league": "MLS",
-        "homeTeam": "Columbus Crew",
-        "awayTeam": "New England",
-        "servers": [
-            {
-                "name": "MLS 04 | EN",
-                "channel": "MLS 04 | EN",
-                "url": "https://tvf90.com/2.php?stream=mls4en",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPW1sczRlbg=="
-            }
-        ],
-        "id": 1
-    },
-    {
-        "datetime": "2026-08-29T23:30:00Z",
-        "flagUrl": "https://futbollibretv.org.pe/uploads/estados_unidos_de_america_b400fc18c4_efc73480e0.png",
-        "league": "MLS",
-        "homeTeam": "Atlanta United",
-        "awayTeam": "Charlotte",
-        "servers": [
-            {
-                "name": "MLS 03 | EN",
-                "channel": "MLS 03 | EN",
-                "url": "https://tvf90.com/1.php?stream=mls3en",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPW1sczNlbg=="
-            },
-            {
-                "name": "MLS 03 | Español",
-                "channel": "MLS 03 | Español",
-                "url": "https://tvf90.com/2.php?stream=mls3en",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPW1sczNlbg=="
-            }
-        ],
-        "id": 2
-    },
-    {
-        "datetime": "2026-08-29T23:30:00Z",
-        "flagUrl": "https://futbollibretv.org.pe/uploads/colombia_dcf9cc2637_a1661b26da.png",
-        "league": "Primera A",
-        "homeTeam": "Junior",
-        "awayTeam": "Santa Fe",
-        "servers": [
-            {
-                "name": "Win Sports + | HD",
-                "channel": "Win Sports + | HD",
-                "url": "https://tvf90.com/hd.php?stream=winsports2",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT13aW5zcG9ydHMy"
-            },
-            {
-                "name": "Win Sports +",
-                "channel": "Win Sports +",
-                "url": "https://tvf90.com/1.php?stream=winsports2",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXdpbnNwb3J0czI="
-            },
-            {
-                "name": "Win Sports + | OP2",
-                "channel": "Win Sports + | OP2",
-                "url": "https://tvf90.com/2.php?stream=winsports2",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXdpbnNwb3J0czI="
-            },
-            {
-                "name": "Win Sports + | OP3",
-                "channel": "Win Sports + | OP3",
-                "url": "https://tvf90.com/3.php?stream=winsports2",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPXdpbnNwb3J0czI="
-            }
-        ],
-        "id": 3
-    },
-    {
-        "datetime": "2026-08-29T23:30:00Z",
-        "flagUrl": "https://futbollibretv.org.pe/uploads/estados_unidos_de_america_b400fc18c4_efc73480e0.png",
-        "league": "MLS",
-        "homeTeam": "Inter Miami",
-        "awayTeam": "CF Montréal",
-        "servers": [
-            {
-                "name": "MLS 02 | EN",
-                "channel": "MLS 02 | EN",
-                "url": "https://tvf90.com/1.php?stream=mls2en",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPW1sczJlbg=="
-            },
-            {
-                "name": "MLS 02 | Español",
-                "channel": "MLS 02 | Español",
-                "url": "https://tvf90.com/2.php?stream=mls2en",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPW1sczJlbg=="
-            }
-        ],
-        "id": 4
-    },
-    {
-        "datetime": "2026-08-29T23:30:00Z",
-        "flagUrl": "https://futbollibretv.org.pe/uploads/estados_unidos_de_america_b400fc18c4_efc73480e0.png",
-        "league": "MLS",
-        "homeTeam": "DC United",
-        "awayTeam": "Los Angeles FC",
-        "servers": [
-            {
-                "name": "MLS 05 | EN",
-                "channel": "MLS 05 | EN",
-                "url": "https://tvf90.com/1.php?stream=mls5en",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPW1sczVlbg=="
-            },
-            {
-                "name": "MLS 05 | Español",
-                "channel": "MLS 05 | Español",
-                "url": "https://tvf90.com/2.php?stream=mls5en",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPW1sczVlbg=="
-            }
-        ],
-        "id": 5
-    },
-    {
-        "datetime": "2026-08-29T23:30:00Z",
-        "flagUrl": "https://futbollibretv.org.pe/uploads/estados_unidos_de_america_b400fc18c4_efc73480e0.png",
-        "league": "MLS",
-        "homeTeam": "New York RB",
-        "awayTeam": "Philadelphia Union",
-        "servers": [
-            {
-                "name": "MLS 06 | EN",
-                "channel": "MLS 06 | EN",
-                "url": "https://tvf90.com/1.php?stream=mls6en",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPW1sczZlbg=="
-            },
-            {
-                "name": "MLS 06 | Español",
-                "channel": "MLS 06 | Español",
-                "url": "https://tvf90.com/2.php?stream=mls6en",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPW1sczZlbg=="
-            }
-        ],
-        "id": 6
-    },
-    {
-        "datetime": "2026-08-29T23:30:00Z",
-        "flagUrl": "https://futbollibretv.org.pe/uploads/estados_unidos_de_america_b400fc18c4_efc73480e0.png",
-        "league": "MLS",
-        "homeTeam": "Toronto FC",
-        "awayTeam": "New York City",
-        "servers": [
-            {
-                "name": "MLS 07 | EN",
-                "channel": "MLS 07 | EN",
-                "url": "https://tvf90.com/1.php?stream=mls7en",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPW1sczdlbg=="
-            },
-            {
-                "name": "MLS 07 | Español",
-                "channel": "MLS 07 | Español",
-                "url": "https://tvf90.com/2.php?stream=mls7en",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPW1sczdlbg=="
-            }
-        ],
-        "id": 7
-    },
-    {
         "datetime": "2026-08-30T00:00:00Z",
         "flagUrl": "https://futbollibretv.org.pe/uploads/chile_86c07a7b38_fad5126fd0.png",
         "league": "Primera División",
@@ -185,7 +25,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXRudHNwb3J0c2NoaWxl"
             }
         ],
-        "id": 8
+        "id": 1
     },
     {
         "datetime": "2026-08-30T00:00:00Z",
@@ -237,7 +77,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVjZGY="
             }
         ],
-        "id": 9
+        "id": 2
     },
     {
         "datetime": "2026-08-30T00:00:00Z",
@@ -253,7 +93,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09ZXZlbjY="
             }
         ],
-        "id": 10
+        "id": 3
     },
     {
         "datetime": "2026-08-30T00:00:00Z",
@@ -287,7 +127,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4y"
             }
         ],
-        "id": 11
+        "id": 4
     },
     {
         "datetime": "2026-08-30T00:20:00Z",
@@ -309,7 +149,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXByZW1pZXJlMg=="
             }
         ],
-        "id": 12
+        "id": 5
     },
     {
         "datetime": "2026-08-30T00:30:00Z",
@@ -331,7 +171,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPW1sczhlbg=="
             }
         ],
-        "id": 13
+        "id": 6
     },
     {
         "datetime": "2026-08-30T00:30:00Z",
@@ -395,7 +235,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZhbmF0aXoy"
             }
         ],
-        "id": 14
+        "id": 7
     },
     {
         "datetime": "2026-08-30T00:30:00Z",
@@ -429,7 +269,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWxpZ2ExbWF4"
             }
         ],
-        "id": 15
+        "id": 8
     },
     {
         "datetime": "2026-08-30T00:30:00Z",
@@ -469,7 +309,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZhbmF0aXox"
             }
         ],
-        "id": 16
+        "id": 9
     },
     {
         "datetime": "2026-08-30T00:30:00Z",
@@ -485,7 +325,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPW1sczEwZW4="
             }
         ],
-        "id": 17
+        "id": 10
     },
     {
         "datetime": "2026-08-30T01:05:00Z",
@@ -531,7 +371,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09dW5pdmlzaW9u"
             }
         ],
-        "id": 18
+        "id": 11
     },
     {
         "datetime": "2026-08-30T01:30:00Z",
@@ -565,7 +405,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPXdpbnNwb3J0czI="
             }
         ],
-        "id": 19
+        "id": 12
     },
     {
         "datetime": "2026-08-30T02:00:00Z",
@@ -581,7 +421,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09ZnV0dg=="
             }
         ],
-        "id": 20
+        "id": 13
     },
     {
         "datetime": "2026-08-30T03:10:00Z",
@@ -651,7 +491,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG5teA=="
             }
         ],
-        "id": 21
+        "id": 14
     },
     {
         "datetime": "2026-08-30T03:10:00Z",
@@ -685,6 +525,6 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWZveGRlcG9ydGVz"
             }
         ],
-        "id": 22
+        "id": 15
     }
 ]
