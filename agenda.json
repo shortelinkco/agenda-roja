@@ -1,51 +1,5 @@
 [
     {
-        "datetime": "2026-08-30T01:05:00Z",
-        "flagUrl": "https://futbollibretv.org.pe/uploads/bandera_fbc29cb609_69a4b8272a.png",
-        "league": "Liga MX",
-        "homeTeam": "América",
-        "awayTeam": "Puebla",
-        "servers": [
-            {
-                "name": "Canal 5 MX",
-                "channel": "Canal 5 MX",
-                "url": "https://tvf90.com/3.php?stream=canal5",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWNhbmFsNQ=="
-            },
-            {
-                "name": "TUDN USA | HD",
-                "channel": "TUDN USA | HD",
-                "url": "https://tvf90.com/hd.php?stream=tudn",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT10dWRu"
-            },
-            {
-                "name": "TUDN USA",
-                "channel": "TUDN USA",
-                "url": "https://tvf90.com/3.php?stream=tudn",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPXR1ZG4="
-            },
-            {
-                "name": "TUDN USA | OP2",
-                "channel": "TUDN USA | OP2",
-                "url": "https://tvf90.com/1.php?stream=tudn",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXR1ZG4="
-            },
-            {
-                "name": "TUDN USA | OP3",
-                "channel": "TUDN USA | OP3",
-                "url": "https://tvf90.com/2.php?stream=tudn",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXR1ZG4="
-            },
-            {
-                "name": "Univision",
-                "channel": "Univision",
-                "url": "https://futbollibre.ch/1.php?stream=univision",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09dW5pdmlzaW9u"
-            }
-        ],
-        "id": 1
-    },
-    {
         "datetime": "2026-08-30T01:30:00Z",
         "flagUrl": "https://futbollibretv.org.pe/uploads/colombia_dcf9cc2637_a1661b26da.png",
         "league": "Primera A",
@@ -77,7 +31,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPXdpbnNwb3J0czI="
             }
         ],
-        "id": 2
+        "id": 1
     },
     {
         "datetime": "2026-08-30T02:00:00Z",
@@ -93,7 +47,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09ZnV0dg=="
             }
         ],
-        "id": 3
+        "id": 2
     },
     {
         "datetime": "2026-08-30T03:10:00Z",
@@ -163,7 +117,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG5teA=="
             }
         ],
-        "id": 4
+        "id": 3
     },
     {
         "datetime": "2026-08-30T03:10:00Z",
@@ -197,6 +151,6 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWZveGRlcG9ydGVz"
             }
         ],
-        "id": 5
+        "id": 4
     }
 ]
