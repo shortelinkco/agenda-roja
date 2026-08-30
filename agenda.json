@@ -1,135 +1,5 @@
 [
     {
-        "datetime": "2026-08-30T00:00:00Z",
-        "flagUrl": "https://futbollibretv.org.pe/uploads/chile_86c07a7b38_fad5126fd0.png",
-        "league": "Primera División",
-        "homeTeam": "Ñublense",
-        "awayTeam": "Deportes Concepción",
-        "servers": [
-            {
-                "name": "TNT Sports Premiun CL HD",
-                "channel": "TNT Sports Premiun CL HD",
-                "url": "https://tvf90.com/hd.php?stream=tntsportschile",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT10bnRzcG9ydHNjaGlsZQ=="
-            },
-            {
-                "name": "TNT Sports Premiun CL",
-                "channel": "TNT Sports Premiun CL",
-                "url": "https://tvf90.com/1.php?stream=tntsportschile",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXRudHNwb3J0c2NoaWxl"
-            },
-            {
-                "name": "TNT Sports Premiun CL OP2",
-                "channel": "TNT Sports Premiun CL OP2",
-                "url": "https://tvf90.com/2.php?stream=tntsportschile",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXRudHNwb3J0c2NoaWxl"
-            }
-        ],
-        "id": 1
-    },
-    {
-        "datetime": "2026-08-30T00:00:00Z",
-        "flagUrl": "https://futbollibretv.org.pe/uploads/ecuador_6b5e87e044_2fd81bc301.png",
-        "league": "Serie A",
-        "homeTeam": "Manta",
-        "awayTeam": "Barcelona",
-        "servers": [
-            {
-                "name": "ECDF LigaPRO | HD",
-                "channel": "ECDF LigaPRO | HD",
-                "url": "https://tvf90.com/hd.php?stream=ecdf_ligapro",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lY2RmX2xpZ2Fwcm8="
-            },
-            {
-                "name": "ECDF LigaPro",
-                "channel": "ECDF LigaPro",
-                "url": "https://tvf90.com/1.php?stream=ecdf_ligapro",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVjZGZfbGlnYXBybw=="
-            },
-            {
-                "name": "ECDF LigaPro | OP2",
-                "channel": "ECDF LigaPro | OP2",
-                "url": "https://tvf90.com/2.php?stream=ecdf_ligapro",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVjZGZfbGlnYXBybw=="
-            },
-            {
-                "name": "ECDF LigaPro | OP3",
-                "channel": "ECDF LigaPro | OP3",
-                "url": "https://tvf90.com/3.php?stream=ecdf_ligapro",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVjZGZfbGlnYXBybw=="
-            },
-            {
-                "name": "ECUAVISA",
-                "channel": "ECUAVISA",
-                "url": "https://tvf90.com/1.php?stream=ecdf",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVjZGY="
-            },
-            {
-                "name": "ECUAVISA | OP2",
-                "channel": "ECUAVISA | OP2",
-                "url": "https://tvf90.com/2.php?stream=ecdf",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVjZGY="
-            },
-            {
-                "name": "ECUAVISA | OP3",
-                "channel": "ECUAVISA | OP3",
-                "url": "https://tvf90.com/3.php?stream=ecdf",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVjZGY="
-            }
-        ],
-        "id": 2
-    },
-    {
-        "datetime": "2026-08-30T00:00:00Z",
-        "flagUrl": "https://futbollibretv.org.pe/uploads/chile_86c07a7b38_fad5126fd0.png",
-        "league": "Primera B",
-        "homeTeam": "Deportes Iquique",
-        "awayTeam": "San Luis",
-        "servers": [
-            {
-                "name": "TNT Sports Chile",
-                "channel": "TNT Sports Chile",
-                "url": "https://futbollibre.ch/1.php?stream=even6",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09ZXZlbjY="
-            }
-        ],
-        "id": 3
-    },
-    {
-        "datetime": "2026-08-30T00:00:00Z",
-        "flagUrl": "https://futbollibretv.org.pe/uploads/boxeo_2024_b15889ae93_ae58e10dcb.png",
-        "league": "Fútbol",
-        "homeTeam": "ESPN Knockout – Mauricio Lara vs. Carlos Ornelas",
-        "awayTeam": "",
-        "servers": [
-            {
-                "name": "ESPN 2 | HD",
-                "channel": "ESPN 2 | HD",
-                "url": "https://tvf90.com/hd.php?stream=espn2",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMg=="
-            },
-            {
-                "name": "ESPN 2",
-                "channel": "ESPN 2",
-                "url": "https://tvf90.com/1.php?stream=espn2",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4y"
-            },
-            {
-                "name": "ESPN 2 | OP2",
-                "channel": "ESPN 2 | OP2",
-                "url": "https://tvf90.com/2.php?stream=espn2",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG4y"
-            },
-            {
-                "name": "ESPN 2 | OP3",
-                "channel": "ESPN 2 | OP3",
-                "url": "https://tvf90.com/3.php?stream=espn2",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4y"
-            }
-        ],
-        "id": 4
-    },
-    {
         "datetime": "2026-08-30T00:20:00Z",
         "flagUrl": "https://futbollibretv.org.pe/uploads/brasil_25a533e5f7_a1a1ef7a7c.png",
         "league": "Brasileirão",
@@ -149,7 +19,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXByZW1pZXJlMg=="
             }
         ],
-        "id": 5
+        "id": 1
     },
     {
         "datetime": "2026-08-30T00:30:00Z",
@@ -171,7 +41,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPW1sczhlbg=="
             }
         ],
-        "id": 6
+        "id": 2
     },
     {
         "datetime": "2026-08-30T00:30:00Z",
@@ -235,7 +105,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZhbmF0aXoy"
             }
         ],
-        "id": 7
+        "id": 3
     },
     {
         "datetime": "2026-08-30T00:30:00Z",
@@ -269,7 +139,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWxpZ2ExbWF4"
             }
         ],
-        "id": 8
+        "id": 4
     },
     {
         "datetime": "2026-08-30T00:30:00Z",
@@ -309,7 +179,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZhbmF0aXox"
             }
         ],
-        "id": 9
+        "id": 5
     },
     {
         "datetime": "2026-08-30T00:30:00Z",
@@ -325,7 +195,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPW1sczEwZW4="
             }
         ],
-        "id": 10
+        "id": 6
     },
     {
         "datetime": "2026-08-30T01:05:00Z",
@@ -371,7 +241,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09dW5pdmlzaW9u"
             }
         ],
-        "id": 11
+        "id": 7
     },
     {
         "datetime": "2026-08-30T01:30:00Z",
@@ -405,7 +275,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPXdpbnNwb3J0czI="
             }
         ],
-        "id": 12
+        "id": 8
     },
     {
         "datetime": "2026-08-30T02:00:00Z",
@@ -421,7 +291,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09ZnV0dg=="
             }
         ],
-        "id": 13
+        "id": 9
     },
     {
         "datetime": "2026-08-30T03:10:00Z",
@@ -491,7 +361,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG5teA=="
             }
         ],
-        "id": 14
+        "id": 10
     },
     {
         "datetime": "2026-08-30T03:10:00Z",
@@ -525,6 +395,6 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWZveGRlcG9ydGVz"
             }
         ],
-        "id": 15
+        "id": 11
     }
 ]
