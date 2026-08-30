@@ -1129,6 +1129,18 @@
                 "channel": "ESPN 4 | OP3",
                 "url": "https://tvf90.com/3.php?stream=espn4",
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG40"
+            },
+            {
+                "name": "Disney+",
+                "channel": "Disney+",
+                "url": "https://tvf90.com/1.php?stream=disney4",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTQ="
+            },
+            {
+                "name": "Espn+",
+                "channel": "Espn+",
+                "url": "https://tvf90.com/1.php?stream=espnplus3",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG5wbHVzMw=="
             }
         ],
         "id": 41
@@ -1172,9 +1184,31 @@
                 "channel": "TNT Sports | OP3",
                 "url": "https://tvf90.com/2.php?stream=tntsports",
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXRudHNwb3J0cw=="
+            },
+            {
+                "name": "fanatiz 08",
+                "channel": "fanatiz 08",
+                "url": "https://tvf90.com/1.php?stream=fanatiz8",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZhbmF0aXo4"
             }
         ],
         "id": 43
+    },
+    {
+        "datetime": "2026-08-30T20:30:00Z",
+        "flagUrl": "https://futbollibretv.org.pe/uploads/estados_unidos_de_america_b400fc18c4_efc73480e0.png",
+        "league": "MLS",
+        "homeTeam": "Columbus Crew",
+        "awayTeam": "New England",
+        "servers": [
+            {
+                "name": "MLS 01 | EN",
+                "channel": "MLS 01 | EN",
+                "url": "https://futbollibre.ch/1.php?stream=mls1es",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09bWxzMWVz"
+            }
+        ],
+        "id": 44
     },
     {
         "datetime": "2026-08-30T20:30:00Z",
@@ -1208,7 +1242,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWxpZ2ExbWF4"
             }
         ],
-        "id": 44
+        "id": 45
     },
     {
         "datetime": "2026-08-30T20:30:00Z",
@@ -1260,7 +1294,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVjZGY="
             }
         ],
-        "id": 45
+        "id": 46
     },
     {
         "datetime": "2026-08-30T21:10:00Z",
@@ -1294,7 +1328,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPXdpbnNwb3J0czI="
             }
         ],
-        "id": 46
+        "id": 47
     },
     {
         "datetime": "2026-08-30T21:15:00Z",
@@ -1310,7 +1344,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWV2ZW4x"
             }
         ],
-        "id": 47
+        "id": 48
     },
     {
         "datetime": "2026-08-30T21:30:00Z",
@@ -1324,9 +1358,21 @@
                 "channel": "Sportv 2 BR",
                 "url": "https://tvf90.com/1.php?stream=sportv2",
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXNwb3J0djI="
+            },
+            {
+                "name": "Premiere BR | HD",
+                "channel": "Premiere BR | HD",
+                "url": "https://tvf90.com/2.php?stream=premiere1",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXByZW1pZXJlMQ=="
+            },
+            {
+                "name": "Premiere BR ",
+                "channel": "Premiere BR ",
+                "url": "https://tvf90.com/1.php?stream=premiere1",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXByZW1pZXJlMQ=="
             }
         ],
-        "id": 48
+        "id": 49
     },
     {
         "datetime": "2026-08-30T21:30:00Z",
@@ -1354,7 +1400,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXRudHNwb3J0c2NoaWxl"
             }
         ],
-        "id": 49
+        "id": 50
     },
     {
         "datetime": "2026-08-30T21:30:00Z",
@@ -1363,7 +1409,7 @@
         "homeTeam": "Guaraní",
         "awayTeam": "Sportivo Ameliano",
         "servers": [],
-        "id": 50
+        "id": 51
     },
     {
         "datetime": "2026-08-30T21:30:00Z",
@@ -1379,7 +1425,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09ZXZlbjY="
             }
         ],
-        "id": 51
+        "id": 52
     },
     {
         "datetime": "2026-08-30T21:30:00Z",
@@ -1387,8 +1433,15 @@
         "league": "Brasileirão",
         "homeTeam": "Mirassol",
         "awayTeam": "Palmeiras",
-        "servers": [],
-        "id": 52
+        "servers": [
+            {
+                "name": "Amazon Prime C",
+                "channel": "Amazon Prime C",
+                "url": "https://tvf90.com/1.php?stream=amazon_prime1",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWFtYXpvbl9wcmltZTE="
+            }
+        ],
+        "id": 53
     },
     {
         "datetime": "2026-08-30T22:00:00Z",
@@ -1396,8 +1449,15 @@
         "league": "Primera División",
         "homeTeam": "Cerro Largo",
         "awayTeam": "Liverpool",
-        "servers": [],
-        "id": 53
+        "servers": [
+            {
+                "name": "Disney+",
+                "channel": "Disney+",
+                "url": "https://tvf90.com/1.php?stream=disney5",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTU="
+            }
+        ],
+        "id": 54
     },
     {
         "datetime": "2026-08-30T22:15:00Z",
@@ -1431,7 +1491,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG5wcmVtaXVt"
             }
         ],
-        "id": 54
+        "id": 55
     },
     {
         "datetime": "2026-08-30T22:30:00Z",
@@ -1451,9 +1511,21 @@
                 "channel": "Sportv BR",
                 "url": "https://tvf90.com/1.php?stream=sportv",
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXNwb3J0dg=="
+            },
+            {
+                "name": "Premiere 4 BR | HD",
+                "channel": "Premiere 4 BR | HD",
+                "url": "https://tvf90.com/hd.php?stream=premiere4",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1wcmVtaWVyZTQ="
+            },
+            {
+                "name": "Premiere 4 BR ",
+                "channel": "Premiere 4 BR ",
+                "url": "https://tvf90.com/1.php?stream=premiere4",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXByZW1pZXJlNA=="
             }
         ],
-        "id": 55
+        "id": 56
     },
     {
         "datetime": "2026-08-30T23:00:00Z",
@@ -1462,7 +1534,7 @@
         "homeTeam": "Atlético San Luis",
         "awayTeam": "Atlas",
         "servers": [],
-        "id": 56
+        "id": 57
     },
     {
         "datetime": "2026-08-30T23:00:00Z",
@@ -1490,7 +1562,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG40"
             }
         ],
-        "id": 57
+        "id": 58
     },
     {
         "datetime": "2026-08-30T23:00:00Z",
@@ -1512,7 +1584,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4z"
             }
         ],
-        "id": 58
+        "id": 59
     },
     {
         "datetime": "2026-08-30T23:00:00Z",
@@ -1564,7 +1636,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVjZGY="
             }
         ],
-        "id": 59
+        "id": 60
     },
     {
         "datetime": "2026-08-30T23:15:00Z",
@@ -1598,7 +1670,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPXdpbnNwb3J0czI="
             }
         ],
-        "id": 60
+        "id": 61
     },
     {
         "datetime": "2026-08-30T23:30:00Z",
@@ -1614,7 +1686,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWV2ZW4x"
             }
         ],
-        "id": 61
+        "id": 62
     },
     {
         "datetime": "2026-08-31T00:00:00Z",
@@ -1648,7 +1720,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXR1ZG4="
             }
         ],
-        "id": 62
+        "id": 63
     },
     {
         "datetime": "2026-08-31T00:00:00Z",
@@ -1676,7 +1748,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXRudHNwb3J0c2NoaWxl"
             }
         ],
-        "id": 63
+        "id": 64
     },
     {
         "datetime": "2026-08-31T00:00:00Z",
@@ -1692,7 +1764,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09ZnV0dg=="
             }
         ],
-        "id": 64
+        "id": 65
     },
     {
         "datetime": "2026-08-31T00:00:00Z",
@@ -1726,7 +1798,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWxpZ2ExbWF4"
             }
         ],
-        "id": 65
+        "id": 66
     },
     {
         "datetime": "2026-08-31T00:30:00Z",
@@ -1760,7 +1832,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXRudHNwb3J0cw=="
             }
         ],
-        "id": 66
+        "id": 67
     },
     {
         "datetime": "2026-08-31T01:20:00Z",
@@ -1794,7 +1866,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPXdpbnNwb3J0czI="
             }
         ],
-        "id": 67
+        "id": 68
     },
     {
         "datetime": "2026-08-31T02:10:00Z",
@@ -1828,6 +1900,6 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXR1ZG4="
             }
         ],
-        "id": 68
+        "id": 69
     }
 ]
