@@ -63,6 +63,24 @@
                 "channel": "DSports | OP3",
                 "url": "https://tvf90.com/2.php?stream=dsports",
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWRzcG9ydHM="
+            },
+            {
+                "name": "ESPN Deportes",
+                "channel": "ESPN Deportes",
+                "url": "https://tvf90.com/1.php?stream=espndeportes",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG5kZXBvcnRlcw=="
+            },
+            {
+                "name": "ESPN Deportes  | OP2",
+                "channel": "ESPN Deportes  | OP2",
+                "url": "https://tvf90.com/2.php?stream=espndeportes",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG5kZXBvcnRlcw=="
+            },
+            {
+                "name": "ESPN Deportes  | OP3",
+                "channel": "ESPN Deportes  | OP3",
+                "url": "https://tvf90.com/3.php?stream=espndeportes",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG5kZXBvcnRlcw=="
             }
         ],
         "id": 2
@@ -113,22 +131,6 @@
     },
     {
         "datetime": "2026-08-31T18:30:00Z",
-        "flagUrl": "https://futbollibretv.org.pe/uploads/uruguay_e2b9597af8_6abda609fb.png",
-        "league": "Primera División",
-        "homeTeam": "Racing",
-        "awayTeam": "Albion",
-        "servers": [
-            {
-                "name": "Disney+",
-                "channel": "Disney+",
-                "url": "https://tvf90.com/1.php?stream=disney1",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTE="
-            }
-        ],
-        "id": 5
-    },
-    {
-        "datetime": "2026-08-31T18:30:00Z",
         "flagUrl": "https://futbollibretv.org.pe/uploads/pavo_980d87b7ad_8827bbb7ba.png",
         "league": "Super Lig",
         "homeTeam": "Amed SK",
@@ -139,6 +141,22 @@
                 "channel": "BeIN Sports Ñ",
                 "url": "https://tvf90.com/1.php?stream=beinsportes",
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWJlaW5zcG9ydGVz"
+            }
+        ],
+        "id": 5
+    },
+    {
+        "datetime": "2026-08-31T18:30:00Z",
+        "flagUrl": "https://futbollibretv.org.pe/uploads/uruguay_e2b9597af8_6abda609fb.png",
+        "league": "Primera División",
+        "homeTeam": "Racing",
+        "awayTeam": "Albion",
+        "servers": [
+            {
+                "name": "Disney+",
+                "channel": "Disney+",
+                "url": "https://tvf90.com/1.php?stream=disney2",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTI="
             }
         ],
         "id": 6
