@@ -1,49 +1,5 @@
 [
     {
-        "datetime": "2026-08-31T19:00:00Z",
-        "flagUrl": "https://futbollibretv.org.pe/uploads/bolivia_png_81cfc9f71f.png",
-        "league": "Copa de la División Profesional",
-        "homeTeam": "San Antonio Bulo Bulo",
-        "awayTeam": "Guabirá",
-        "servers": [
-            {
-                "name": "Entel TV PLUS+",
-                "channel": "Entel TV PLUS+",
-                "url": "https://tvf90.com/1.php?stream=even1",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWV2ZW4x"
-            }
-        ],
-        "id": 1
-    },
-    {
-        "datetime": "2026-08-31T19:00:00Z",
-        "flagUrl": "https://futbollibretv.org.pe/uploads/inglaterra_823176495f_fc4f47c43e.png",
-        "league": "Premier League",
-        "homeTeam": "Aston Villa",
-        "awayTeam": "Arsenal",
-        "servers": [
-            {
-                "name": "Universo | HD",
-                "channel": "Universo | HD",
-                "url": "https://tvf90.com/hd.php?stream=universo",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT11bml2ZXJzbw=="
-            },
-            {
-                "name": "Disney+",
-                "channel": "Disney+",
-                "url": "https://tvf90.com/1.php?stream=disney6",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTY="
-            },
-            {
-                "name": "Universo",
-                "channel": "Universo",
-                "url": "https://tvf90.com/1.php?stream=universo",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXVuaXZlcnNv"
-            }
-        ],
-        "id": 2
-    },
-    {
         "datetime": "2026-08-31T19:15:00Z",
         "flagUrl": "https://futbollibretv.org.pe/uploads/portugal_914accbdd5_06fa714d5c.png",
         "league": "Primeira Liga",
@@ -75,7 +31,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWRzcG9ydHMy"
             }
         ],
-        "id": 3
+        "id": 1
     },
     {
         "datetime": "2026-08-31T19:30:00Z",
@@ -127,7 +83,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG5kZXBvcnRlcw=="
             }
         ],
-        "id": 4
+        "id": 2
     },
     {
         "datetime": "2026-08-31T20:00:00Z",
@@ -161,7 +117,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWxpZ2ExbWF4"
             }
         ],
-        "id": 5
+        "id": 3
     },
     {
         "datetime": "2026-08-31T22:00:00Z",
@@ -195,7 +151,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG5wcmVtaXVt"
             }
         ],
-        "id": 6
+        "id": 4
     },
     {
         "datetime": "2026-08-31T22:00:00Z",
@@ -229,7 +185,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXRudHNwb3J0cw=="
             }
         ],
-        "id": 7
+        "id": 5
     },
     {
         "datetime": "2026-08-31T22:15:00Z",
@@ -257,7 +213,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXRudHNwb3J0c2NoaWxl"
             }
         ],
-        "id": 8
+        "id": 6
     },
     {
         "datetime": "2026-08-31T23:00:00Z",
@@ -285,7 +241,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZhbmF0aXo2"
             }
         ],
-        "id": 9
+        "id": 7
     },
     {
         "datetime": "2026-08-31T23:00:00Z",
@@ -319,7 +275,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPXdpbnNwb3J0czI="
             }
         ],
-        "id": 10
+        "id": 8
     },
     {
         "datetime": "2026-08-31T23:00:00Z",
@@ -353,7 +309,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4y"
             }
         ],
-        "id": 11
+        "id": 9
     },
     {
         "datetime": "2026-08-31T23:30:00Z",
@@ -381,7 +337,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG40"
             }
         ],
-        "id": 12
+        "id": 10
     },
     {
         "datetime": "2026-09-01T00:00:00Z",
@@ -397,7 +353,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWV2ZW4x"
             }
         ],
-        "id": 13
+        "id": 11
     },
     {
         "datetime": "2026-09-01T00:00:00Z",
@@ -419,7 +375,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPW1heDE="
             }
         ],
-        "id": 14
+        "id": 12
     },
     {
         "datetime": "2026-09-01T00:15:00Z",
@@ -453,7 +409,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXRudHNwb3J0cw=="
             }
         ],
-        "id": 15
+        "id": 13
     },
     {
         "datetime": "2026-09-01T00:15:00Z",
@@ -487,7 +443,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG5wcmVtaXVt"
             }
         ],
-        "id": 16
+        "id": 14
     },
     {
         "datetime": "2026-09-01T00:45:00Z",
@@ -515,7 +471,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXRudHNwb3J0c2NoaWxl"
             }
         ],
-        "id": 17
+        "id": 15
     },
     {
         "datetime": "2026-09-01T01:05:00Z",
@@ -555,6 +511,6 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZhbmF0aXo5"
             }
         ],
-        "id": 18
+        "id": 16
     }
 ]
