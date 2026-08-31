@@ -1,1 +1,243 @@
-[]
+[
+    {
+        "datetime": "2026-08-31T16:30:00Z",
+        "flagUrl": "https://futbollibretv.org.pe/uploads/italia_cb19445d70_41852551f1.png",
+        "league": "Serie A",
+        "homeTeam": "Lecce",
+        "awayTeam": "Roma",
+        "servers": [
+            {
+                "name": "ESPN 3 | HD",
+                "channel": "ESPN 3 | HD",
+                "url": "https://tvf90.com/hd.php?stream=espn3",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMw=="
+            },
+            {
+                "name": "ESPN 3",
+                "channel": "ESPN 3",
+                "url": "https://tvf90.com/1.php?stream=espn3",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4z"
+            },
+            {
+                "name": "ESPN 3 | OP2",
+                "channel": "ESPN 3 | OP2",
+                "url": "https://tvf90.com/2.php?stream=espn3",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG4z"
+            },
+            {
+                "name": "ESPN 3 | OP3",
+                "channel": "ESPN 3 | OP3",
+                "url": "https://tvf90.com/3.php?stream=espn3",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4z"
+            }
+        ],
+        "id": 1
+    },
+    {
+        "datetime": "2026-08-31T17:30:00Z",
+        "flagUrl": "https://futbollibretv.org.pe/uploads/espana_a8510f9b5f_9213b1e460.png",
+        "league": "LaLiga",
+        "homeTeam": "Osasuna",
+        "awayTeam": "Getafe",
+        "servers": [
+            {
+                "name": "Dsports Argentina",
+                "channel": "Dsports Argentina",
+                "url": "https://tv-90.com/dsportsar.php",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90di05MC5jb20vZHNwb3J0c2FyLnBocA=="
+            },
+            {
+                "name": "DSports | HD",
+                "channel": "DSports | HD",
+                "url": "https://tvf90.com/hd.php?stream=dsports",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1kc3BvcnRz"
+            },
+            {
+                "name": "DSports",
+                "channel": "DSports",
+                "url": "https://tvf90.com/1.php?stream=dsports",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRzcG9ydHM="
+            },
+            {
+                "name": "DSports | OP3",
+                "channel": "DSports | OP3",
+                "url": "https://tvf90.com/2.php?stream=dsports",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWRzcG9ydHM="
+            }
+        ],
+        "id": 2
+    },
+    {
+        "datetime": "2026-08-31T18:45:00Z",
+        "flagUrl": "https://futbollibretv.org.pe/uploads/italia_cb19445d70_41852551f1.png",
+        "league": "Serie A",
+        "homeTeam": "Atalanta",
+        "awayTeam": "Bologna",
+        "servers": [
+            {
+                "name": "ESPN 3 | HD",
+                "channel": "ESPN 3 | HD",
+                "url": "https://tvf90.com/hd.php?stream=espn3",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMw=="
+            },
+            {
+                "name": "ESPN 3",
+                "channel": "ESPN 3",
+                "url": "https://tvf90.com/1.php?stream=espn3",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4z"
+            },
+            {
+                "name": "ESPN 3 | OP2",
+                "channel": "ESPN 3 | OP2",
+                "url": "https://tvf90.com/2.php?stream=espn3",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG4z"
+            },
+            {
+                "name": "ESPN 3 | OP3",
+                "channel": "ESPN 3 | OP3",
+                "url": "https://tvf90.com/3.php?stream=espn3",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4z"
+            }
+        ],
+        "id": 3
+    },
+    {
+        "datetime": "2026-08-31T19:15:00Z",
+        "flagUrl": "https://futbollibretv.org.pe/uploads/portugal_914accbdd5_06fa714d5c.png",
+        "league": "Primeira Liga",
+        "homeTeam": "Benfica",
+        "awayTeam": "Estoril",
+        "servers": [],
+        "id": 4
+    },
+    {
+        "datetime": "2026-08-31T19:30:00Z",
+        "flagUrl": "https://futbollibretv.org.pe/uploads/espana_a8510f9b5f_9213b1e460.png",
+        "league": "LaLiga",
+        "homeTeam": "Barcelona",
+        "awayTeam": "Rayo Vallecano",
+        "servers": [
+            {
+                "name": "ESPN",
+                "channel": "ESPN",
+                "url": "https://tvf90.com/1.php?stream=espn",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4="
+            },
+            {
+                "name": "ESPN AR┃OP2",
+                "channel": "ESPN AR┃OP2",
+                "url": "https://tvf90.com/2.php?stream=espn",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG4="
+            },
+            {
+                "name": "ESPN AR┃OP3",
+                "channel": "ESPN AR┃OP3",
+                "url": "https://tvf90.com/3.php?stream=espn",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4="
+            }
+        ],
+        "id": 5
+    },
+    {
+        "datetime": "2026-08-31T20:00:00Z",
+        "flagUrl": "https://futbollibretv.org.pe/uploads/peru_ddc4e685cf_43831ed9b0.png",
+        "league": "Liga 1",
+        "homeTeam": "Atlético Grau",
+        "awayTeam": "Melgar",
+        "servers": [
+            {
+                "name": "Liga1MAX | HD",
+                "channel": "Liga1MAX | HD",
+                "url": "https://tvf90.com/hd.php?stream=liga1max",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1saWdhMW1heA=="
+            },
+            {
+                "name": "Liga1MAX",
+                "channel": "Liga1MAX",
+                "url": "https://tvf90.com/1.php?stream=liga1max",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWxpZ2ExbWF4"
+            },
+            {
+                "name": "Liga1Max | OP2",
+                "channel": "Liga1Max | OP2",
+                "url": "https://tvf90.com/2.php?stream=liga1max",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWxpZ2ExbWF4"
+            },
+            {
+                "name": "Liga1Max | OP3",
+                "channel": "Liga1Max | OP3",
+                "url": "https://tvf90.com/3.php?stream=liga1max",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWxpZ2ExbWF4"
+            }
+        ],
+        "id": 6
+    },
+    {
+        "datetime": "2026-08-31T22:00:00Z",
+        "flagUrl": "https://futbollibretv.org.pe/uploads/argentina_2bd748026e_628913fc18.png",
+        "league": "Liga Profesional",
+        "homeTeam": "Defensa y Justicia",
+        "awayTeam": "Platense",
+        "servers": [
+            {
+                "name": "ESPN Premium┃HD",
+                "channel": "ESPN Premium┃HD",
+                "url": "https://tvf90.com/hd.php?stream=espnpremium",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BucHJlbWl1bQ=="
+            },
+            {
+                "name": "ESPN Premium",
+                "channel": "ESPN Premium",
+                "url": "https://tvf90.com/1.php?stream=espnpremium",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG5wcmVtaXVt"
+            },
+            {
+                "name": "ESPN Premium┃OP2",
+                "channel": "ESPN Premium┃OP2",
+                "url": "https://tvf90.com/2.php?stream=espnpremium",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG5wcmVtaXVt"
+            },
+            {
+                "name": "ESPN Premium┃OP3",
+                "channel": "ESPN Premium┃OP3",
+                "url": "https://tvf90.com/3.php?stream=espnpremium",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG5wcmVtaXVt"
+            }
+        ],
+        "id": 7
+    },
+    {
+        "datetime": "2026-08-31T22:00:00Z",
+        "flagUrl": "https://futbollibretv.org.pe/uploads/argentina_2bd748026e_628913fc18.png",
+        "league": "Liga Profesional",
+        "homeTeam": "Estudiantes",
+        "awayTeam": "Newell's Old Boys",
+        "servers": [
+            {
+                "name": "TNT Sports | HD",
+                "channel": "TNT Sports | HD",
+                "url": "https://futbollibre.ch/hd.php?stream=tntsports",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA/c3RyZWFtPXRudHNwb3J0cw=="
+            },
+            {
+                "name": "TNT Sports",
+                "channel": "TNT Sports",
+                "url": "https://tvf90.com/3.php?stream=tntsports",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPXRudHNwb3J0cw=="
+            },
+            {
+                "name": "TNT Sports | OP2",
+                "channel": "TNT Sports | OP2",
+                "url": "https://tvf90.com/1.php?stream=tntsports",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXRudHNwb3J0cw=="
+            },
+            {
+                "name": "TNT Sports | OP3",
+                "channel": "TNT Sports | OP3",
+                "url": "https://tvf90.com/2.php?stream=tntsports",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXRudHNwb3J0cw=="
+            }
+        ],
+        "id": 8
+    }
+]
