@@ -1,83 +1,5 @@
 [
     {
-        "datetime": "2026-09-01T19:00:00Z",
-        "flagUrl": "https://futbollibretv.org.pe/uploads/paraguay_fc9dd78de7_fda39878d0.png",
-        "league": "Copa de Primera",
-        "homeTeam": "Rubio Ñú",
-        "awayTeam": "Sportivo San Lorenzo",
-        "servers": [
-            {
-                "name": "fanatiz 01",
-                "channel": "fanatiz 01",
-                "url": "https://tvf90.com/1.php?stream=fanatiz1",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZhbmF0aXox"
-            }
-        ],
-        "id": 1
-    },
-    {
-        "datetime": "2026-09-01T19:00:00Z",
-        "flagUrl": "https://futbollibretv.org.pe/uploads/italia_cb19445d70_41852551f1.png",
-        "league": "Copa de Italia",
-        "homeTeam": "Torino",
-        "awayTeam": "Monza",
-        "servers": [
-            {
-                "name": "Dsports - HD",
-                "channel": "Dsports - HD",
-                "url": "https://tv-90.com/dsportsar.php",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90di05MC5jb20vZHNwb3J0c2FyLnBocA=="
-            },
-            {
-                "name": "DSports",
-                "channel": "DSports",
-                "url": "https://tvf90.com/1.php?stream=dsports",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRzcG9ydHM="
-            },
-            {
-                "name": "DSports | OP3",
-                "channel": "DSports | OP3",
-                "url": "https://tvf90.com/2.php?stream=dsports",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWRzcG9ydHM="
-            }
-        ],
-        "id": 2
-    },
-    {
-        "datetime": "2026-09-01T19:00:00Z",
-        "flagUrl": "https://futbollibretv.org.pe/uploads/inglaterra_823176495f_fc4f47c43e.png",
-        "league": "Championship",
-        "homeTeam": "Stoke City",
-        "awayTeam": "Norwich City",
-        "servers": [
-            {
-                "name": "ESPN 5 | HD",
-                "channel": "ESPN 5 | HD",
-                "url": "https://tvf90.com/hd.php?stream=espn5",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuNQ=="
-            },
-            {
-                "name": "ESPN 5",
-                "channel": "ESPN 5",
-                "url": "https://tvf90.com/1.php?stream=espn5",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG41"
-            },
-            {
-                "name": "ESPN 5 | OP2",
-                "channel": "ESPN 5 | OP2",
-                "url": "https://tvf90.com/2.php?stream=espn5",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG41"
-            },
-            {
-                "name": "ESPN 5 | OP3",
-                "channel": "ESPN 5 | OP3",
-                "url": "https://tvf90.com/3.php?stream=espn5",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG41"
-            }
-        ],
-        "id": 3
-    },
-    {
         "datetime": "2026-09-01T20:00:00Z",
         "flagUrl": "https://futbollibretv.org.pe/uploads/peru_ddc4e685cf_43831ed9b0.png",
         "league": "Liga 1",
@@ -109,7 +31,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWxpZ2ExbWF4"
             }
         ],
-        "id": 4
+        "id": 1
     },
     {
         "datetime": "2026-09-01T21:30:00Z",
@@ -125,7 +47,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZhbmF0aXoy"
             }
         ],
-        "id": 5
+        "id": 2
     },
     {
         "datetime": "2026-09-01T21:30:00Z",
@@ -177,7 +99,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVjZGY="
             }
         ],
-        "id": 6
+        "id": 3
     },
     {
         "datetime": "2026-09-01T23:00:00Z",
@@ -211,7 +133,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4z"
             }
         ],
-        "id": 7
+        "id": 4
     },
     {
         "datetime": "2026-09-02T00:00:00Z",
@@ -251,7 +173,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWRzcG9ydHM="
             }
         ],
-        "id": 8
+        "id": 5
     },
     {
         "datetime": "2026-09-02T00:00:00Z",
@@ -303,7 +225,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVjZGY="
             }
         ],
-        "id": 9
+        "id": 6
     },
     {
         "datetime": "2026-09-02T01:00:00Z",
@@ -337,7 +259,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPXdpbnNwb3J0czI="
             }
         ],
-        "id": 10
+        "id": 7
     },
     {
         "datetime": "2026-09-02T01:30:00Z",
@@ -365,6 +287,6 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG40"
             }
         ],
-        "id": 11
+        "id": 8
     }
 ]
