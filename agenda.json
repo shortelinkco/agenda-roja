@@ -1,39 +1,5 @@
 [
     {
-        "datetime": "2026-09-01T17:45:00Z",
-        "flagUrl": "https://futbollibretv.org.pe/uploads/amistoso_paises_b9febc0d3c_e1d457d1ee.png",
-        "league": "Copa de Rusia",
-        "homeTeam": "Rostov",
-        "awayTeam": "CSKA Moskva",
-        "servers": [
-            {
-                "name": "DSports +",
-                "channel": "DSports +",
-                "url": "https://tvf90.com/3.php?stream=dsportsplus",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWRzcG9ydHNwbHVz"
-            },
-            {
-                "name": "DSports + | HD",
-                "channel": "DSports + | HD",
-                "url": "https://tvf90.com/hd.php?stream=dsportsplus",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1kc3BvcnRzcGx1cw=="
-            },
-            {
-                "name": "DSports + I OP2",
-                "channel": "DSports + I OP2",
-                "url": "https://tvf90.com/1.php?stream=dsportsplus",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRzcG9ydHNwbHVz"
-            },
-            {
-                "name": "DSports + | OP3",
-                "channel": "DSports + | OP3",
-                "url": "https://tvf90.com/2.php?stream=dsportsplus",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWRzcG9ydHNwbHVz"
-            }
-        ],
-        "id": 1
-    },
-    {
         "datetime": "2026-09-01T18:00:00Z",
         "flagUrl": "https://futbollibretv.org.pe/uploads/argentina_2bd748026e_628913fc18.png",
         "league": "Torneo de Reserva",
@@ -65,7 +31,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXRudHNwb3J0cw=="
             }
         ],
-        "id": 2
+        "id": 1
     },
     {
         "datetime": "2026-09-01T18:00:00Z",
@@ -99,7 +65,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWZveGRlcG9ydGVz"
             }
         ],
-        "id": 3
+        "id": 2
     },
     {
         "datetime": "2026-09-01T18:45:00Z",
@@ -115,7 +81,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09cGFyYW1vdW50Mg=="
             }
         ],
-        "id": 4
+        "id": 3
     },
     {
         "datetime": "2026-09-01T18:45:00Z",
@@ -124,7 +90,7 @@
         "homeTeam": "HEBC",
         "awayTeam": "Borussia Dortmund",
         "servers": [],
-        "id": 5
+        "id": 4
     },
     {
         "datetime": "2026-09-01T19:00:00Z",
@@ -140,7 +106,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZhbmF0aXox"
             }
         ],
-        "id": 6
+        "id": 5
     },
     {
         "datetime": "2026-09-01T19:00:00Z",
@@ -168,7 +134,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWRzcG9ydHM="
             }
         ],
-        "id": 7
+        "id": 6
     },
     {
         "datetime": "2026-09-01T19:00:00Z",
@@ -202,7 +168,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG41"
             }
         ],
-        "id": 8
+        "id": 7
     },
     {
         "datetime": "2026-09-01T20:00:00Z",
@@ -236,7 +202,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWxpZ2ExbWF4"
             }
         ],
-        "id": 9
+        "id": 8
     },
     {
         "datetime": "2026-09-01T21:30:00Z",
@@ -252,7 +218,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZhbmF0aXoy"
             }
         ],
-        "id": 10
+        "id": 9
     },
     {
         "datetime": "2026-09-01T21:30:00Z",
@@ -304,7 +270,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVjZGY="
             }
         ],
-        "id": 11
+        "id": 10
     },
     {
         "datetime": "2026-09-01T23:00:00Z",
@@ -338,7 +304,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4z"
             }
         ],
-        "id": 12
+        "id": 11
     },
     {
         "datetime": "2026-09-02T00:00:00Z",
@@ -378,7 +344,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWRzcG9ydHM="
             }
         ],
-        "id": 13
+        "id": 12
     },
     {
         "datetime": "2026-09-02T00:00:00Z",
@@ -430,7 +396,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVjZGY="
             }
         ],
-        "id": 14
+        "id": 13
     },
     {
         "datetime": "2026-09-02T01:00:00Z",
@@ -464,7 +430,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPXdpbnNwb3J0czI="
             }
         ],
-        "id": 15
+        "id": 14
     },
     {
         "datetime": "2026-09-02T01:30:00Z",
@@ -492,6 +458,6 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG40"
             }
         ],
-        "id": 16
+        "id": 15
     }
 ]
