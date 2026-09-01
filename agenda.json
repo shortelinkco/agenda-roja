@@ -196,22 +196,6 @@
     },
     {
         "datetime": "2026-09-01T19:00:00Z",
-        "flagUrl": "https://futbollibretv.org.pe/uploads/italia_cb19445d70_41852551f1.png",
-        "league": "Copa de Italia",
-        "homeTeam": "Torino",
-        "awayTeam": "Monza",
-        "servers": [
-            {
-                "name": "Dsports - HD",
-                "channel": "Dsports - HD",
-                "url": "https://tv-90.com/dsportsar.php",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90di05MC5jb20vZHNwb3J0c2FyLnBocA=="
-            }
-        ],
-        "id": 8
-    },
-    {
-        "datetime": "2026-09-01T19:00:00Z",
         "flagUrl": "https://futbollibretv.org.pe/uploads/paraguay_fc9dd78de7_fda39878d0.png",
         "league": "Copa de Primera",
         "homeTeam": "Rubio Ñú",
@@ -222,6 +206,34 @@
                 "channel": "fanatiz 01",
                 "url": "https://tvf90.com/1.php?stream=fanatiz1",
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZhbmF0aXox"
+            }
+        ],
+        "id": 8
+    },
+    {
+        "datetime": "2026-09-01T19:00:00Z",
+        "flagUrl": "https://futbollibretv.org.pe/uploads/italia_cb19445d70_41852551f1.png",
+        "league": "Copa de Italia",
+        "homeTeam": "Torino",
+        "awayTeam": "Monza",
+        "servers": [
+            {
+                "name": "Dsports - HD",
+                "channel": "Dsports - HD",
+                "url": "https://tv-90.com/dsportsar.php",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90di05MC5jb20vZHNwb3J0c2FyLnBocA=="
+            },
+            {
+                "name": "DSports",
+                "channel": "DSports",
+                "url": "https://tvf90.com/1.php?stream=dsports",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRzcG9ydHM="
+            },
+            {
+                "name": "DSports | OP3",
+                "channel": "DSports | OP3",
+                "url": "https://tvf90.com/2.php?stream=dsports",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWRzcG9ydHM="
             }
         ],
         "id": 9
@@ -398,6 +410,46 @@
     },
     {
         "datetime": "2026-09-02T00:00:00Z",
+        "flagUrl": "https://futbollibretv.org.pe/uploads/brasil_25a533e5f7_a1a1ef7a7c.png",
+        "league": "Copa de Brasil",
+        "homeTeam": "Atlético Mineiro",
+        "awayTeam": "Cruzeiro",
+        "servers": [
+            {
+                "name": "Sportv BR HD",
+                "channel": "Sportv BR HD",
+                "url": "https://tvf90.com/hd.php?stream=sportv",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1zcG9ydHY="
+            },
+            {
+                "name": "Sportv BR",
+                "channel": "Sportv BR",
+                "url": "https://tvf90.com/1.php?stream=sportv",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXNwb3J0dg=="
+            },
+            {
+                "name": "Dsports Argentina",
+                "channel": "Dsports Argentina",
+                "url": "https://tv-90.com/dsportsar.php",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90di05MC5jb20vZHNwb3J0c2FyLnBocA=="
+            },
+            {
+                "name": "DSports",
+                "channel": "DSports",
+                "url": "https://tvf90.com/1.php?stream=dsports",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRzcG9ydHM="
+            },
+            {
+                "name": "DSports | OP3",
+                "channel": "DSports | OP3",
+                "url": "https://tvf90.com/2.php?stream=dsports",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWRzcG9ydHM="
+            }
+        ],
+        "id": 15
+    },
+    {
+        "datetime": "2026-09-02T00:00:00Z",
         "flagUrl": "https://futbollibretv.org.pe/uploads/ecuador_6b5e87e044_2fd81bc301.png",
         "league": "Serie A",
         "homeTeam": "LDU Quito",
@@ -444,28 +496,6 @@
                 "channel": "ECUAVISA | OP3",
                 "url": "https://tvf90.com/3.php?stream=ecdf",
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVjZGY="
-            }
-        ],
-        "id": 15
-    },
-    {
-        "datetime": "2026-09-02T00:00:00Z",
-        "flagUrl": "https://futbollibretv.org.pe/uploads/brasil_25a533e5f7_a1a1ef7a7c.png",
-        "league": "Copa de Brasil",
-        "homeTeam": "Atlético Mineiro",
-        "awayTeam": "Cruzeiro",
-        "servers": [
-            {
-                "name": "Sportv BR HD",
-                "channel": "Sportv BR HD",
-                "url": "https://tvf90.com/hd.php?stream=sportv",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1zcG9ydHY="
-            },
-            {
-                "name": "Sportv BR",
-                "channel": "Sportv BR",
-                "url": "https://tvf90.com/1.php?stream=sportv",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXNwb3J0dg=="
             }
         ],
         "id": 16
