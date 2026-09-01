@@ -1,43 +1,5 @@
 [
     {
-        "datetime": "2026-09-01T00:00:00Z",
-        "flagUrl": "https://futbollibretv.org.pe/uploads/bolivia_png_81cfc9f71f.png",
-        "league": "Copa de la División Profesional",
-        "homeTeam": "Real Tomayapo",
-        "awayTeam": "Independiente Petrolero",
-        "servers": [
-            {
-                "name": "Entel TV PLUS+",
-                "channel": "Entel TV PLUS+",
-                "url": "https://tvf90.com/1.php?stream=even1",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWV2ZW4x"
-            }
-        ],
-        "id": 1
-    },
-    {
-        "datetime": "2026-09-01T00:00:00Z",
-        "flagUrl": "https://futbollibretv.org.pe/uploads/chile_86c07a7b38_fad5126fd0.png",
-        "league": "Primera B",
-        "homeTeam": "Cobreloa",
-        "awayTeam": "San Marcos",
-        "servers": [
-            {
-                "name": "TNT Sports Chile",
-                "channel": "TNT Sports Chile",
-                "url": "https://futbollibre.ch/1.php?stream=even6",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09ZXZlbjY="
-            },
-            {
-                "name": "MAX",
-                "channel": "MAX",
-                "url": "https://tvf90.com/1.php?stream=max1",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPW1heDE="
-            }
-        ],
-        "id": 2
-    },
-    {
         "datetime": "2026-09-01T00:15:00Z",
         "flagUrl": "https://futbollibretv.org.pe/uploads/argentina_2bd748026e_628913fc18.png",
         "league": "Liga Profesional",
@@ -69,7 +31,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXRudHNwb3J0cw=="
             }
         ],
-        "id": 3
+        "id": 1
     },
     {
         "datetime": "2026-09-01T00:15:00Z",
@@ -103,7 +65,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG5wcmVtaXVt"
             }
         ],
-        "id": 4
+        "id": 2
     },
     {
         "datetime": "2026-09-01T00:45:00Z",
@@ -131,7 +93,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXRudHNwb3J0c2NoaWxl"
             }
         ],
-        "id": 5
+        "id": 3
     },
     {
         "datetime": "2026-09-01T01:05:00Z",
@@ -171,6 +133,6 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZhbmF0aXo5"
             }
         ],
-        "id": 6
+        "id": 4
     }
 ]
