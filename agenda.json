@@ -51,6 +51,18 @@
                 "channel": "Dsports 2 | HD",
                 "url": "https://tvf90.com/hd.php?stream=dsports2",
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1kc3BvcnRzMg=="
+            },
+            {
+                "name": "Dsports 2 | OP2",
+                "channel": "Dsports 2 | OP2",
+                "url": "https://tvf90.com/1.php?stream=dsports2",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRzcG9ydHMy"
+            },
+            {
+                "name": "Dsports 2 | OP3",
+                "channel": "Dsports 2 | OP3",
+                "url": "https://tvf90.com/2.php?stream=dsports2",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWRzcG9ydHMy"
             }
         ],
         "id": 2
@@ -67,6 +79,24 @@
                 "channel": "DSports +",
                 "url": "https://tvf90.com/3.php?stream=dsportsplus",
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWRzcG9ydHNwbHVz"
+            },
+            {
+                "name": "DSports + | HD",
+                "channel": "DSports + | HD",
+                "url": "https://tvf90.com/hd.php?stream=dsportsplus",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1kc3BvcnRzcGx1cw=="
+            },
+            {
+                "name": "DSports + I OP2",
+                "channel": "DSports + I OP2",
+                "url": "https://tvf90.com/1.php?stream=dsportsplus",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRzcG9ydHNwbHVz"
+            },
+            {
+                "name": "DSports + | OP3",
+                "channel": "DSports + | OP3",
+                "url": "https://tvf90.com/2.php?stream=dsportsplus",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWRzcG9ydHNwbHVz"
             }
         ],
         "id": 3
@@ -266,6 +296,22 @@
     },
     {
         "datetime": "2026-09-01T21:30:00Z",
+        "flagUrl": "https://futbollibretv.org.pe/uploads/paraguay_fc9dd78de7_fda39878d0.png",
+        "league": "Copa de Primera",
+        "homeTeam": "2 de Mayo",
+        "awayTeam": "Sportivo Luqueño",
+        "servers": [
+            {
+                "name": "fanatiz 02",
+                "channel": "fanatiz 02",
+                "url": "https://tvf90.com/1.php?stream=fanatiz2",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZhbmF0aXoy"
+            }
+        ],
+        "id": 12
+    },
+    {
+        "datetime": "2026-09-01T21:30:00Z",
         "flagUrl": "https://futbollibretv.org.pe/uploads/ecuador_6b5e87e044_2fd81bc301.png",
         "league": "Serie A",
         "homeTeam": "Delfin",
@@ -314,7 +360,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVjZGY="
             }
         ],
-        "id": 12
+        "id": 13
     },
     {
         "datetime": "2026-09-01T23:00:00Z",
@@ -348,7 +394,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4z"
             }
         ],
-        "id": 13
+        "id": 14
     },
     {
         "datetime": "2026-09-02T00:00:00Z",
@@ -400,7 +446,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVjZGY="
             }
         ],
-        "id": 14
+        "id": 15
     },
     {
         "datetime": "2026-09-02T00:00:00Z",
@@ -422,7 +468,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXNwb3J0dg=="
             }
         ],
-        "id": 15
+        "id": 16
     },
     {
         "datetime": "2026-09-02T01:00:00Z",
@@ -456,7 +502,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPXdpbnNwb3J0czI="
             }
         ],
-        "id": 16
+        "id": 17
     },
     {
         "datetime": "2026-09-02T01:30:00Z",
@@ -484,6 +530,6 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG40"
             }
         ],
-        "id": 17
+        "id": 18
     }
 ]
