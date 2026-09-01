@@ -1,1 +1,191 @@
-[]
+[
+    {
+        "datetime": "2026-09-01T12:45:00Z",
+        "flagUrl": "https://futbollibretv.org.pe/uploads/Pngtree_logo_bike_cycling_mtb_isolated_5209109_fbde4a6148_0df2a2f68b.png",
+        "league": "Fútbol",
+        "homeTeam": "Ciclismo – La Vuelta – Etapa #10",
+        "awayTeam": "",
+        "servers": [
+            {
+                "name": "ESPN 2 | HD",
+                "channel": "ESPN 2 | HD",
+                "url": "https://tvf90.com/hd.php?stream=espn2",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMg=="
+            },
+            {
+                "name": "ESPN 2",
+                "channel": "ESPN 2",
+                "url": "https://tvf90.com/1.php?stream=espn2",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4y"
+            },
+            {
+                "name": "ESPN 2 | OP2",
+                "channel": "ESPN 2 | OP2",
+                "url": "https://tvf90.com/2.php?stream=espn2",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG4y"
+            },
+            {
+                "name": "ESPN 2 | OP3",
+                "channel": "ESPN 2 | OP3",
+                "url": "https://tvf90.com/3.php?stream=espn2",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4y"
+            }
+        ],
+        "id": 1
+    },
+    {
+        "datetime": "2026-09-01T15:00:00Z",
+        "flagUrl": "https://futbollibretv.org.pe/uploads/Tenis_a5d5fcd1d1_594ebf0186.png",
+        "league": "Fútbol",
+        "homeTeam": "Tenis – US Open – Primera Ronda",
+        "awayTeam": "",
+        "servers": [
+            {
+                "name": "ESPN 2 | HD",
+                "channel": "ESPN 2 | HD",
+                "url": "https://tvf90.com/hd.php?stream=espn2",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMg=="
+            },
+            {
+                "name": "ESPN 2",
+                "channel": "ESPN 2",
+                "url": "https://tvf90.com/1.php?stream=espn2",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4y"
+            },
+            {
+                "name": "ESPN 2 | OP2",
+                "channel": "ESPN 2 | OP2",
+                "url": "https://tvf90.com/2.php?stream=espn2",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG4y"
+            },
+            {
+                "name": "ESPN 2 | OP3",
+                "channel": "ESPN 2 | OP3",
+                "url": "https://tvf90.com/3.php?stream=espn2",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4y"
+            }
+        ],
+        "id": 2
+    },
+    {
+        "datetime": "2026-09-01T16:00:00Z",
+        "flagUrl": "https://futbollibretv.org.pe/uploads/italia_cb19445d70_41852551f1.png",
+        "league": "Copa de Italia",
+        "homeTeam": "Parma",
+        "awayTeam": "Cremonese",
+        "servers": [
+            {
+                "name": "FOX ONE",
+                "channel": "FOX ONE",
+                "url": "https://tvf90.com/1.php?stream=eventos",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWV2ZW50b3M="
+            }
+        ],
+        "id": 3
+    },
+    {
+        "datetime": "2026-09-01T18:45:00Z",
+        "flagUrl": "https://futbollibretv.org.pe/uploads/alemania_e50aa475de_965dccfbbd.png",
+        "league": "DFB Pokal",
+        "homeTeam": "HEBC",
+        "awayTeam": "Borussia Dortmund",
+        "servers": [],
+        "id": 4
+    },
+    {
+        "datetime": "2026-09-01T20:00:00Z",
+        "flagUrl": "https://futbollibretv.org.pe/uploads/peru_ddc4e685cf_43831ed9b0.png",
+        "league": "Liga 1",
+        "homeTeam": "Atlético Grau",
+        "awayTeam": "Melgar",
+        "servers": [
+            {
+                "name": "Liga1MAX | HD",
+                "channel": "Liga1MAX | HD",
+                "url": "https://tvf90.com/hd.php?stream=liga1max",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1saWdhMW1heA=="
+            },
+            {
+                "name": "Liga1MAX",
+                "channel": "Liga1MAX",
+                "url": "https://tvf90.com/1.php?stream=liga1max",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWxpZ2ExbWF4"
+            },
+            {
+                "name": "Liga1Max | OP2",
+                "channel": "Liga1Max | OP2",
+                "url": "https://tvf90.com/2.php?stream=liga1max",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWxpZ2ExbWF4"
+            },
+            {
+                "name": "Liga1Max | OP3",
+                "channel": "Liga1Max | OP3",
+                "url": "https://tvf90.com/3.php?stream=liga1max",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWxpZ2ExbWF4"
+            }
+        ],
+        "id": 5
+    },
+    {
+        "datetime": "2026-09-01T23:00:00Z",
+        "flagUrl": "https://futbollibretv.org.pe/uploads/Tenis_a5d5fcd1d1_594ebf0186.png",
+        "league": "Fútbol",
+        "homeTeam": "Tenis – US Open – Primera Ronda",
+        "awayTeam": "",
+        "servers": [
+            {
+                "name": "ESPN 3 | HD",
+                "channel": "ESPN 3 | HD",
+                "url": "https://tvf90.com/hd.php?stream=espn3",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMw=="
+            },
+            {
+                "name": "ESPN 3",
+                "channel": "ESPN 3",
+                "url": "https://tvf90.com/1.php?stream=espn3",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4z"
+            },
+            {
+                "name": "ESPN 3 | OP2",
+                "channel": "ESPN 3 | OP2",
+                "url": "https://tvf90.com/2.php?stream=espn3",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG4z"
+            },
+            {
+                "name": "ESPN 3 | OP3",
+                "channel": "ESPN 3 | OP3",
+                "url": "https://tvf90.com/3.php?stream=espn3",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4z"
+            }
+        ],
+        "id": 6
+    },
+    {
+        "datetime": "2026-09-02T01:30:00Z",
+        "flagUrl": "https://futbollibretv.org.pe/uploads/mlb_f5711cc440_dde64767e4.png",
+        "league": "Fútbol",
+        "homeTeam": "MLB – Arizona Diamondbacks vs. Philadelphia Phillies",
+        "awayTeam": "",
+        "servers": [
+            {
+                "name": "ESPN 4 | HD",
+                "channel": "ESPN 4 | HD",
+                "url": "https://tvf90.com/1.php?stream=espn4",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG40"
+            },
+            {
+                "name": "ESPN 4 | OP2",
+                "channel": "ESPN 4 | OP2",
+                "url": "https://tvf90.com/2.php?stream=espn4",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG40"
+            },
+            {
+                "name": "ESPN 4 | OP3",
+                "channel": "ESPN 4 | OP3",
+                "url": "https://tvf90.com/3.php?stream=espn4",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG40"
+            }
+        ],
+        "id": 7
+    }
+]
