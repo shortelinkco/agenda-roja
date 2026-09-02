@@ -403,6 +403,12 @@
                 "channel": "Premiere BR ",
                 "url": "https://tvf90.com/1.php?stream=premiere1",
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXByZW1pZXJlMQ=="
+            },
+            {
+                "name": "ESPN 4 MX",
+                "channel": "ESPN 4 MX",
+                "url": "https://tvf90.com/1.php?stream=espn4mx",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG40bXg="
             }
         ],
         "id": 12
