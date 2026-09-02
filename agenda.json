@@ -1,39 +1,5 @@
 [
     {
-        "datetime": "2026-09-02T01:00:00Z",
-        "flagUrl": "https://futbollibretv.org.pe/uploads/colombia_dcf9cc2637_a1661b26da.png",
-        "league": "Primera A",
-        "homeTeam": "Fortaleza CEIF",
-        "awayTeam": "Once Caldas",
-        "servers": [
-            {
-                "name": "Win Sports",
-                "channel": "Win Sports",
-                "url": "https://tvf90.com/3.php?stream=winsports",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPXdpbnNwb3J0cw=="
-            },
-            {
-                "name": "Win Sports | HD",
-                "channel": "Win Sports | HD",
-                "url": "https://tvf90.com/hd.php?stream=winsports",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT13aW5zcG9ydHM="
-            },
-            {
-                "name": "Win Sports | OP2",
-                "channel": "Win Sports | OP2",
-                "url": "https://tvf90.com/1.php?stream=winsports",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXdpbnNwb3J0cw=="
-            },
-            {
-                "name": "Win Sports + | OP3",
-                "channel": "Win Sports + | OP3",
-                "url": "https://tvf90.com/3.php?stream=winsports2",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPXdpbnNwb3J0czI="
-            }
-        ],
-        "id": 1
-    },
-    {
         "datetime": "2026-09-02T01:30:00Z",
         "flagUrl": "https://futbollibretv.org.pe/uploads/mlb_f5711cc440_dde64767e4.png",
         "league": "Fútbol",
@@ -59,6 +25,6 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG40"
             }
         ],
-        "id": 2
+        "id": 1
     }
 ]
