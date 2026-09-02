@@ -1,1 +1,721 @@
-[]
+[
+    {
+        "datetime": "2026-09-02T12:45:00Z",
+        "flagUrl": "https://futbollibretv.org.pe/uploads/Pngtree_logo_bike_cycling_mtb_isolated_5209109_fbde4a6148_0df2a2f68b.png",
+        "league": "Fútbol",
+        "homeTeam": "Ciclismo – La Vuelta – Etapa #11",
+        "awayTeam": "",
+        "servers": [
+            {
+                "name": "ESPN 2 | HD",
+                "channel": "ESPN 2 | HD",
+                "url": "https://tvf90.com/hd.php?stream=espn2",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMg=="
+            },
+            {
+                "name": "ESPN 2",
+                "channel": "ESPN 2",
+                "url": "https://tvf90.com/1.php?stream=espn2",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4y"
+            },
+            {
+                "name": "ESPN 2 | OP2",
+                "channel": "ESPN 2 | OP2",
+                "url": "https://tvf90.com/2.php?stream=espn2",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG4y"
+            },
+            {
+                "name": "ESPN 2 | OP3",
+                "channel": "ESPN 2 | OP3",
+                "url": "https://tvf90.com/3.php?stream=espn2",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4y"
+            }
+        ],
+        "id": 1
+    },
+    {
+        "datetime": "2026-09-02T13:00:00Z",
+        "flagUrl": "https://futbollibretv.org.pe/uploads/italia_cb19445d70_41852551f1.png",
+        "league": "Copa de Italia",
+        "homeTeam": "Sassuolo",
+        "awayTeam": "Frosinone",
+        "servers": [
+            {
+                "name": "Dsports 2 | HD",
+                "channel": "Dsports 2 | HD",
+                "url": "https://tvf90.com/hd.php?stream=dsports2",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1kc3BvcnRzMg=="
+            },
+            {
+                "name": "Dsports 2",
+                "channel": "Dsports 2",
+                "url": "https://tvf90.com/3.php?stream=dsports2",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWRzcG9ydHMy"
+            },
+            {
+                "name": "Dsports 2 | OP2",
+                "channel": "Dsports 2 | OP2",
+                "url": "https://tvf90.com/1.php?stream=dsports2",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRzcG9ydHMy"
+            },
+            {
+                "name": "Dsports 2 | OP3",
+                "channel": "Dsports 2 | OP3",
+                "url": "https://tvf90.com/2.php?stream=dsports2",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWRzcG9ydHMy"
+            }
+        ],
+        "id": 2
+    },
+    {
+        "datetime": "2026-09-02T15:00:00Z",
+        "flagUrl": "https://futbollibretv.org.pe/uploads/Tenis_a5d5fcd1d1_594ebf0186.png",
+        "league": "Fútbol",
+        "homeTeam": "Tenis – US Open – Segunda Ronda",
+        "awayTeam": "",
+        "servers": [
+            {
+                "name": "ESPN 2 | HD",
+                "channel": "ESPN 2 | HD",
+                "url": "https://tvf90.com/hd.php?stream=espn2",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMg=="
+            },
+            {
+                "name": "ESPN 2",
+                "channel": "ESPN 2",
+                "url": "https://tvf90.com/1.php?stream=espn2",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4y"
+            },
+            {
+                "name": "ESPN 2 | OP2",
+                "channel": "ESPN 2 | OP2",
+                "url": "https://tvf90.com/2.php?stream=espn2",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG4y"
+            },
+            {
+                "name": "ESPN 2 | OP3",
+                "channel": "ESPN 2 | OP3",
+                "url": "https://tvf90.com/3.php?stream=espn2",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4y"
+            }
+        ],
+        "id": 3
+    },
+    {
+        "datetime": "2026-09-02T16:00:00Z",
+        "flagUrl": "https://futbollibretv.org.pe/uploads/italia_cb19445d70_41852551f1.png",
+        "league": "Copa de Italia",
+        "homeTeam": "Udinese",
+        "awayTeam": "Venezia",
+        "servers": [
+            {
+                "name": "Dsports 2 | HD",
+                "channel": "Dsports 2 | HD",
+                "url": "https://tvf90.com/hd.php?stream=dsports2",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1kc3BvcnRzMg=="
+            },
+            {
+                "name": "Dsports 2",
+                "channel": "Dsports 2",
+                "url": "https://tvf90.com/3.php?stream=dsports2",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWRzcG9ydHMy"
+            }
+        ],
+        "id": 4
+    },
+    {
+        "datetime": "2026-09-02T18:00:00Z",
+        "flagUrl": "https://futbollibretv.org.pe/uploads/argentina_2bd748026e_628913fc18.png",
+        "league": "Torneo de Reserva",
+        "homeTeam": "Ferro Carril",
+        "awayTeam": "Estudiantes",
+        "servers": [
+            {
+                "name": "ESPN 4 | HD",
+                "channel": "ESPN 4 | HD",
+                "url": "https://tvf90.com/1.php?stream=espn4",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG40"
+            },
+            {
+                "name": "ESPN 4 | OP2",
+                "channel": "ESPN 4 | OP2",
+                "url": "https://tvf90.com/2.php?stream=espn4",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG40"
+            },
+            {
+                "name": "ESPN 4 | OP3",
+                "channel": "ESPN 4 | OP3",
+                "url": "https://tvf90.com/3.php?stream=espn4",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG40"
+            }
+        ],
+        "id": 5
+    },
+    {
+        "datetime": "2026-09-02T18:45:00Z",
+        "flagUrl": "https://futbollibretv.org.pe/uploads/alemania_e50aa475de_965dccfbbd.png",
+        "league": "DFB Pokal",
+        "homeTeam": "Osnabrück",
+        "awayTeam": "Bayern München",
+        "servers": [],
+        "id": 6
+    },
+    {
+        "datetime": "2026-09-02T19:00:00Z",
+        "flagUrl": "https://futbollibretv.org.pe/uploads/ecuador_6b5e87e044_2fd81bc301.png",
+        "league": "Serie A",
+        "homeTeam": "Macará",
+        "awayTeam": "Manta",
+        "servers": [
+            {
+                "name": "ECDF LigaPRO | HD",
+                "channel": "ECDF LigaPRO | HD",
+                "url": "https://tvf90.com/hd.php?stream=ecdf_ligapro",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lY2RmX2xpZ2Fwcm8="
+            },
+            {
+                "name": "ECDF LigaPro",
+                "channel": "ECDF LigaPro",
+                "url": "https://tvf90.com/1.php?stream=ecdf_ligapro",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVjZGZfbGlnYXBybw=="
+            },
+            {
+                "name": "ECDF LigaPro | OP2",
+                "channel": "ECDF LigaPro | OP2",
+                "url": "https://tvf90.com/2.php?stream=ecdf_ligapro",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVjZGZfbGlnYXBybw=="
+            },
+            {
+                "name": "ECDF LigaPro | OP3",
+                "channel": "ECDF LigaPro | OP3",
+                "url": "https://tvf90.com/3.php?stream=ecdf_ligapro",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVjZGZfbGlnYXBybw=="
+            },
+            {
+                "name": "ECUAVISA",
+                "channel": "ECUAVISA",
+                "url": "https://tvf90.com/1.php?stream=ecdf",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVjZGY="
+            },
+            {
+                "name": "ECUAVISA | OP2",
+                "channel": "ECUAVISA | OP2",
+                "url": "https://tvf90.com/2.php?stream=ecdf",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVjZGY="
+            },
+            {
+                "name": "ECUAVISA | OP3",
+                "channel": "ECUAVISA | OP3",
+                "url": "https://tvf90.com/3.php?stream=ecdf",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVjZGY="
+            }
+        ],
+        "id": 7
+    },
+    {
+        "datetime": "2026-09-02T19:00:00Z",
+        "flagUrl": "https://futbollibretv.org.pe/uploads/paraguay_fc9dd78de7_fda39878d0.png",
+        "league": "Primera División",
+        "homeTeam": "Sportivo Ameliano",
+        "awayTeam": "Sportivo Trinidense",
+        "servers": [
+            {
+                "name": "fanatiz 01",
+                "channel": "fanatiz 01",
+                "url": "https://tvf90.com/1.php?stream=fanatiz1",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZhbmF0aXox"
+            }
+        ],
+        "id": 8
+    },
+    {
+        "datetime": "2026-09-02T19:00:00Z",
+        "flagUrl": "https://futbollibretv.org.pe/uploads/paraguay_fc9dd78de7_fda39878d0.png",
+        "league": "Primera División",
+        "homeTeam": "Nacional Asunción",
+        "awayTeam": "Libertad",
+        "servers": [
+            {
+                "name": "fanatiz 02",
+                "channel": "fanatiz 02",
+                "url": "https://tvf90.com/1.php?stream=fanatiz2",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZhbmF0aXoy"
+            }
+        ],
+        "id": 9
+    },
+    {
+        "datetime": "2026-09-02T19:00:00Z",
+        "flagUrl": "https://futbollibretv.org.pe/uploads/inglaterra_823176495f_fc4f47c43e.png",
+        "league": "Championship",
+        "homeTeam": "Burnley",
+        "awayTeam": "Middlesbrough",
+        "servers": [
+            {
+                "name": "ESPN 5 | HD",
+                "channel": "ESPN 5 | HD",
+                "url": "https://tvf90.com/hd.php?stream=espn5",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuNQ=="
+            },
+            {
+                "name": "ESPN 5",
+                "channel": "ESPN 5",
+                "url": "https://tvf90.com/1.php?stream=espn5",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG41"
+            },
+            {
+                "name": "ESPN 5 | OP2",
+                "channel": "ESPN 5 | OP2",
+                "url": "https://tvf90.com/2.php?stream=espn5",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG41"
+            },
+            {
+                "name": "ESPN 5 | OP3",
+                "channel": "ESPN 5 | OP3",
+                "url": "https://tvf90.com/3.php?stream=espn5",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG41"
+            }
+        ],
+        "id": 10
+    },
+    {
+        "datetime": "2026-09-02T19:00:00Z",
+        "flagUrl": "https://futbollibretv.org.pe/uploads/bolivia_png_81cfc9f71f.png",
+        "league": "Copa de la División Profesional",
+        "homeTeam": "Gualberto Villarroel SJ",
+        "awayTeam": "Bolívar",
+        "servers": [
+            {
+                "name": "Entel TV PLUS+",
+                "channel": "Entel TV PLUS+",
+                "url": "https://tvf90.com/1.php?stream=even1",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWV2ZW4x"
+            }
+        ],
+        "id": 11
+    },
+    {
+        "datetime": "2026-09-02T21:30:00Z",
+        "flagUrl": "https://futbollibretv.org.pe/uploads/ecuador_6b5e87e044_2fd81bc301.png",
+        "league": "Serie A",
+        "homeTeam": "Deportivo Cuenca",
+        "awayTeam": "Guayaquil City",
+        "servers": [
+            {
+                "name": "ECDF LigaPRO | HD",
+                "channel": "ECDF LigaPRO | HD",
+                "url": "https://tvf90.com/hd.php?stream=ecdf_ligapro",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lY2RmX2xpZ2Fwcm8="
+            },
+            {
+                "name": "ECDF LigaPro",
+                "channel": "ECDF LigaPro",
+                "url": "https://tvf90.com/1.php?stream=ecdf_ligapro",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVjZGZfbGlnYXBybw=="
+            },
+            {
+                "name": "ECDF LigaPro | OP2",
+                "channel": "ECDF LigaPro | OP2",
+                "url": "https://tvf90.com/2.php?stream=ecdf_ligapro",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVjZGZfbGlnYXBybw=="
+            },
+            {
+                "name": "ECDF LigaPro | OP3",
+                "channel": "ECDF LigaPro | OP3",
+                "url": "https://tvf90.com/3.php?stream=ecdf_ligapro",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVjZGZfbGlnYXBybw=="
+            },
+            {
+                "name": "ECUAVISA",
+                "channel": "ECUAVISA",
+                "url": "https://tvf90.com/1.php?stream=ecdf",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVjZGY="
+            },
+            {
+                "name": "ECUAVISA | OP2",
+                "channel": "ECUAVISA | OP2",
+                "url": "https://tvf90.com/2.php?stream=ecdf",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVjZGY="
+            },
+            {
+                "name": "ECUAVISA | OP3",
+                "channel": "ECUAVISA | OP3",
+                "url": "https://tvf90.com/3.php?stream=ecdf",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVjZGY="
+            }
+        ],
+        "id": 12
+    },
+    {
+        "datetime": "2026-09-02T21:30:00Z",
+        "flagUrl": "https://futbollibretv.org.pe/uploads/paraguay_fc9dd78de7_fda39878d0.png",
+        "league": "Primera División",
+        "homeTeam": "Olimpia",
+        "awayTeam": "Guaraní",
+        "servers": [
+            {
+                "name": "fanatiz 03",
+                "channel": "fanatiz 03",
+                "url": "https://tvf90.com/1.php?stream=fanatiz3",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZhbmF0aXoz"
+            }
+        ],
+        "id": 13
+    },
+    {
+        "datetime": "2026-09-02T22:00:00Z",
+        "flagUrl": "https://futbollibretv.org.pe/uploads/chile_86c07a7b38_fad5126fd0.png",
+        "league": "Primera División",
+        "homeTeam": "Coquimbo Unido",
+        "awayTeam": "Univ. Concepción",
+        "servers": [
+            {
+                "name": "TNT Sports Premiun CL HD",
+                "channel": "TNT Sports Premiun CL HD",
+                "url": "https://tvf90.com/hd.php?stream=tntsportschile",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT10bnRzcG9ydHNjaGlsZQ=="
+            },
+            {
+                "name": "TNT Sports Premiun CL",
+                "channel": "TNT Sports Premiun CL",
+                "url": "https://tvf90.com/1.php?stream=tntsportschile",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXRudHNwb3J0c2NoaWxl"
+            },
+            {
+                "name": "TNT Sports Premiun CL OP2",
+                "channel": "TNT Sports Premiun CL OP2",
+                "url": "https://tvf90.com/2.php?stream=tntsportschile",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXRudHNwb3J0c2NoaWxl"
+            }
+        ],
+        "id": 14
+    },
+    {
+        "datetime": "2026-09-02T22:00:00Z",
+        "flagUrl": "https://futbollibretv.org.pe/uploads/argentina_2bd748026e_628913fc18.png",
+        "league": "Torneo de Reserva",
+        "homeTeam": "Talleres de Córdoba",
+        "awayTeam": "Instituto",
+        "servers": [
+            {
+                "name": "TNT Sports",
+                "channel": "TNT Sports",
+                "url": "https://tvf90.com/3.php?stream=tntsports",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPXRudHNwb3J0cw=="
+            },
+            {
+                "name": "TNT Sports | HD",
+                "channel": "TNT Sports | HD",
+                "url": "https://futbollibre.ch/hd.php?stream=tntsports",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA/c3RyZWFtPXRudHNwb3J0cw=="
+            },
+            {
+                "name": "TNT Sports | OP2",
+                "channel": "TNT Sports | OP2",
+                "url": "https://tvf90.com/1.php?stream=tntsports",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXRudHNwb3J0cw=="
+            },
+            {
+                "name": "TNT Sports | OP3",
+                "channel": "TNT Sports | OP3",
+                "url": "https://tvf90.com/2.php?stream=tntsports",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXRudHNwb3J0cw=="
+            }
+        ],
+        "id": 15
+    },
+    {
+        "datetime": "2026-09-02T22:30:00Z",
+        "flagUrl": "https://futbollibretv.org.pe/uploads/brasil_25a533e5f7_a1a1ef7a7c.png",
+        "league": "Brasileirão",
+        "homeTeam": "Flamengo",
+        "awayTeam": "Mirassol",
+        "servers": [],
+        "id": 16
+    },
+    {
+        "datetime": "2026-09-02T22:30:00Z",
+        "flagUrl": "https://futbollibretv.org.pe/uploads/colombia_dcf9cc2637_a1661b26da.png",
+        "league": "Copa Colombia",
+        "homeTeam": "Deportes Quindío",
+        "awayTeam": "Llaneros",
+        "servers": [
+            {
+                "name": "Win Sports",
+                "channel": "Win Sports",
+                "url": "https://tvf90.com/3.php?stream=winsports",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPXdpbnNwb3J0cw=="
+            }
+        ],
+        "id": 17
+    },
+    {
+        "datetime": "2026-09-02T23:00:00Z",
+        "flagUrl": "https://futbollibretv.org.pe/uploads/Tenis_a5d5fcd1d1_594ebf0186.png",
+        "league": "Fútbol",
+        "homeTeam": "Tenis – US Open – Segunda Ronda",
+        "awayTeam": "",
+        "servers": [
+            {
+                "name": "ESPN 3 | HD",
+                "channel": "ESPN 3 | HD",
+                "url": "https://tvf90.com/hd.php?stream=espn3",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMw=="
+            },
+            {
+                "name": "ESPN 3",
+                "channel": "ESPN 3",
+                "url": "https://tvf90.com/1.php?stream=espn3",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4z"
+            },
+            {
+                "name": "ESPN 3 | OP2",
+                "channel": "ESPN 3 | OP2",
+                "url": "https://tvf90.com/2.php?stream=espn3",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG4z"
+            },
+            {
+                "name": "ESPN 3 | OP3",
+                "channel": "ESPN 3 | OP3",
+                "url": "https://tvf90.com/3.php?stream=espn3",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4z"
+            }
+        ],
+        "id": 18
+    },
+    {
+        "datetime": "2026-09-03T00:00:00Z",
+        "flagUrl": "https://futbollibretv.org.pe/uploads/ecuador_6b5e87e044_2fd81bc301.png",
+        "league": "Serie A",
+        "homeTeam": "Barcelona",
+        "awayTeam": "Independiente del Valle",
+        "servers": [
+            {
+                "name": "ECDF LigaPRO | HD",
+                "channel": "ECDF LigaPRO | HD",
+                "url": "https://tvf90.com/hd.php?stream=ecdf_ligapro",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lY2RmX2xpZ2Fwcm8="
+            },
+            {
+                "name": "ECDF LigaPro",
+                "channel": "ECDF LigaPro",
+                "url": "https://tvf90.com/1.php?stream=ecdf_ligapro",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVjZGZfbGlnYXBybw=="
+            },
+            {
+                "name": "ECDF LigaPro | OP2",
+                "channel": "ECDF LigaPro | OP2",
+                "url": "https://tvf90.com/2.php?stream=ecdf_ligapro",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVjZGZfbGlnYXBybw=="
+            },
+            {
+                "name": "ECDF LigaPro | OP3",
+                "channel": "ECDF LigaPro | OP3",
+                "url": "https://tvf90.com/3.php?stream=ecdf_ligapro",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVjZGZfbGlnYXBybw=="
+            },
+            {
+                "name": "ECUAVISA",
+                "channel": "ECUAVISA",
+                "url": "https://tvf90.com/1.php?stream=ecdf",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVjZGY="
+            },
+            {
+                "name": "ECUAVISA | OP2",
+                "channel": "ECUAVISA | OP2",
+                "url": "https://tvf90.com/2.php?stream=ecdf",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVjZGY="
+            },
+            {
+                "name": "ECUAVISA | OP3",
+                "channel": "ECUAVISA | OP3",
+                "url": "https://tvf90.com/3.php?stream=ecdf",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVjZGY="
+            }
+        ],
+        "id": 19
+    },
+    {
+        "datetime": "2026-09-03T00:15:00Z",
+        "flagUrl": "https://futbollibretv.org.pe/uploads/argentina_2bd748026e_628913fc18.png",
+        "league": "Copa Argentina",
+        "homeTeam": "Vélez Sarsfield",
+        "awayTeam": "Boca Juniors",
+        "servers": [
+            {
+                "name": "TYC Sports | HD",
+                "channel": "TYC Sports | HD",
+                "url": "https://tvf90.com/hd.php?stream=tycsports",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT10eWNzcG9ydHM="
+            },
+            {
+                "name": "TYC Sports",
+                "channel": "TYC Sports",
+                "url": "https://tvf90.com/1.php?stream=tycsports",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXR5Y3Nwb3J0cw=="
+            },
+            {
+                "name": "TyC Sports | OP2",
+                "channel": "TyC Sports | OP2",
+                "url": "https://tvf90.com/2.php?stream=tycsports",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXR5Y3Nwb3J0cw=="
+            },
+            {
+                "name": "TYC Sports | OP3",
+                "channel": "TYC Sports | OP3",
+                "url": "https://tvf90.com/3.php?stream=tycsports",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPXR5Y3Nwb3J0cw=="
+            }
+        ],
+        "id": 20
+    },
+    {
+        "datetime": "2026-09-03T00:30:00Z",
+        "flagUrl": "https://futbollibretv.org.pe/uploads/chile_86c07a7b38_fad5126fd0.png",
+        "league": "Primera División",
+        "homeTeam": "Deportes Limache",
+        "awayTeam": "Ñublense",
+        "servers": [
+            {
+                "name": "TNT Sports Premiun CL HD",
+                "channel": "TNT Sports Premiun CL HD",
+                "url": "https://tvf90.com/hd.php?stream=tntsportschile",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT10bnRzcG9ydHNjaGlsZQ=="
+            },
+            {
+                "name": "TNT Sports Premiun CL",
+                "channel": "TNT Sports Premiun CL",
+                "url": "https://tvf90.com/1.php?stream=tntsportschile",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXRudHNwb3J0c2NoaWxl"
+            },
+            {
+                "name": "TNT Sports Premiun CL OP2",
+                "channel": "TNT Sports Premiun CL OP2",
+                "url": "https://tvf90.com/2.php?stream=tntsportschile",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXRudHNwb3J0c2NoaWxl"
+            }
+        ],
+        "id": 21
+    },
+    {
+        "datetime": "2026-09-03T00:30:00Z",
+        "flagUrl": "https://futbollibretv.org.pe/uploads/brasil_25a533e5f7_a1a1ef7a7c.png",
+        "league": "Copa de Brasil",
+        "homeTeam": "Santos",
+        "awayTeam": "Palmeiras",
+        "servers": [
+            {
+                "name": "Sportv BR HD",
+                "channel": "Sportv BR HD",
+                "url": "https://tvf90.com/hd.php?stream=sportv",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1zcG9ydHY="
+            },
+            {
+                "name": "Sportv BR",
+                "channel": "Sportv BR",
+                "url": "https://tvf90.com/1.php?stream=sportv",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXNwb3J0dg=="
+            }
+        ],
+        "id": 22
+    },
+    {
+        "datetime": "2026-09-03T00:30:00Z",
+        "flagUrl": "https://futbollibretv.org.pe/uploads/brasil_25a533e5f7_a1a1ef7a7c.png",
+        "league": "Copa de Brasil",
+        "homeTeam": "Vitória",
+        "awayTeam": "Vasco da Gama",
+        "servers": [
+            {
+                "name": "Amazon Prime C",
+                "channel": "Amazon Prime C",
+                "url": "https://tvf90.com/1.php?stream=amazon_prime1",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWFtYXpvbl9wcmltZTE="
+            }
+        ],
+        "id": 23
+    },
+    {
+        "datetime": "2026-09-03T01:00:00Z",
+        "flagUrl": "https://futbollibretv.org.pe/uploads/leagues_cup_f7b23c5e8d_a6922075d9.png",
+        "league": "Leagues Cup",
+        "homeTeam": "Toluca",
+        "awayTeam": "León",
+        "servers": [],
+        "id": 24
+    },
+    {
+        "datetime": "2026-09-03T01:25:00Z",
+        "flagUrl": "https://futbollibretv.org.pe/uploads/colombia_dcf9cc2637_a1661b26da.png",
+        "league": "Primera A",
+        "homeTeam": "Santa Fe",
+        "awayTeam": "Millonarios",
+        "servers": [
+            {
+                "name": "Win Sports +",
+                "channel": "Win Sports +",
+                "url": "https://tvf90.com/1.php?stream=winsports2",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXdpbnNwb3J0czI="
+            },
+            {
+                "name": "Win Sports + | HD",
+                "channel": "Win Sports + | HD",
+                "url": "https://tvf90.com/hd.php?stream=winsports2",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT13aW5zcG9ydHMy"
+            },
+            {
+                "name": "Win Sports + | OP2",
+                "channel": "Win Sports + | OP2",
+                "url": "https://tvf90.com/2.php?stream=winsports2",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXdpbnNwb3J0czI="
+            },
+            {
+                "name": "Win Sports + | OP3",
+                "channel": "Win Sports + | OP3",
+                "url": "https://tvf90.com/3.php?stream=winsports2",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPXdpbnNwb3J0czI="
+            }
+        ],
+        "id": 25
+    },
+    {
+        "datetime": "2026-09-03T03:30:00Z",
+        "flagUrl": "https://futbollibretv.org.pe/uploads/leagues_cup_f7b23c5e8d_a6922075d9.png",
+        "league": "Leagues Cup",
+        "homeTeam": "América",
+        "awayTeam": "Monterrey",
+        "servers": [
+            {
+                "name": "TUDN USA | HD",
+                "channel": "TUDN USA | HD",
+                "url": "https://tvf90.com/hd.php?stream=tudn",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT10dWRu"
+            },
+            {
+                "name": "TUDN USA",
+                "channel": "TUDN USA",
+                "url": "https://tvf90.com/3.php?stream=tudn",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPXR1ZG4="
+            },
+            {
+                "name": "TUDN USA | OP2",
+                "channel": "TUDN USA | OP2",
+                "url": "https://tvf90.com/1.php?stream=tudn",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXR1ZG4="
+            },
+            {
+                "name": "TUDN USA | OP3",
+                "channel": "TUDN USA | OP3",
+                "url": "https://tvf90.com/2.php?stream=tudn",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXR1ZG4="
+            },
+            {
+                "name": "Unimas",
+                "channel": "Unimas",
+                "url": "https://tvf90.com/1.php?stream=unimas",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXVuaW1hcw=="
+            }
+        ],
+        "id": 26
+    }
+]
