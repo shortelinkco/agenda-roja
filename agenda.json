@@ -157,22 +157,22 @@
         "awayTeam": "Once Caldas",
         "servers": [
             {
-                "name": "Win Sports + | HD",
-                "channel": "Win Sports + | HD",
-                "url": "https://tvf90.com/hd.php?stream=winsports2",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT13aW5zcG9ydHMy"
+                "name": "Win Sports",
+                "channel": "Win Sports",
+                "url": "https://tvf90.com/3.php?stream=winsports",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPXdpbnNwb3J0cw=="
             },
             {
-                "name": "Win Sports +",
-                "channel": "Win Sports +",
-                "url": "https://tvf90.com/1.php?stream=winsports2",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXdpbnNwb3J0czI="
+                "name": "Win Sports | HD",
+                "channel": "Win Sports | HD",
+                "url": "https://tvf90.com/hd.php?stream=winsports",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT13aW5zcG9ydHM="
             },
             {
-                "name": "Win Sports + | OP2",
-                "channel": "Win Sports + | OP2",
-                "url": "https://tvf90.com/2.php?stream=winsports2",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXdpbnNwb3J0czI="
+                "name": "Win Sports | OP2",
+                "channel": "Win Sports | OP2",
+                "url": "https://tvf90.com/1.php?stream=winsports",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXdpbnNwb3J0cw=="
             },
             {
                 "name": "Win Sports + | OP3",
