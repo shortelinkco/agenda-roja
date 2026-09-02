@@ -69,6 +69,30 @@
                 "channel": "DSports | OP3",
                 "url": "https://tvf90.com/2.php?stream=dsports",
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWRzcG9ydHM="
+            },
+            {
+                "name": "FOX Deportes | HD",
+                "channel": "FOX Deportes | HD",
+                "url": "https://tvf90.com/hd.php?stream=foxdeportes",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1mb3hkZXBvcnRlcw=="
+            },
+            {
+                "name": "FOX Deportes",
+                "channel": "FOX Deportes",
+                "url": "https://tvf90.com/1.php?stream=foxdeportes",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZveGRlcG9ydGVz"
+            },
+            {
+                "name": "FOX Deportes | OP2",
+                "channel": "FOX Deportes | OP2",
+                "url": "https://tvf90.com/2.php?stream=foxdeportes",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWZveGRlcG9ydGVz"
+            },
+            {
+                "name": "FOX Deportes | OP3",
+                "channel": "FOX Deportes | OP3",
+                "url": "https://tvf90.com/3.php?stream=foxdeportes",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWZveGRlcG9ydGVz"
             }
         ],
         "id": 2
