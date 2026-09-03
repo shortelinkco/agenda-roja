@@ -1,67 +1,5 @@
 [
     {
-        "datetime": "2026-09-02T22:00:00Z",
-        "flagUrl": "https://futbollibretv.org.pe/uploads/chile_86c07a7b38_fad5126fd0.png",
-        "league": "Primera División",
-        "homeTeam": "Coquimbo Unido",
-        "awayTeam": "Univ. Concepción",
-        "servers": [
-            {
-                "name": "TNT Sports Premiun CL HD",
-                "channel": "TNT Sports Premiun CL HD",
-                "url": "https://tvf90.com/hd.php?stream=tntsportschile",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT10bnRzcG9ydHNjaGlsZQ=="
-            },
-            {
-                "name": "TNT Sports Premiun CL",
-                "channel": "TNT Sports Premiun CL",
-                "url": "https://tvf90.com/1.php?stream=tntsportschile",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXRudHNwb3J0c2NoaWxl"
-            },
-            {
-                "name": "TNT Sports Premiun CL OP2",
-                "channel": "TNT Sports Premiun CL OP2",
-                "url": "https://tvf90.com/2.php?stream=tntsportschile",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXRudHNwb3J0c2NoaWxl"
-            }
-        ],
-        "id": 1
-    },
-    {
-        "datetime": "2026-09-02T22:00:00Z",
-        "flagUrl": "https://futbollibretv.org.pe/uploads/argentina_2bd748026e_628913fc18.png",
-        "league": "Torneo de Reserva",
-        "homeTeam": "Talleres de Córdoba",
-        "awayTeam": "Instituto",
-        "servers": [
-            {
-                "name": "TNT Sports",
-                "channel": "TNT Sports",
-                "url": "https://tvf90.com/3.php?stream=tntsports",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPXRudHNwb3J0cw=="
-            },
-            {
-                "name": "TNT Sports | HD",
-                "channel": "TNT Sports | HD",
-                "url": "https://futbollibre.ch/hd.php?stream=tntsports",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA/c3RyZWFtPXRudHNwb3J0cw=="
-            },
-            {
-                "name": "TNT Sports | OP2",
-                "channel": "TNT Sports | OP2",
-                "url": "https://tvf90.com/1.php?stream=tntsports",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXRudHNwb3J0cw=="
-            },
-            {
-                "name": "TNT Sports | OP3",
-                "channel": "TNT Sports | OP3",
-                "url": "https://tvf90.com/2.php?stream=tntsports",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXRudHNwb3J0cw=="
-            }
-        ],
-        "id": 2
-    },
-    {
         "datetime": "2026-09-02T22:30:00Z",
         "flagUrl": "https://futbollibretv.org.pe/uploads/colombia_dcf9cc2637_a1661b26da.png",
         "league": "Copa Colombia",
@@ -75,7 +13,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPXdpbnNwb3J0cw=="
             }
         ],
-        "id": 3
+        "id": 1
     },
     {
         "datetime": "2026-09-02T22:30:00Z",
@@ -97,7 +35,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXByZW1pZXJlMQ=="
             }
         ],
-        "id": 4
+        "id": 2
     },
     {
         "datetime": "2026-09-02T23:00:00Z",
@@ -131,7 +69,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4z"
             }
         ],
-        "id": 5
+        "id": 3
     },
     {
         "datetime": "2026-09-03T00:00:00Z",
@@ -183,7 +121,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVjZGY="
             }
         ],
-        "id": 6
+        "id": 4
     },
     {
         "datetime": "2026-09-03T00:15:00Z",
@@ -217,7 +155,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPXR5Y3Nwb3J0cw=="
             }
         ],
-        "id": 7
+        "id": 5
     },
     {
         "datetime": "2026-09-03T00:30:00Z",
@@ -299,7 +237,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG40bXg="
             }
         ],
-        "id": 8
+        "id": 6
     },
     {
         "datetime": "2026-09-03T00:30:00Z",
@@ -327,7 +265,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXRudHNwb3J0c2NoaWxl"
             }
         ],
-        "id": 9
+        "id": 7
     },
     {
         "datetime": "2026-09-03T00:30:00Z",
@@ -343,7 +281,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWFtYXpvbl9wcmltZTE="
             }
         ],
-        "id": 10
+        "id": 8
     },
     {
         "datetime": "2026-09-03T01:00:00Z",
@@ -365,7 +303,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZveHNwb3J0czFfdXNh"
             }
         ],
-        "id": 11
+        "id": 9
     },
     {
         "datetime": "2026-09-03T01:25:00Z",
@@ -399,7 +337,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPXdpbnNwb3J0czI="
             }
         ],
-        "id": 12
+        "id": 10
     },
     {
         "datetime": "2026-09-03T03:30:00Z",
@@ -451,6 +389,6 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPW1sczJlbg=="
             }
         ],
-        "id": 13
+        "id": 11
     }
 ]
