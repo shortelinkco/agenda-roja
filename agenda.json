@@ -1,43 +1,5 @@
 [
     {
-        "datetime": "2026-09-02T22:30:00Z",
-        "flagUrl": "https://futbollibretv.org.pe/uploads/colombia_dcf9cc2637_a1661b26da.png",
-        "league": "Copa Colombia",
-        "homeTeam": "Deportes Quindío",
-        "awayTeam": "Llaneros",
-        "servers": [
-            {
-                "name": "Win Sports",
-                "channel": "Win Sports",
-                "url": "https://tvf90.com/3.php?stream=winsports",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPXdpbnNwb3J0cw=="
-            }
-        ],
-        "id": 1
-    },
-    {
-        "datetime": "2026-09-02T22:30:00Z",
-        "flagUrl": "https://futbollibretv.org.pe/uploads/brasil_25a533e5f7_a1a1ef7a7c.png",
-        "league": "Brasileirão",
-        "homeTeam": "Flamengo",
-        "awayTeam": "Mirassol",
-        "servers": [
-            {
-                "name": "Premiere BR | HD",
-                "channel": "Premiere BR | HD",
-                "url": "https://tvf90.com/2.php?stream=premiere1",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXByZW1pZXJlMQ=="
-            },
-            {
-                "name": "Premiere BR ",
-                "channel": "Premiere BR ",
-                "url": "https://tvf90.com/1.php?stream=premiere1",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXByZW1pZXJlMQ=="
-            }
-        ],
-        "id": 2
-    },
-    {
         "datetime": "2026-09-02T23:00:00Z",
         "flagUrl": "https://futbollibretv.org.pe/uploads/Tenis_a5d5fcd1d1_594ebf0186.png",
         "league": "Fútbol",
@@ -69,7 +31,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4z"
             }
         ],
-        "id": 3
+        "id": 1
     },
     {
         "datetime": "2026-09-03T00:00:00Z",
@@ -121,7 +83,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVjZGY="
             }
         ],
-        "id": 4
+        "id": 2
     },
     {
         "datetime": "2026-09-03T00:15:00Z",
@@ -155,7 +117,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPXR5Y3Nwb3J0cw=="
             }
         ],
-        "id": 5
+        "id": 3
     },
     {
         "datetime": "2026-09-03T00:30:00Z",
@@ -237,7 +199,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG40bXg="
             }
         ],
-        "id": 6
+        "id": 4
     },
     {
         "datetime": "2026-09-03T00:30:00Z",
@@ -265,7 +227,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXRudHNwb3J0c2NoaWxl"
             }
         ],
-        "id": 7
+        "id": 5
     },
     {
         "datetime": "2026-09-03T00:30:00Z",
@@ -281,7 +243,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWFtYXpvbl9wcmltZTE="
             }
         ],
-        "id": 8
+        "id": 6
     },
     {
         "datetime": "2026-09-03T01:00:00Z",
@@ -303,7 +265,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZveHNwb3J0czFfdXNh"
             }
         ],
-        "id": 9
+        "id": 7
     },
     {
         "datetime": "2026-09-03T01:25:00Z",
@@ -337,7 +299,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPXdpbnNwb3J0czI="
             }
         ],
-        "id": 10
+        "id": 8
     },
     {
         "datetime": "2026-09-03T03:30:00Z",
@@ -389,6 +351,6 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPW1sczJlbg=="
             }
         ],
-        "id": 11
+        "id": 9
     }
 ]
