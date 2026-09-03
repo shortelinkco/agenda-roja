@@ -1,27 +1,5 @@
 [
     {
-        "datetime": "2026-09-03T01:00:00Z",
-        "flagUrl": "https://futbollibretv.org.pe/uploads/leagues_cup_f7b23c5e8d_a6922075d9.png",
-        "league": "Leagues Cup",
-        "homeTeam": "Toluca",
-        "awayTeam": "León",
-        "servers": [
-            {
-                "name": "MLS 01 | EN",
-                "channel": "MLS 01 | EN",
-                "url": "https://futbollibre.ch/1.php?stream=mls1es",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09bWxzMWVz"
-            },
-            {
-                "name": "FOX Sports 1 USA",
-                "channel": "FOX Sports 1 USA",
-                "url": "https://tvf90.com/1.php?stream=foxsports1_usa",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZveHNwb3J0czFfdXNh"
-            }
-        ],
-        "id": 1
-    },
-    {
         "datetime": "2026-09-03T01:25:00Z",
         "flagUrl": "https://futbollibretv.org.pe/uploads/colombia_dcf9cc2637_a1661b26da.png",
         "league": "Primera A",
@@ -53,7 +31,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPXdpbnNwb3J0czI="
             }
         ],
-        "id": 2
+        "id": 1
     },
     {
         "datetime": "2026-09-03T03:30:00Z",
@@ -105,6 +83,6 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPW1sczJlbg=="
             }
         ],
-        "id": 3
+        "id": 2
     }
 ]
