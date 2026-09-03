@@ -149,6 +149,40 @@
     },
     {
         "datetime": "2026-09-03T19:00:00Z",
+        "flagUrl": "https://futbollibretv.org.pe/uploads/italia_cb19445d70_41852551f1.png",
+        "league": "Copa de Italia",
+        "homeTeam": "Cagliari",
+        "awayTeam": "Verona",
+        "servers": [
+            {
+                "name": "Dsports 2 | HD",
+                "channel": "Dsports 2 | HD",
+                "url": "https://tvf90.com/hd.php?stream=dsports2",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1kc3BvcnRzMg=="
+            },
+            {
+                "name": "Dsports 2",
+                "channel": "Dsports 2",
+                "url": "https://tvf90.com/3.php?stream=dsports2",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWRzcG9ydHMy"
+            },
+            {
+                "name": "Dsports 2 | OP2",
+                "channel": "Dsports 2 | OP2",
+                "url": "https://tvf90.com/1.php?stream=dsports2",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRzcG9ydHMy"
+            },
+            {
+                "name": "Dsports 2 | OP3",
+                "channel": "Dsports 2 | OP3",
+                "url": "https://tvf90.com/2.php?stream=dsports2",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWRzcG9ydHMy"
+            }
+        ],
+        "id": 5
+    },
+    {
+        "datetime": "2026-09-03T19:00:00Z",
         "flagUrl": "https://futbollibretv.org.pe/uploads/ecuador_6b5e87e044_2fd81bc301.png",
         "league": "Serie A",
         "homeTeam": "Universidad Católica",
@@ -197,29 +231,23 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVjZGY="
             }
         ],
-        "id": 5
+        "id": 6
     },
     {
-        "datetime": "2026-09-03T19:00:00Z",
-        "flagUrl": "https://futbollibretv.org.pe/uploads/italia_cb19445d70_41852551f1.png",
-        "league": "Copa de Italia",
-        "homeTeam": "Cagliari",
-        "awayTeam": "Verona",
+        "datetime": "2026-09-03T21:30:00Z",
+        "flagUrl": "https://futbollibretv.org.pe/uploads/paraguay_fc9dd78de7_fda39878d0.png",
+        "league": "Primera División",
+        "homeTeam": "Deportivo Recoleta",
+        "awayTeam": "Cerro Porteño",
         "servers": [
             {
-                "name": "Dsports 2 | HD",
-                "channel": "Dsports 2 | HD",
-                "url": "https://tvf90.com/hd.php?stream=dsports2",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1kc3BvcnRzMg=="
-            },
-            {
-                "name": "Dsports 2",
-                "channel": "Dsports 2",
-                "url": "https://tvf90.com/3.php?stream=dsports2",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWRzcG9ydHMy"
+                "name": "fanatiz 02",
+                "channel": "fanatiz 02",
+                "url": "https://tvf90.com/1.php?stream=fanatiz2",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZhbmF0aXoy"
             }
         ],
-        "id": 6
+        "id": 7
     },
     {
         "datetime": "2026-09-03T21:30:00Z",
@@ -269,22 +297,6 @@
                 "channel": "ECUAVISA | OP3",
                 "url": "https://tvf90.com/3.php?stream=ecdf",
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVjZGY="
-            }
-        ],
-        "id": 7
-    },
-    {
-        "datetime": "2026-09-03T21:30:00Z",
-        "flagUrl": "https://futbollibretv.org.pe/uploads/paraguay_fc9dd78de7_fda39878d0.png",
-        "league": "Primera División",
-        "homeTeam": "Deportivo Recoleta",
-        "awayTeam": "Cerro Porteño",
-        "servers": [
-            {
-                "name": "fanatiz 01",
-                "channel": "fanatiz 01",
-                "url": "https://tvf90.com/1.php?stream=fanatiz1",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZhbmF0aXox"
             }
         ],
         "id": 8
