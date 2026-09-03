@@ -16,6 +16,68 @@
         "id": 1
     },
     {
+        "datetime": "2026-09-03T16:30:00Z",
+        "flagUrl": "https://futbollibretv.org.pe/uploads/amistosos_bbe2ec4c17_02fd4e7093.png",
+        "league": "Copa de Rusia",
+        "homeTeam": "Dinamo Moskva",
+        "awayTeam": "Akhmat Grozny",
+        "servers": [
+            {
+                "name": "DSports + | HD",
+                "channel": "DSports + | HD",
+                "url": "https://tvf90.com/hd.php?stream=dsportsplus",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1kc3BvcnRzcGx1cw=="
+            },
+            {
+                "name": "DSports +",
+                "channel": "DSports +",
+                "url": "https://tvf90.com/3.php?stream=dsportsplus",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWRzcG9ydHNwbHVz"
+            },
+            {
+                "name": "DSports + I OP2",
+                "channel": "DSports + I OP2",
+                "url": "https://tvf90.com/1.php?stream=dsportsplus",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRzcG9ydHNwbHVz"
+            },
+            {
+                "name": "DSports + | OP3",
+                "channel": "DSports + | OP3",
+                "url": "https://tvf90.com/2.php?stream=dsportsplus",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWRzcG9ydHNwbHVz"
+            }
+        ],
+        "id": 2
+    },
+    {
+        "datetime": "2026-09-03T18:00:00Z",
+        "flagUrl": "https://futbollibretv.org.pe/uploads/argentina_2bd748026e_628913fc18.png",
+        "league": "Torneo de Reserva",
+        "homeTeam": "Gimnasia Mendoza",
+        "awayTeam": "Rosario Central",
+        "servers": [
+            {
+                "name": "ESPN 4 | HD",
+                "channel": "ESPN 4 | HD",
+                "url": "https://tvf90.com/1.php?stream=espn4",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG40"
+            },
+            {
+                "name": "ESPN 4 | OP2",
+                "channel": "ESPN 4 | OP2",
+                "url": "https://tvf90.com/2.php?stream=espn4",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG40"
+            },
+            {
+                "name": "ESPN 4 | OP3",
+                "channel": "ESPN 4 | OP3",
+                "url": "https://tvf90.com/3.php?stream=espn4",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG40"
+            }
+        ],
+        "id": 3
+    },
+    {
         "datetime": "2026-09-03T18:45:00Z",
         "flagUrl": "https://futbollibretv.org.pe/uploads/bandera_francia_9e29308ee7.png",
         "league": "Ligue 1",
@@ -29,7 +91,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWJlaW5zcG9ydGVz"
             }
         ],
-        "id": 2
+        "id": 4
     },
     {
         "datetime": "2026-09-03T19:00:00Z",
@@ -81,7 +143,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVjZGY="
             }
         ],
-        "id": 3
+        "id": 5
     },
     {
         "datetime": "2026-09-03T19:00:00Z",
@@ -97,7 +159,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRzcG9ydHM="
             }
         ],
-        "id": 4
+        "id": 6
     },
     {
         "datetime": "2026-09-03T19:00:00Z",
@@ -119,7 +181,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWRzcG9ydHMy"
             }
         ],
-        "id": 5
+        "id": 7
     },
     {
         "datetime": "2026-09-03T21:30:00Z",
@@ -171,7 +233,61 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVjZGY="
             }
         ],
-        "id": 6
+        "id": 8
+    },
+    {
+        "datetime": "2026-09-03T21:30:00Z",
+        "flagUrl": "https://futbollibretv.org.pe/uploads/paraguay_fc9dd78de7_fda39878d0.png",
+        "league": "Primera División",
+        "homeTeam": "Deportivo Recoleta",
+        "awayTeam": "Cerro Porteño",
+        "servers": [
+            {
+                "name": "fanatiz 01",
+                "channel": "fanatiz 01",
+                "url": "https://tvf90.com/1.php?stream=fanatiz1",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZhbmF0aXox"
+            }
+        ],
+        "id": 9
+    },
+    {
+        "datetime": "2026-09-03T23:00:00Z",
+        "flagUrl": "https://futbollibretv.org.pe/uploads/bolivia_png_81cfc9f71f.png",
+        "league": "Copa de la División Profesional",
+        "homeTeam": "Nacional Potosí",
+        "awayTeam": "Real Tomayapo",
+        "servers": [
+            {
+                "name": "Entel TV PLUS+",
+                "channel": "Entel TV PLUS+",
+                "url": "https://tvf90.com/1.php?stream=even1",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWV2ZW4x"
+            }
+        ],
+        "id": 10
+    },
+    {
+        "datetime": "2026-09-03T23:00:00Z",
+        "flagUrl": "https://futbollibretv.org.pe/uploads/brasil_25a533e5f7_a1a1ef7a7c.png",
+        "league": "Serie B",
+        "homeTeam": "Náutico",
+        "awayTeam": "Botafogo SP",
+        "servers": [
+            {
+                "name": "Sportv BR HD",
+                "channel": "Sportv BR HD",
+                "url": "https://tvf90.com/hd.php?stream=sportv",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1zcG9ydHY="
+            },
+            {
+                "name": "Sportv BR",
+                "channel": "Sportv BR",
+                "url": "https://tvf90.com/1.php?stream=sportv",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXNwb3J0dg=="
+            }
+        ],
+        "id": 11
     },
     {
         "datetime": "2026-09-03T23:00:00Z",
@@ -205,7 +321,23 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPXdpbnNwb3J0czI="
             }
         ],
-        "id": 7
+        "id": 12
+    },
+    {
+        "datetime": "2026-09-03T23:00:00Z",
+        "flagUrl": "https://futbollibretv.org.pe/uploads/brasil_25a533e5f7_a1a1ef7a7c.png",
+        "league": "Copa de Brasil",
+        "homeTeam": "Grêmio",
+        "awayTeam": "Internacional",
+        "servers": [
+            {
+                "name": "Premiere BR ",
+                "channel": "Premiere BR ",
+                "url": "https://tvf90.com/1.php?stream=premiere1",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXByZW1pZXJlMQ=="
+            }
+        ],
+        "id": 13
     },
     {
         "datetime": "2026-09-04T00:00:00Z",
@@ -257,7 +389,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVjZGY="
             }
         ],
-        "id": 8
+        "id": 14
     },
     {
         "datetime": "2026-09-04T01:00:00Z",
@@ -291,6 +423,6 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPXdpbnNwb3J0czI="
             }
         ],
-        "id": 9
+        "id": 15
     }
 ]
