@@ -1,39 +1,5 @@
 [
     {
-        "datetime": "2026-09-03T01:25:00Z",
-        "flagUrl": "https://futbollibretv.org.pe/uploads/colombia_dcf9cc2637_a1661b26da.png",
-        "league": "Primera A",
-        "homeTeam": "Santa Fe",
-        "awayTeam": "Millonarios",
-        "servers": [
-            {
-                "name": "Win Sports +",
-                "channel": "Win Sports +",
-                "url": "https://tvf90.com/1.php?stream=winsports2",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXdpbnNwb3J0czI="
-            },
-            {
-                "name": "Win Sports + | HD",
-                "channel": "Win Sports + | HD",
-                "url": "https://tvf90.com/hd.php?stream=winsports2",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT13aW5zcG9ydHMy"
-            },
-            {
-                "name": "Win Sports + | OP2",
-                "channel": "Win Sports + | OP2",
-                "url": "https://tvf90.com/2.php?stream=winsports2",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXdpbnNwb3J0czI="
-            },
-            {
-                "name": "Win Sports + | OP3",
-                "channel": "Win Sports + | OP3",
-                "url": "https://tvf90.com/3.php?stream=winsports2",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPXdpbnNwb3J0czI="
-            }
-        ],
-        "id": 1
-    },
-    {
         "datetime": "2026-09-03T03:30:00Z",
         "flagUrl": "https://futbollibretv.org.pe/uploads/leagues_cup_f7b23c5e8d_a6922075d9.png",
         "league": "Leagues Cup",
@@ -83,6 +49,6 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPW1sczJlbg=="
             }
         ],
-        "id": 2
+        "id": 1
     }
 ]
