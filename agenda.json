@@ -1,57 +1,5 @@
 [
     {
-        "datetime": "2026-09-04T00:00:00Z",
-        "flagUrl": "https://futbollibretv.org.pe/uploads/ecuador_6b5e87e044_2fd81bc301.png",
-        "league": "Serie A",
-        "homeTeam": "Libertad",
-        "awayTeam": "Emelec",
-        "servers": [
-            {
-                "name": "ECDF LigaPRO | HD",
-                "channel": "ECDF LigaPRO | HD",
-                "url": "https://tvf90.com/hd.php?stream=ecdf_ligapro",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lY2RmX2xpZ2Fwcm8="
-            },
-            {
-                "name": "ECDF LigaPro",
-                "channel": "ECDF LigaPro",
-                "url": "https://tvf90.com/1.php?stream=ecdf_ligapro",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVjZGZfbGlnYXBybw=="
-            },
-            {
-                "name": "ECDF LigaPro | OP2",
-                "channel": "ECDF LigaPro | OP2",
-                "url": "https://tvf90.com/2.php?stream=ecdf_ligapro",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVjZGZfbGlnYXBybw=="
-            },
-            {
-                "name": "ECDF LigaPro | OP3",
-                "channel": "ECDF LigaPro | OP3",
-                "url": "https://tvf90.com/3.php?stream=ecdf_ligapro",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVjZGZfbGlnYXBybw=="
-            },
-            {
-                "name": "ECUAVISA",
-                "channel": "ECUAVISA",
-                "url": "https://tvf90.com/1.php?stream=ecdf",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVjZGY="
-            },
-            {
-                "name": "ECUAVISA | OP2",
-                "channel": "ECUAVISA | OP2",
-                "url": "https://tvf90.com/2.php?stream=ecdf",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVjZGY="
-            },
-            {
-                "name": "ECUAVISA | OP3",
-                "channel": "ECUAVISA | OP3",
-                "url": "https://tvf90.com/3.php?stream=ecdf",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVjZGY="
-            }
-        ],
-        "id": 1
-    },
-    {
         "datetime": "2026-09-04T01:00:00Z",
         "flagUrl": "https://futbollibretv.org.pe/uploads/colombia_dcf9cc2637_a1661b26da.png",
         "league": "Primera A",
@@ -89,6 +37,6 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZhbmF0aXo0"
             }
         ],
-        "id": 2
+        "id": 1
     }
 ]
