@@ -337,6 +337,38 @@
     },
     {
         "datetime": "2026-09-04T19:00:00Z",
+        "flagUrl": "https://futbollibretv.org.pe/uploads/bolivia_png_81cfc9f71f.png",
+        "league": "Primera División",
+        "homeTeam": "Real Oruro",
+        "awayTeam": "San Antonio Bulo Bulo",
+        "servers": [
+            {
+                "name": "Entel TV PLUS+",
+                "channel": "Entel TV PLUS+",
+                "url": "https://tvf90.com/1.php?stream=even1",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWV2ZW4x"
+            }
+        ],
+        "id": 13
+    },
+    {
+        "datetime": "2026-09-04T19:00:00Z",
+        "flagUrl": "https://futbollibretv.org.pe/uploads/uruguay_e2b9597af8_6abda609fb.png",
+        "league": "Segunda División",
+        "homeTeam": "La Luz",
+        "awayTeam": "Huracán",
+        "servers": [
+            {
+                "name": "Disney+",
+                "channel": "Disney+",
+                "url": "https://tvf90.com/1.php?stream=disney9",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTk="
+            }
+        ],
+        "id": 14
+    },
+    {
+        "datetime": "2026-09-04T19:00:00Z",
         "flagUrl": "https://futbollibretv.org.pe/uploads/espana_a8510f9b5f_9213b1e460.png",
         "league": "LaLiga",
         "homeTeam": "Real Betis",
@@ -347,6 +379,12 @@
                 "channel": "ESPN",
                 "url": "https://tvf90.com/1.php?stream=espn",
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4="
+            },
+            {
+                "name": "ESPN TV",
+                "channel": "ESPN TV",
+                "url": "https://tvf90.com/plus1.php?stream=espn",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1lc3Bu"
             },
             {
                 "name": "ESPN AR┃OP2",
@@ -383,38 +421,6 @@
                 "channel": "ESPN Deportes  | OP3",
                 "url": "https://tvf90.com/3.php?stream=espndeportes",
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG5kZXBvcnRlcw=="
-            }
-        ],
-        "id": 13
-    },
-    {
-        "datetime": "2026-09-04T19:00:00Z",
-        "flagUrl": "https://futbollibretv.org.pe/uploads/bolivia_png_81cfc9f71f.png",
-        "league": "Primera División",
-        "homeTeam": "Real Oruro",
-        "awayTeam": "San Antonio Bulo Bulo",
-        "servers": [
-            {
-                "name": "Entel TV PLUS+",
-                "channel": "Entel TV PLUS+",
-                "url": "https://tvf90.com/1.php?stream=even1",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWV2ZW4x"
-            }
-        ],
-        "id": 14
-    },
-    {
-        "datetime": "2026-09-04T19:00:00Z",
-        "flagUrl": "https://futbollibretv.org.pe/uploads/uruguay_e2b9597af8_6abda609fb.png",
-        "league": "Segunda División",
-        "homeTeam": "La Luz",
-        "awayTeam": "Huracán",
-        "servers": [
-            {
-                "name": "Disney+",
-                "channel": "Disney+",
-                "url": "https://tvf90.com/1.php?stream=disney9",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTk="
             }
         ],
         "id": 15
