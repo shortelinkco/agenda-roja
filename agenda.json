@@ -1,39 +1,5 @@
 [
     {
-        "datetime": "2026-09-05T20:30:00Z",
-        "flagUrl": "https://futbollibretv.org.pe/uploads/Rugby_f99a2b54da.png",
-        "league": "Fútbol",
-        "homeTeam": "Rugby – Test Match Internacional – Los Pumas",
-        "awayTeam": "",
-        "servers": [
-            {
-                "name": "ESPN 3 | HD",
-                "channel": "ESPN 3 | HD",
-                "url": "https://tvf90.com/hd.php?stream=espn3",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMw=="
-            },
-            {
-                "name": "ESPN 3",
-                "channel": "ESPN 3",
-                "url": "https://tvf90.com/1.php?stream=espn3",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4z"
-            },
-            {
-                "name": "ESPN 3 | OP2",
-                "channel": "ESPN 3 | OP2",
-                "url": "https://tvf90.com/2.php?stream=espn3",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG4z"
-            },
-            {
-                "name": "ESPN 3 | OP3",
-                "channel": "ESPN 3 | OP3",
-                "url": "https://tvf90.com/3.php?stream=espn3",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4z"
-            }
-        ],
-        "id": 1
-    },
-    {
         "datetime": "2026-09-05T20:50:00Z",
         "flagUrl": "https://futbollibretv.org.pe/uploads/Tenis_a5d5fcd1d1_594ebf0186.png",
         "league": "US Open – Third Round",
@@ -65,7 +31,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4y"
             }
         ],
-        "id": 2
+        "id": 1
     },
     {
         "datetime": "2026-09-05T21:00:00Z",
@@ -99,7 +65,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPXdpbnNwb3J0czI="
             }
         ],
-        "id": 3
+        "id": 2
     },
     {
         "datetime": "2026-09-05T21:00:00Z",
@@ -115,7 +81,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTEz"
             }
         ],
-        "id": 4
+        "id": 3
     },
     {
         "datetime": "2026-09-05T21:15:00Z",
@@ -131,7 +97,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1ldmVuMQ=="
             }
         ],
-        "id": 5
+        "id": 4
     },
     {
         "datetime": "2026-09-05T21:30:00Z",
@@ -159,7 +125,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXRudHNwb3J0c2NoaWxl"
             }
         ],
-        "id": 6
+        "id": 5
     },
     {
         "datetime": "2026-09-05T21:30:00Z",
@@ -168,7 +134,7 @@
         "homeTeam": "Sportivo San Lorenzo",
         "awayTeam": "2 de Mayo",
         "servers": [],
-        "id": 7
+        "id": 6
     },
     {
         "datetime": "2026-09-05T21:30:00Z",
@@ -190,7 +156,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXByZW1pZXJlOA=="
             }
         ],
-        "id": 8
+        "id": 7
     },
     {
         "datetime": "2026-09-05T21:30:00Z",
@@ -206,7 +172,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1ldmVuNg=="
             }
         ],
-        "id": 9
+        "id": 8
     },
     {
         "datetime": "2026-09-05T21:40:00Z",
@@ -234,7 +200,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG40"
             }
         ],
-        "id": 10
+        "id": 9
     },
     {
         "datetime": "2026-09-05T22:00:00Z",
@@ -268,7 +234,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXRudHNwb3J0cw=="
             }
         ],
-        "id": 11
+        "id": 10
     },
     {
         "datetime": "2026-09-05T22:00:00Z",
@@ -277,41 +243,7 @@
         "homeTeam": "Miramar Misiones",
         "awayTeam": "Deportivo Colonia",
         "servers": [],
-        "id": 12
-    },
-    {
-        "datetime": "2026-09-05T22:45:00Z",
-        "flagUrl": "https://futbollibretv.org.pe/uploads/Tenis_a5d5fcd1d1_594ebf0186.png",
-        "league": "US Open – Third Round",
-        "homeTeam": "Starodubtseva Y.",
-        "awayTeam": "Rybakina E.",
-        "servers": [
-            {
-                "name": "ESPN 2 | HD",
-                "channel": "ESPN 2 | HD",
-                "url": "https://tvf90.com/hd.php?stream=espn2",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMg=="
-            },
-            {
-                "name": "ESPN 2",
-                "channel": "ESPN 2",
-                "url": "https://tvf90.com/1.php?stream=espn2",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4y"
-            },
-            {
-                "name": "ESPN 2 | OP2",
-                "channel": "ESPN 2 | OP2",
-                "url": "https://tvf90.com/2.php?stream=espn2",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG4y"
-            },
-            {
-                "name": "ESPN 2 | OP3",
-                "channel": "ESPN 2 | OP3",
-                "url": "https://tvf90.com/3.php?stream=espn2",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4y"
-            }
-        ],
-        "id": 13
+        "id": 11
     },
     {
         "datetime": "2026-09-05T23:00:00Z",
@@ -345,41 +277,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWxpZ2ExbWF4"
             }
         ],
-        "id": 14
-    },
-    {
-        "datetime": "2026-09-05T23:00:00Z",
-        "flagUrl": "https://futbollibretv.org.pe/uploads/Tenis_a5d5fcd1d1_594ebf0186.png",
-        "league": "Tenis – US Open – Tercera Ronda",
-        "homeTeam": "Jovic I.",
-        "awayTeam": "Eala A.",
-        "servers": [
-            {
-                "name": "ESPN 3 | HD",
-                "channel": "ESPN 3 | HD",
-                "url": "https://tvf90.com/hd.php?stream=espn3",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMw=="
-            },
-            {
-                "name": "ESPN 3",
-                "channel": "ESPN 3",
-                "url": "https://tvf90.com/1.php?stream=espn3",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4z"
-            },
-            {
-                "name": "ESPN 3 | OP2",
-                "channel": "ESPN 3 | OP2",
-                "url": "https://tvf90.com/2.php?stream=espn3",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG4z"
-            },
-            {
-                "name": "ESPN 3 | OP3",
-                "channel": "ESPN 3 | OP3",
-                "url": "https://tvf90.com/3.php?stream=espn3",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4z"
-            }
-        ],
-        "id": 15
+        "id": 12
     },
     {
         "datetime": "2026-09-05T23:00:00Z",
@@ -431,7 +329,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVjZGY="
             }
         ],
-        "id": 16
+        "id": 13
     },
     {
         "datetime": "2026-09-05T23:00:00Z",
@@ -443,8 +341,8 @@
             {
                 "name": "ESPN MX | HD",
                 "channel": "ESPN MX | HD",
-                "url": "https://tvf90.com/hd.php?stream=espnmx",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BubXg="
+                "url": "https://tvf90.com/canal.php?stream=espnmx",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3BubXg="
             },
             {
                 "name": "ESPN MX",
@@ -465,7 +363,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG5teA=="
             }
         ],
-        "id": 17
+        "id": 14
     },
     {
         "datetime": "2026-09-05T23:00:00Z",
@@ -481,14 +379,14 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZ1dHY="
             }
         ],
-        "id": 18
+        "id": 15
     },
     {
         "datetime": "2026-09-05T23:00:00Z",
         "flagUrl": "https://futbollibretv.org.pe/uploads/Tenis_a5d5fcd1d1_594ebf0186.png",
-        "league": "Tenis – US Open – Tercera Ronda",
-        "homeTeam": "Starodubtseva Y.",
-        "awayTeam": "Rybakina E.",
+        "league": "US Open – Third Round",
+        "homeTeam": "Jovic I.",
+        "awayTeam": "Eala A.",
         "servers": [
             {
                 "name": "ESPN 2 | HD",
@@ -515,7 +413,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4y"
             }
         ],
-        "id": 19
+        "id": 16
     },
     {
         "datetime": "2026-09-05T23:10:00Z",
@@ -537,7 +435,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPXdpbnNwb3J0cw=="
             }
         ],
-        "id": 20
+        "id": 17
     },
     {
         "datetime": "2026-09-05T23:25:00Z",
@@ -571,7 +469,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPXdpbnNwb3J0czI="
             }
         ],
-        "id": 21
+        "id": 18
     },
     {
         "datetime": "2026-09-05T23:30:00Z",
@@ -587,7 +485,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1ldmVuMQ=="
             }
         ],
-        "id": 22
+        "id": 19
     },
     {
         "datetime": "2026-09-05T23:30:00Z",
@@ -599,11 +497,17 @@
             {
                 "name": "MLS 01 | EN",
                 "channel": "MLS 01 | EN",
-                "url": "https://futbollibre.ch/1.php?stream=mls1es",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09bWxzMWVz"
+                "url": "https://tvf90.com/canal.php?stream=mls1es",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1tbHMxZXM="
+            },
+            {
+                "name": "MLS 01 | Español",
+                "channel": "MLS 01 | Español",
+                "url": "https://tvf90.com/1.php?stream=mls1es",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPW1sczFlcw=="
             }
         ],
-        "id": 23
+        "id": 20
     },
     {
         "datetime": "2026-09-06T00:00:00Z",
@@ -637,7 +541,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXByZW1pZXJlMw=="
             }
         ],
-        "id": 24
+        "id": 21
     },
     {
         "datetime": "2026-09-06T00:00:00Z",
@@ -665,7 +569,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXRudHNwb3J0c2NoaWxl"
             }
         ],
-        "id": 25
+        "id": 22
     },
     {
         "datetime": "2026-09-06T00:00:00Z",
@@ -681,7 +585,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1ldmVuNg=="
             }
         ],
-        "id": 26
+        "id": 23
     },
     {
         "datetime": "2026-09-06T00:15:00Z",
@@ -715,7 +619,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG5wcmVtaXVt"
             }
         ],
-        "id": 27
+        "id": 24
     },
     {
         "datetime": "2026-09-06T01:00:00Z",
@@ -797,7 +701,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXVuaXZlcnNv"
             }
         ],
-        "id": 28
+        "id": 25
     },
     {
         "datetime": "2026-09-06T01:30:00Z",
@@ -831,7 +735,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWxpZ2ExbWF4"
             }
         ],
-        "id": 29
+        "id": 26
     },
     {
         "datetime": "2026-09-06T01:30:00Z",
@@ -853,7 +757,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPXdpbnNwb3J0cw=="
             }
         ],
-        "id": 30
+        "id": 27
     },
     {
         "datetime": "2026-09-06T02:00:00Z",
@@ -869,7 +773,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZ1dHY="
             }
         ],
-        "id": 31
+        "id": 28
     },
     {
         "datetime": "2026-09-06T02:30:00Z",
@@ -903,7 +807,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4z"
             }
         ],
-        "id": 32
+        "id": 29
     },
     {
         "datetime": "2026-09-06T03:00:00Z",
@@ -955,6 +859,6 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXVuaXZlcnNv"
             }
         ],
-        "id": 33
+        "id": 30
     }
 ]
