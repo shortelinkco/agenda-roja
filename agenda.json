@@ -1,33 +1,5 @@
 [
     {
-        "datetime": "2026-09-05T00:00:00Z",
-        "flagUrl": "https://futbollibretv.org.pe/uploads/boxeo_2024_b15889ae93_ae58e10dcb.png",
-        "league": "Fútbol",
-        "homeTeam": "ESPN Knockout – Andy Ruiz vs. Damian Knyba",
-        "awayTeam": "",
-        "servers": [
-            {
-                "name": "ESPN 4 | HD",
-                "channel": "ESPN 4 | HD",
-                "url": "https://tvf90.com/1.php?stream=espn4",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG40"
-            },
-            {
-                "name": "ESPN 4 | OP2",
-                "channel": "ESPN 4 | OP2",
-                "url": "https://tvf90.com/2.php?stream=espn4",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG40"
-            },
-            {
-                "name": "ESPN 4 | OP3",
-                "channel": "ESPN 4 | OP3",
-                "url": "https://tvf90.com/3.php?stream=espn4",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG40"
-            }
-        ],
-        "id": 1
-    },
-    {
         "datetime": "2026-09-05T00:30:00Z",
         "flagUrl": "https://futbollibretv.org.pe/uploads/chile_86c07a7b38_fad5126fd0.png",
         "league": "Primera División",
@@ -53,7 +25,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXRudHNwb3J0c2NoaWxl"
             }
         ],
-        "id": 2
+        "id": 1
     },
     {
         "datetime": "2026-09-05T00:30:00Z",
@@ -105,7 +77,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVjZGY="
             }
         ],
-        "id": 3
+        "id": 2
     },
     {
         "datetime": "2026-09-05T00:30:00Z",
@@ -127,7 +99,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXNwb3J0dg=="
             }
         ],
-        "id": 4
+        "id": 3
     },
     {
         "datetime": "2026-09-05T00:30:00Z",
@@ -143,7 +115,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1ldmVuNg=="
             }
         ],
-        "id": 5
+        "id": 4
     },
     {
         "datetime": "2026-09-05T00:30:00Z",
@@ -177,7 +149,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPXdpbnNwb3J0czI="
             }
         ],
-        "id": 6
+        "id": 5
     },
     {
         "datetime": "2026-09-05T02:00:00Z",
@@ -211,7 +183,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4z"
             }
         ],
-        "id": 7
+        "id": 6
     },
     {
         "datetime": "2026-09-05T02:00:00Z",
@@ -227,7 +199,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZ1dHY="
             }
         ],
-        "id": 8
+        "id": 7
     },
     {
         "datetime": "2026-09-05T02:35:00Z",
@@ -261,7 +233,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4y"
             }
         ],
-        "id": 9
+        "id": 8
     },
     {
         "datetime": "2026-09-05T03:00:00Z",
@@ -277,10 +249,10 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1mb3hkZXBvcnRlcw=="
             },
             {
-                "name": "TUDN USA | HD",
-                "channel": "TUDN USA | HD",
-                "url": "https://tvf90.com/hd.php?stream=tudn",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT10dWRu"
+                "name": "Azteca 7",
+                "channel": "Azteca 7",
+                "url": "https://tvf90.com/3.php?stream=azteca7",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWF6dGVjYTc="
             },
             {
                 "name": "FOX Deportes",
@@ -295,10 +267,10 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1henRlY2E3"
             },
             {
-                "name": "Azteca 7",
-                "channel": "Azteca 7",
-                "url": "https://tvf90.com/3.php?stream=azteca7",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWF6dGVjYTc="
+                "name": "TUDN USA | HD",
+                "channel": "TUDN USA | HD",
+                "url": "https://tvf90.com/hd.php?stream=tudn",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT10dWRu"
             },
             {
                 "name": "Azteca 7 | OP2",
@@ -311,18 +283,6 @@
                 "channel": "Azteca 7 | OP3",
                 "url": "https://tvf90.com/2.php?stream=azteca7",
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWF6dGVjYTc="
-            },
-            {
-                "name": "Universo | HD",
-                "channel": "Universo | HD",
-                "url": "https://tvf90.com/hd.php?stream=universo",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT11bml2ZXJzbw=="
-            },
-            {
-                "name": "Universo",
-                "channel": "Universo",
-                "url": "https://tvf90.com/1.php?stream=universo",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXVuaXZlcnNv"
             },
             {
                 "name": "FOX Deportes | OP2",
@@ -343,7 +303,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXR1ZG4="
             }
         ],
-        "id": 10
+        "id": 9
     },
     {
         "datetime": "2026-09-05T03:00:00Z",
@@ -377,6 +337,6 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXR1ZG4="
             }
         ],
-        "id": 11
+        "id": 10
     }
 ]
