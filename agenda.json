@@ -3,22 +3,6 @@
         "datetime": "2026-09-05T11:00:00Z",
         "flagUrl": "https://futbollibretv.org.pe/uploads/alemania_e50aa475de_965dccfbbd.png",
         "league": "2. Bundesliga",
-        "homeTeam": "Holstein Kiel",
-        "awayTeam": "Nürnberg",
-        "servers": [
-            {
-                "name": "Disney+",
-                "channel": "Disney+",
-                "url": "https://tvf90.com/1.php?stream=disney1",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTE="
-            }
-        ],
-        "id": 1
-    },
-    {
-        "datetime": "2026-09-05T11:00:00Z",
-        "flagUrl": "https://futbollibretv.org.pe/uploads/alemania_e50aa475de_965dccfbbd.png",
-        "league": "2. Bundesliga",
         "homeTeam": "Kaiserslautern",
         "awayTeam": "Darmstadt 98",
         "servers": [
@@ -29,7 +13,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTI="
             }
         ],
-        "id": 2
+        "id": 1
     },
     {
         "datetime": "2026-09-05T11:00:00Z",
@@ -55,6 +39,28 @@
                 "channel": "Fox sports 3 | OP2",
                 "url": "https://tvf90.com/2.php?stream=foxsports3",
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWZveHNwb3J0czM="
+            }
+        ],
+        "id": 2
+    },
+    {
+        "datetime": "2026-09-05T11:00:00Z",
+        "flagUrl": "https://futbollibretv.org.pe/uploads/alemania_e50aa475de_965dccfbbd.png",
+        "league": "2. Bundesliga",
+        "homeTeam": "Holstein Kiel",
+        "awayTeam": "Nürnberg",
+        "servers": [
+            {
+                "name": "Disney+",
+                "channel": "Disney+",
+                "url": "https://tvf90.com/1.php?stream=disney1",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTE="
+            },
+            {
+                "name": "Fox Sports",
+                "channel": "Fox Sports",
+                "url": "https://tvf90.com/1.php?stream=foxsports",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZveHNwb3J0cw=="
             }
         ],
         "id": 3
