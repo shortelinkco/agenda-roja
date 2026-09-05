@@ -231,6 +231,44 @@
     },
     {
         "datetime": "2026-09-05T13:00:00Z",
+        "flagUrl": "https://futbollibretv.org.pe/uploads/copamundial_69c33e7ee4.png",
+        "league": "Copa Mundial Femenina Sub-20 de la FIFA",
+        "homeTeam": "Polonia",
+        "awayTeam": "Argentina",
+        "servers": [
+            {
+                "name": "America Television",
+                "channel": "America Television",
+                "url": "https://tvf90.com/1.php?stream=americatv",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWFtZXJpY2F0dg=="
+            }
+        ],
+        "id": 9
+    },
+    {
+        "datetime": "2026-09-05T13:00:00Z",
+        "flagUrl": "https://futbollibretv.org.pe/uploads/copamundial_69c33e7ee4.png",
+        "league": "Copa Mundial Femenina Sub-20 de la FIFA",
+        "homeTeam": "Brasil",
+        "awayTeam": "Tanzania",
+        "servers": [
+            {
+                "name": "Sportv BR HD",
+                "channel": "Sportv BR HD",
+                "url": "https://tvf90.com/hd.php?stream=sportv",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1zcG9ydHY="
+            },
+            {
+                "name": "Sportv BR",
+                "channel": "Sportv BR",
+                "url": "https://tvf90.com/1.php?stream=sportv",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXNwb3J0dg=="
+            }
+        ],
+        "id": 10
+    },
+    {
+        "datetime": "2026-09-05T13:00:00Z",
         "flagUrl": "https://futbollibretv.org.pe/uploads/italia_cb19445d70_41852551f1.png",
         "league": "Serie A",
         "homeTeam": "Fiorentina",
@@ -259,44 +297,36 @@
                 "channel": "ESPN 5 | OP3",
                 "url": "https://tvf90.com/3.php?stream=espn5",
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG41"
-            }
-        ],
-        "id": 9
-    },
-    {
-        "datetime": "2026-09-05T13:00:00Z",
-        "flagUrl": "https://futbollibretv.org.pe/uploads/copamundial_69c33e7ee4.png",
-        "league": "Copa Mundial Femenina Sub-20 de la FIFA",
-        "homeTeam": "Polonia",
-        "awayTeam": "Argentina",
-        "servers": [
-            {
-                "name": "America Television",
-                "channel": "America Television",
-                "url": "https://tvf90.com/1.php?stream=americatv",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWFtZXJpY2F0dg=="
-            }
-        ],
-        "id": 10
-    },
-    {
-        "datetime": "2026-09-05T13:00:00Z",
-        "flagUrl": "https://futbollibretv.org.pe/uploads/copamundial_69c33e7ee4.png",
-        "league": "Copa Mundial Femenina Sub-20 de la FIFA",
-        "homeTeam": "Brasil",
-        "awayTeam": "Tanzania",
-        "servers": [
-            {
-                "name": "Sportv BR HD",
-                "channel": "Sportv BR HD",
-                "url": "https://tvf90.com/hd.php?stream=sportv",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1zcG9ydHY="
             },
             {
-                "name": "Sportv BR",
-                "channel": "Sportv BR",
-                "url": "https://tvf90.com/1.php?stream=sportv",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXNwb3J0dg=="
+                "name": "Disney+",
+                "channel": "Disney+",
+                "url": "https://tvf90.com/1.php?stream=disney6",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTY="
+            },
+            {
+                "name": "ESPN MX | HD",
+                "channel": "ESPN MX | HD",
+                "url": "https://tvf90.com/hd.php?stream=espnmx",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BubXg="
+            },
+            {
+                "name": "ESPN MX",
+                "channel": "ESPN MX",
+                "url": "https://tvf90.com/1.php?stream=espnmx",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG5teA=="
+            },
+            {
+                "name": "ESPN MX | OP2",
+                "channel": "ESPN MX | OP2",
+                "url": "https://tvf90.com/2.php?stream=espnmx",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG5teA=="
+            },
+            {
+                "name": "ESPN MX | OP3",
+                "channel": "ESPN MX | OP3",
+                "url": "https://tvf90.com/3.php?stream=espnmx",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG5teA=="
             }
         ],
         "id": 11
@@ -305,19 +335,17 @@
         "datetime": "2026-09-05T13:30:00Z",
         "flagUrl": "https://futbollibretv.org.pe/uploads/alemania_e50aa475de_965dccfbbd.png",
         "league": "Bundesliga",
-        "homeTeam": "Bayer Leverkusen",
-        "awayTeam": "Union Berlin",
-        "servers": [],
-        "id": 12
-    },
-    {
-        "datetime": "2026-09-05T13:30:00Z",
-        "flagUrl": "https://futbollibretv.org.pe/uploads/alemania_e50aa475de_965dccfbbd.png",
-        "league": "Bundesliga",
         "homeTeam": "Borussia M'gladbach",
         "awayTeam": "Elversberg",
-        "servers": [],
-        "id": 13
+        "servers": [
+            {
+                "name": "Disney+",
+                "channel": "Disney+",
+                "url": "https://tvf90.com/1.php?stream=disney8",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTg="
+            }
+        ],
+        "id": 12
     },
     {
         "datetime": "2026-09-05T13:30:00Z",
@@ -325,7 +353,42 @@
         "league": "Bundesliga",
         "homeTeam": "Hoffenheim",
         "awayTeam": "Borussia Dortmund",
-        "servers": [],
+        "servers": [
+            {
+                "name": "Disney+",
+                "channel": "Disney+",
+                "url": "https://tvf90.com/1.php?stream=disney9",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTk="
+            },
+            {
+                "name": "Universo | HD",
+                "channel": "Universo | HD",
+                "url": "https://tvf90.com/hd.php?stream=universo",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT11bml2ZXJzbw=="
+            },
+            {
+                "name": "Universo",
+                "channel": "Universo",
+                "url": "https://tvf90.com/1.php?stream=universo",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXVuaXZlcnNv"
+            }
+        ],
+        "id": 13
+    },
+    {
+        "datetime": "2026-09-05T13:30:00Z",
+        "flagUrl": "https://futbollibretv.org.pe/uploads/alemania_e50aa475de_965dccfbbd.png",
+        "league": "Bundesliga",
+        "homeTeam": "Bayer Leverkusen",
+        "awayTeam": "Union Berlin",
+        "servers": [
+            {
+                "name": "Disney+",
+                "channel": "Disney+",
+                "url": "https://tvf90.com/1.php?stream=disney7",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTc="
+            }
+        ],
         "id": 14
     },
     {
@@ -334,7 +397,14 @@
         "league": "Bundesliga",
         "homeTeam": "Paderborn",
         "awayTeam": "Freiburg",
-        "servers": [],
+        "servers": [
+            {
+                "name": "Disney+",
+                "channel": "Disney+",
+                "url": "https://tvf90.com/1.php?stream=disney10",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTEw"
+            }
+        ],
         "id": 15
     },
     {
@@ -343,17 +413,15 @@
         "league": "Bundesliga",
         "homeTeam": "Werder Bremen",
         "awayTeam": "RB Leipzig",
-        "servers": [],
+        "servers": [
+            {
+                "name": "Disney+",
+                "channel": "Disney+",
+                "url": "https://tvf90.com/1.php?stream=disney11",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTEx"
+            }
+        ],
         "id": 16
-    },
-    {
-        "datetime": "2026-09-05T14:00:00Z",
-        "flagUrl": "https://futbollibretv.org.pe/uploads/inglaterra_823176495f_fc4f47c43e.png",
-        "league": "Premier League",
-        "homeTeam": "Brentford",
-        "awayTeam": "Sunderland",
-        "servers": [],
-        "id": 17
     },
     {
         "datetime": "2026-09-05T14:00:00Z",
@@ -362,7 +430,7 @@
         "homeTeam": "Brighton & Hove Albion",
         "awayTeam": "Leeds United",
         "servers": [],
-        "id": 18
+        "id": 17
     },
     {
         "datetime": "2026-09-05T14:00:00Z",
@@ -371,7 +439,7 @@
         "homeTeam": "Fulham",
         "awayTeam": "Crystal Palace",
         "servers": [],
-        "id": 19
+        "id": 18
     },
     {
         "datetime": "2026-09-05T14:00:00Z",
@@ -399,7 +467,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4="
             }
         ],
-        "id": 20
+        "id": 19
     },
     {
         "datetime": "2026-09-05T14:00:00Z",
@@ -421,7 +489,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWZveHNwb3J0czI="
             }
         ],
-        "id": 21
+        "id": 20
     },
     {
         "datetime": "2026-09-05T14:00:00Z",
@@ -430,6 +498,22 @@
         "homeTeam": "Nottingham Forest",
         "awayTeam": "Tottenham Hotspur",
         "servers": [],
+        "id": 21
+    },
+    {
+        "datetime": "2026-09-05T14:00:00Z",
+        "flagUrl": "https://futbollibretv.org.pe/uploads/inglaterra_823176495f_fc4f47c43e.png",
+        "league": "Premier League",
+        "homeTeam": "Brentford",
+        "awayTeam": "Sunderland",
+        "servers": [
+            {
+                "name": "Disney+",
+                "channel": "Disney+",
+                "url": "https://tvf90.com/1.php?stream=disney13",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTEz"
+            }
+        ],
         "id": 22
     },
     {
