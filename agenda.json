@@ -1,87 +1,5 @@
 [
     {
-        "datetime": "2026-09-06T01:00:00Z",
-        "flagUrl": "https://futbollibretv.org.pe/uploads/bandera_fbc29cb609_69a4b8272a.png",
-        "league": "Liga MX",
-        "homeTeam": "Tigres UANL",
-        "awayTeam": "Necaxa",
-        "servers": [
-            {
-                "name": "Azteca 7 | HD",
-                "channel": "Azteca 7 | HD",
-                "url": "https://tvf90.com/hd.php?stream=azteca7",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1henRlY2E3"
-            },
-            {
-                "name": "Azteca 7",
-                "channel": "Azteca 7",
-                "url": "https://tvf90.com/3.php?stream=azteca7",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWF6dGVjYTc="
-            },
-            {
-                "name": "Azteca 7 | OP2",
-                "channel": "Azteca 7 | OP2",
-                "url": "https://tvf90.com/1.php?stream=azteca7",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWF6dGVjYTc="
-            },
-            {
-                "name": "Azteca 7 | OP3",
-                "channel": "Azteca 7 | OP3",
-                "url": "https://tvf90.com/2.php?stream=azteca7",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWF6dGVjYTc="
-            },
-            {
-                "name": "FOX Deportes | HD",
-                "channel": "FOX Deportes | HD",
-                "url": "https://tvf90.com/hd.php?stream=foxdeportes",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1mb3hkZXBvcnRlcw=="
-            },
-            {
-                "name": "FOX Deportes",
-                "channel": "FOX Deportes",
-                "url": "https://tvf90.com/1.php?stream=foxdeportes",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZveGRlcG9ydGVz"
-            },
-            {
-                "name": "FOX Deportes | OP2",
-                "channel": "FOX Deportes | OP2",
-                "url": "https://tvf90.com/2.php?stream=foxdeportes",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWZveGRlcG9ydGVz"
-            },
-            {
-                "name": "FOX Deportes | OP3",
-                "channel": "FOX Deportes | OP3",
-                "url": "https://tvf90.com/3.php?stream=foxdeportes",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWZveGRlcG9ydGVz"
-            },
-            {
-                "name": "Telemundo | HD",
-                "channel": "Telemundo | HD",
-                "url": "https://tvf90.com/hd.php?stream=telemundo",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT10ZWxlbXVuZG8="
-            },
-            {
-                "name": "Telemundo",
-                "channel": "Telemundo",
-                "url": "https://tvf90.com/1.php?stream=telemundo",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXRlbGVtdW5kbw=="
-            },
-            {
-                "name": "Universo | HD",
-                "channel": "Universo | HD",
-                "url": "https://tvf90.com/hd.php?stream=universo",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT11bml2ZXJzbw=="
-            },
-            {
-                "name": "Universo",
-                "channel": "Universo",
-                "url": "https://tvf90.com/1.php?stream=universo",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXVuaXZlcnNv"
-            }
-        ],
-        "id": 1
-    },
-    {
         "datetime": "2026-09-06T01:30:00Z",
         "flagUrl": "https://futbollibretv.org.pe/uploads/peru_ddc4e685cf_43831ed9b0.png",
         "league": "Liga 1",
@@ -113,7 +31,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWxpZ2ExbWF4"
             }
         ],
-        "id": 2
+        "id": 1
     },
     {
         "datetime": "2026-09-06T01:30:00Z",
@@ -135,7 +53,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPXdpbnNwb3J0cw=="
             }
         ],
-        "id": 3
+        "id": 2
     },
     {
         "datetime": "2026-09-06T02:00:00Z",
@@ -151,7 +69,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZ1dHY="
             }
         ],
-        "id": 4
+        "id": 3
     },
     {
         "datetime": "2026-09-06T02:30:00Z",
@@ -185,7 +103,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4y"
             }
         ],
-        "id": 5
+        "id": 4
     },
     {
         "datetime": "2026-09-06T02:30:00Z",
@@ -213,7 +131,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG40"
             }
         ],
-        "id": 6
+        "id": 5
     },
     {
         "datetime": "2026-09-06T03:00:00Z",
@@ -265,6 +183,6 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXVuaXZlcnNv"
             }
         ],
-        "id": 7
+        "id": 6
     }
 ]
