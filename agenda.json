@@ -29,25 +29,21 @@
                 "channel": "ESPN 2 | OP3",
                 "url": "https://tvf90.com/3.php?stream=espn2",
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4y"
+            },
+            {
+                "name": "Canal 5 MX",
+                "channel": "Canal 5 MX",
+                "url": "https://tvf90.com/3.php?stream=canal5",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWNhbmFsNQ=="
+            },
+            {
+                "name": "Canal 5 MX HD",
+                "channel": "Canal 5 MX HD",
+                "url": "https://tv-90.com/canal5.php",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90di05MC5jb20vY2FuYWw1LnBocA=="
             }
         ],
         "id": 1
-    },
-    {
-        "datetime": "2026-09-06T10:15:00Z",
-        "flagUrl": "https://futbollibretv.org.pe/uploads/paises_bajos_f773e994b9_3bb0d207d2.png",
-        "league": "Eredivisie",
-        "homeTeam": "Groningen",
-        "awayTeam": "Twente",
-        "servers": [
-            {
-                "name": "ESPN 2 NL",
-                "channel": "ESPN 2 NL",
-                "url": "https://tvf90.com/1.php?stream=espn2_nl",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4yX25s"
-            }
-        ],
-        "id": 2
     },
     {
         "datetime": "2026-09-06T10:15:00Z",
@@ -73,6 +69,22 @@
                 "channel": "ESPN NL | OP3",
                 "url": "https://tvf90.com/3.php?stream=espn1_nl",
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4xX25s"
+            }
+        ],
+        "id": 2
+    },
+    {
+        "datetime": "2026-09-06T10:15:00Z",
+        "flagUrl": "https://futbollibretv.org.pe/uploads/paises_bajos_f773e994b9_3bb0d207d2.png",
+        "league": "Eredivisie",
+        "homeTeam": "Groningen",
+        "awayTeam": "Twente",
+        "servers": [
+            {
+                "name": "Disney+",
+                "channel": "Disney+",
+                "url": "https://tvf90.com/1.php?stream=disney2",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTI="
             }
         ],
         "id": 3
@@ -111,7 +123,14 @@
         "league": "2. Bundesliga",
         "homeTeam": "Osnabrück",
         "awayTeam": "Eintracht Braunschweig",
-        "servers": [],
+        "servers": [
+            {
+                "name": "Disney+",
+                "channel": "Disney+",
+                "url": "https://tvf90.com/1.php?stream=disney4",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTQ="
+            }
+        ],
         "id": 5
     },
     {
@@ -135,15 +154,6 @@
             }
         ],
         "id": 6
-    },
-    {
-        "datetime": "2026-09-06T11:30:00Z",
-        "flagUrl": "https://futbollibretv.org.pe/uploads/alemania_e50aa475de_965dccfbbd.png",
-        "league": "2. Bundesliga",
-        "homeTeam": "Greuther Fürth",
-        "awayTeam": "Heidenheim",
-        "servers": [],
-        "id": 7
     },
     {
         "datetime": "2026-09-06T11:30:00Z",
@@ -175,6 +185,22 @@
                 "channel": "ESPN 2 | OP3",
                 "url": "https://tvf90.com/3.php?stream=espn2",
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4y"
+            }
+        ],
+        "id": 7
+    },
+    {
+        "datetime": "2026-09-06T11:30:00Z",
+        "flagUrl": "https://futbollibretv.org.pe/uploads/alemania_e50aa475de_965dccfbbd.png",
+        "league": "2. Bundesliga",
+        "homeTeam": "Greuther Fürth",
+        "awayTeam": "Heidenheim",
+        "servers": [
+            {
+                "name": "Disney+",
+                "channel": "Disney+",
+                "url": "https://tvf90.com/1.php?stream=disney3",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTM="
             }
         ],
         "id": 8
@@ -281,6 +307,31 @@
     },
     {
         "datetime": "2026-09-06T13:00:00Z",
+        "flagUrl": "https://futbollibretv.org.pe/uploads/paraguay_fc9dd78de7_fda39878d0.png",
+        "league": "Primera División",
+        "homeTeam": "Sportivo Trinidense",
+        "awayTeam": "Olimpia",
+        "servers": [
+            {
+                "name": "fanatiz 01",
+                "channel": "fanatiz 01",
+                "url": "https://tvf90.com/1.php?stream=fanatiz1",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZhbmF0aXox"
+            }
+        ],
+        "id": 13
+    },
+    {
+        "datetime": "2026-09-06T13:00:00Z",
+        "flagUrl": "https://futbollibretv.org.pe/uploads/uruguay_e2b9597af8_6abda609fb.png",
+        "league": "Primera División",
+        "homeTeam": "Cerro",
+        "awayTeam": "Racing",
+        "servers": [],
+        "id": 14
+    },
+    {
+        "datetime": "2026-09-06T13:00:00Z",
         "flagUrl": "https://futbollibretv.org.pe/uploads/italia_cb19445d70_41852551f1.png",
         "league": "Serie A",
         "homeTeam": "Frosinone",
@@ -291,6 +342,12 @@
                 "channel": "ESPN 4 | HD",
                 "url": "https://tvf90.com/1.php?stream=espn4",
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG40"
+            },
+            {
+                "name": "Disney+",
+                "channel": "Disney+",
+                "url": "https://tvf90.com/1.php?stream=disney8",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTg="
             },
             {
                 "name": "ESPN 4 | OP2",
@@ -305,31 +362,6 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG40"
             }
         ],
-        "id": 13
-    },
-    {
-        "datetime": "2026-09-06T13:00:00Z",
-        "flagUrl": "https://futbollibretv.org.pe/uploads/paraguay_fc9dd78de7_fda39878d0.png",
-        "league": "Primera División",
-        "homeTeam": "Sportivo Trinidense",
-        "awayTeam": "Olimpia",
-        "servers": [
-            {
-                "name": "fanatiz 01",
-                "channel": "fanatiz 01",
-                "url": "https://tvf90.com/1.php?stream=fanatiz1",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZhbmF0aXox"
-            }
-        ],
-        "id": 14
-    },
-    {
-        "datetime": "2026-09-06T13:00:00Z",
-        "flagUrl": "https://futbollibretv.org.pe/uploads/uruguay_e2b9597af8_6abda609fb.png",
-        "league": "Primera División",
-        "homeTeam": "Cerro",
-        "awayTeam": "Racing",
-        "servers": [],
         "id": 15
     },
     {
@@ -362,6 +394,12 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4="
             },
             {
+                "name": "Disney+",
+                "channel": "Disney+",
+                "url": "https://tvf90.com/1.php?stream=disney7",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTc="
+            },
+            {
                 "name": "ESPN AR┃OP2",
                 "channel": "ESPN AR┃OP2",
                 "url": "https://tvf90.com/2.php?stream=espn",
@@ -388,6 +426,12 @@
                 "channel": "ESPN MX | HD",
                 "url": "https://tvf90.com/canal.php?stream=espnmx",
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3BubXg="
+            },
+            {
+                "name": "Disney+",
+                "channel": "Disney+",
+                "url": "https://tvf90.com/1.php?stream=disney9",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTk="
             },
             {
                 "name": "ESPN MX",
@@ -465,13 +509,29 @@
     {
         "datetime": "2026-09-06T14:15:00Z",
         "flagUrl": "https://futbollibretv.org.pe/uploads/espana_a8510f9b5f_9213b1e460.png",
+        "league": "LaLiga SmartBank",
+        "homeTeam": "Real Oviedo",
+        "awayTeam": "Burgos",
+        "servers": [
+            {
+                "name": "LaLiga TV Hypermotion ",
+                "channel": "LaLiga TV Hypermotion ",
+                "url": "https://tvf90.com/1.php?stream=hypermotion1",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWh5cGVybW90aW9uMQ=="
+            }
+        ],
+        "id": 22
+    },
+    {
+        "datetime": "2026-09-06T14:15:00Z",
+        "flagUrl": "https://futbollibretv.org.pe/uploads/espana_a8510f9b5f_9213b1e460.png",
         "league": "LaLiga",
         "homeTeam": "Valencia",
         "awayTeam": "Barcelona",
         "servers": [
             {
-                "name": "Dsports Argentina",
-                "channel": "Dsports Argentina",
+                "name": "DSports | HD",
+                "channel": "DSports | HD",
                 "url": "https://tv-90.com/dsportsar.php",
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90di05MC5jb20vZHNwb3J0c2FyLnBocA=="
             },
@@ -510,22 +570,6 @@
                 "channel": "ESPN Deportes  | OP3",
                 "url": "https://tvf90.com/3.php?stream=espndeportes",
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG5kZXBvcnRlcw=="
-            }
-        ],
-        "id": 22
-    },
-    {
-        "datetime": "2026-09-06T14:15:00Z",
-        "flagUrl": "https://futbollibretv.org.pe/uploads/espana_a8510f9b5f_9213b1e460.png",
-        "league": "LaLiga SmartBank",
-        "homeTeam": "Real Oviedo",
-        "awayTeam": "Burgos",
-        "servers": [
-            {
-                "name": "LaLiga TV Hypermotion ",
-                "channel": "LaLiga TV Hypermotion ",
-                "url": "https://tvf90.com/1.php?stream=hypermotion1",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWh5cGVybW90aW9uMQ=="
             }
         ],
         "id": 23
