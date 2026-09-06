@@ -1123,9 +1123,9 @@
     {
         "datetime": "2026-09-06T23:00:00Z",
         "flagUrl": "https://futbollibretv.org.pe/uploads/Tenis_a5d5fcd1d1_594ebf0186.png",
-        "league": "Fútbol",
-        "homeTeam": "Tenis – US Open – Octavos de Final",
-        "awayTeam": "",
+        "league": "US Open – Octavos de Final",
+        "homeTeam": "Shelton B.",
+        "awayTeam": "Tsitsipas S.",
         "servers": [
             {
                 "name": "ESPN 2 | HD",
