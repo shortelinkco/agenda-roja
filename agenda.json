@@ -547,15 +547,6 @@
     },
     {
         "datetime": "2026-09-06T14:00:00Z",
-        "flagUrl": "https://futbollibretv.org.pe/uploads/uruguay_e2b9597af8_6abda609fb.png",
-        "league": "Segunda División",
-        "homeTeam": "Atenas",
-        "awayTeam": "River Plate",
-        "servers": [],
-        "id": 22
-    },
-    {
-        "datetime": "2026-09-06T14:00:00Z",
         "flagUrl": "https://futbollibretv.org.pe/uploads/copamundial_69c33e7ee4.png",
         "league": "Fútbol",
         "homeTeam": "Copa Mundial Femenina",
@@ -566,6 +557,22 @@
                 "channel": "TUDN MX",
                 "url": "https://tvf90.com/1.php?stream=tudn_mx",
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXR1ZG5fbXg="
+            }
+        ],
+        "id": 22
+    },
+    {
+        "datetime": "2026-09-06T14:00:00Z",
+        "flagUrl": "https://futbollibretv.org.pe/uploads/uruguay_e2b9597af8_6abda609fb.png",
+        "league": "Segunda División",
+        "homeTeam": "Atenas",
+        "awayTeam": "River Plate",
+        "servers": [
+            {
+                "name": "Disney+",
+                "channel": "Disney+",
+                "url": "https://tvf90.com/1.php?stream=disney13",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTEz"
             }
         ],
         "id": 23
@@ -710,7 +717,14 @@
         "league": "Ligue 1",
         "homeTeam": "Angers SCO",
         "awayTeam": "Rennes",
-        "servers": [],
+        "servers": [
+            {
+                "name": "Disney+",
+                "channel": "Disney+",
+                "url": "https://tvf90.com/1.php?stream=disney14",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTE0"
+            }
+        ],
         "id": 29
     },
     {
@@ -727,6 +741,18 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4="
             },
             {
+                "name": "Disney+",
+                "channel": "Disney+",
+                "url": "https://tvf90.com/1.php?stream=disney15",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTE1"
+            },
+            {
+                "name": "Telemundo",
+                "channel": "Telemundo",
+                "url": "https://tvf90.com/1.php?stream=telemundo",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXRlbGVtdW5kbw=="
+            },
+            {
                 "name": "ESPN AR┃OP2",
                 "channel": "ESPN AR┃OP2",
                 "url": "https://tvf90.com/2.php?stream=espn",
@@ -737,6 +763,12 @@
                 "channel": "ESPN AR┃OP3",
                 "url": "https://tvf90.com/3.php?stream=espn",
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4="
+            },
+            {
+                "name": "Telemundo | HD",
+                "channel": "Telemundo | HD",
+                "url": "https://tvf90.com/hd.php?stream=telemundo",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT10ZWxlbXVuZG8="
             }
         ],
         "id": 30
@@ -747,7 +779,14 @@
         "league": "Bundesliga",
         "homeTeam": "Eintracht Frankfurt",
         "awayTeam": "Augsburg",
-        "servers": [],
+        "servers": [
+            {
+                "name": "Disney+",
+                "channel": "Disney+",
+                "url": "https://tvf90.com/1.php?stream=disney16",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTE2"
+            }
+        ],
         "id": 31
     },
     {
@@ -842,6 +881,12 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3BubXg="
             },
             {
+                "name": "Disney+",
+                "channel": "Disney+",
+                "url": "https://tvf90.com/1.php?stream=disney17",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTE3"
+            },
+            {
                 "name": "ESPN MX",
                 "channel": "ESPN MX",
                 "url": "https://tvf90.com/1.php?stream=espnmx",
@@ -868,7 +913,14 @@
         "league": "Primera División",
         "homeTeam": "Central Español",
         "awayTeam": "Defensor Sporting",
-        "servers": [],
+        "servers": [
+            {
+                "name": "Disney+",
+                "channel": "Disney+",
+                "url": "https://tvf90.com/1.php?stream=disney18",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTE4"
+            }
+        ],
         "id": 36
     },
     {
@@ -895,6 +947,12 @@
                 "channel": "ESPN 4 | OP3",
                 "url": "https://tvf90.com/3.php?stream=espn4",
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG40"
+            },
+            {
+                "name": "Disney+",
+                "channel": "Disney+",
+                "url": "https://tvf90.com/1.php?stream=disney19",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTE5"
             }
         ],
         "id": 37
@@ -907,10 +965,40 @@
         "awayTeam": "Osasuna",
         "servers": [
             {
+                "name": "Dsports Argentina",
+                "channel": "Dsports Argentina",
+                "url": "https://tv-90.com/dsportsar.php",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90di05MC5jb20vZHNwb3J0c2FyLnBocA=="
+            },
+            {
                 "name": "DSports",
                 "channel": "DSports",
                 "url": "https://tvf90.com/1.php?stream=dsports",
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRzcG9ydHM="
+            },
+            {
+                "name": "DSports | OP3",
+                "channel": "DSports | OP3",
+                "url": "https://tvf90.com/2.php?stream=dsports",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWRzcG9ydHM="
+            },
+            {
+                "name": "ESPN Deportes",
+                "channel": "ESPN Deportes",
+                "url": "https://tvf90.com/1.php?stream=espndeportes",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG5kZXBvcnRlcw=="
+            },
+            {
+                "name": "ESPN Deportes  | OP2",
+                "channel": "ESPN Deportes  | OP2",
+                "url": "https://tvf90.com/2.php?stream=espndeportes",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG5kZXBvcnRlcw=="
+            },
+            {
+                "name": "ESPN Deportes  | OP3",
+                "channel": "ESPN Deportes  | OP3",
+                "url": "https://tvf90.com/3.php?stream=espndeportes",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG5kZXBvcnRlcw=="
             }
         ],
         "id": 38
@@ -937,7 +1025,14 @@
         "league": "Segunda División",
         "homeTeam": "Tacuarembó",
         "awayTeam": "Oriental",
-        "servers": [],
+        "servers": [
+            {
+                "name": "Disney+",
+                "channel": "Disney+",
+                "url": "https://tvf90.com/1.php?stream=disney1",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTE="
+            }
+        ],
         "id": 40
     },
     {
@@ -964,6 +1059,12 @@
                 "channel": "ESPN 3 MX",
                 "url": "https://tvf90.com/1.php?stream=espn3mx",
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4zbXg="
+            },
+            {
+                "name": "Disney+",
+                "channel": "Disney+",
+                "url": "https://tvf90.com/1.php?stream=disney20",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTIw"
             }
         ],
         "id": 41
@@ -1704,6 +1805,12 @@
         "homeTeam": "Cruz Azul",
         "awayTeam": "Santos Laguna",
         "servers": [
+            {
+                "name": "Canal 5 MX HD",
+                "channel": "Canal 5 MX HD",
+                "url": "https://tv-90.com/canal5.php",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90di05MC5jb20vY2FuYWw1LnBocA=="
+            },
             {
                 "name": "Canal 5 MX",
                 "channel": "Canal 5 MX",
