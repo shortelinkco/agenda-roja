@@ -1,159 +1,5 @@
 [
     {
-        "datetime": "2026-09-07T00:00:00Z",
-        "flagUrl": "https://futbollibretv.org.pe/uploads/bolivia_png_81cfc9f71f.png",
-        "league": "Primera División",
-        "homeTeam": "Nacional Potosí",
-        "awayTeam": "Blooming",
-        "servers": [
-            {
-                "name": "Entel TV PLUS+",
-                "channel": "Entel TV PLUS+",
-                "url": "https://tvf90.com/plus1.php?stream=even1",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1ldmVuMQ=="
-            }
-        ],
-        "id": 1
-    },
-    {
-        "datetime": "2026-09-07T00:00:00Z",
-        "flagUrl": "https://futbollibretv.org.pe/uploads/ecuador_6b5e87e044_2fd81bc301.png",
-        "league": "Serie A",
-        "homeTeam": "Aucas",
-        "awayTeam": "Barcelona",
-        "servers": [
-            {
-                "name": "ECDF LigaPRO | HD",
-                "channel": "ECDF LigaPRO | HD",
-                "url": "https://tvf90.com/hd.php?stream=ecdf_ligapro",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lY2RmX2xpZ2Fwcm8="
-            },
-            {
-                "name": "ECDF LigaPro",
-                "channel": "ECDF LigaPro",
-                "url": "https://tvf90.com/1.php?stream=ecdf_ligapro",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVjZGZfbGlnYXBybw=="
-            },
-            {
-                "name": "ECDF LigaPro | OP2",
-                "channel": "ECDF LigaPro | OP2",
-                "url": "https://tvf90.com/2.php?stream=ecdf_ligapro",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVjZGZfbGlnYXBybw=="
-            },
-            {
-                "name": "ECDF LigaPro | OP3",
-                "channel": "ECDF LigaPro | OP3",
-                "url": "https://tvf90.com/3.php?stream=ecdf_ligapro",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVjZGZfbGlnYXBybw=="
-            },
-            {
-                "name": "ECUAVISA",
-                "channel": "ECUAVISA",
-                "url": "https://tvf90.com/1.php?stream=ecdf",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVjZGY="
-            },
-            {
-                "name": "ECUAVISA | OP2",
-                "channel": "ECUAVISA | OP2",
-                "url": "https://tvf90.com/2.php?stream=ecdf",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVjZGY="
-            },
-            {
-                "name": "ECUAVISA | OP3",
-                "channel": "ECUAVISA | OP3",
-                "url": "https://tvf90.com/3.php?stream=ecdf",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVjZGY="
-            }
-        ],
-        "id": 2
-    },
-    {
-        "datetime": "2026-09-07T00:00:00Z",
-        "flagUrl": "https://futbollibretv.org.pe/uploads/ecuador_6b5e87e044_2fd81bc301.png",
-        "league": "Serie A",
-        "homeTeam": "Deportivo Cuenca",
-        "awayTeam": "Libertad",
-        "servers": [
-            {
-                "name": "ECDF LigaPRO | HD",
-                "channel": "ECDF LigaPRO | HD",
-                "url": "https://tvf90.com/hd.php?stream=ecdf_ligapro",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lY2RmX2xpZ2Fwcm8="
-            },
-            {
-                "name": "ECDF LigaPro",
-                "channel": "ECDF LigaPro",
-                "url": "https://tvf90.com/1.php?stream=ecdf_ligapro",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVjZGZfbGlnYXBybw=="
-            },
-            {
-                "name": "ECDF LigaPro | OP2",
-                "channel": "ECDF LigaPro | OP2",
-                "url": "https://tvf90.com/2.php?stream=ecdf_ligapro",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVjZGZfbGlnYXBybw=="
-            },
-            {
-                "name": "ECDF LigaPro | OP3",
-                "channel": "ECDF LigaPro | OP3",
-                "url": "https://tvf90.com/3.php?stream=ecdf_ligapro",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVjZGZfbGlnYXBybw=="
-            },
-            {
-                "name": "ECUAVISA",
-                "channel": "ECUAVISA",
-                "url": "https://tvf90.com/1.php?stream=ecdf",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVjZGY="
-            },
-            {
-                "name": "ECUAVISA | OP2",
-                "channel": "ECUAVISA | OP2",
-                "url": "https://tvf90.com/2.php?stream=ecdf",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVjZGY="
-            },
-            {
-                "name": "ECUAVISA | OP3",
-                "channel": "ECUAVISA | OP3",
-                "url": "https://tvf90.com/3.php?stream=ecdf",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVjZGY="
-            }
-        ],
-        "id": 3
-    },
-    {
-        "datetime": "2026-09-07T00:06:00Z",
-        "flagUrl": "https://futbollibretv.org.pe/uploads/bandera_fbc29cb609_69a4b8272a.png",
-        "league": "Liga MX Femenil",
-        "homeTeam": "Tigres UANL",
-        "awayTeam": "Santos Laguna",
-        "servers": [
-            {
-                "name": "FOX Deportes | HD",
-                "channel": "FOX Deportes | HD",
-                "url": "https://tvf90.com/hd.php?stream=foxdeportes",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1mb3hkZXBvcnRlcw=="
-            },
-            {
-                "name": "FOX Deportes",
-                "channel": "FOX Deportes",
-                "url": "https://tvf90.com/1.php?stream=foxdeportes",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZveGRlcG9ydGVz"
-            },
-            {
-                "name": "FOX Deportes | OP2",
-                "channel": "FOX Deportes | OP2",
-                "url": "https://tvf90.com/2.php?stream=foxdeportes",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWZveGRlcG9ydGVz"
-            },
-            {
-                "name": "FOX Deportes | OP3",
-                "channel": "FOX Deportes | OP3",
-                "url": "https://tvf90.com/3.php?stream=foxdeportes",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWZveGRlcG9ydGVz"
-            }
-        ],
-        "id": 4
-    },
-    {
         "datetime": "2026-09-07T00:30:00Z",
         "flagUrl": "https://futbollibretv.org.pe/uploads/argentina_2bd748026e_628913fc18.png",
         "league": "Liga Profesional",
@@ -185,7 +31,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG5wcmVtaXVt"
             }
         ],
-        "id": 5
+        "id": 1
     },
     {
         "datetime": "2026-09-07T01:15:00Z",
@@ -243,6 +89,6 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09dW5pdmlzaW9u"
             }
         ],
-        "id": 6
+        "id": 2
     }
 ]
