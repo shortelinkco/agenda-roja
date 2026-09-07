@@ -81,6 +81,12 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT11bml2ZXJzbw=="
             },
             {
+                "name": "Disney+",
+                "channel": "Disney+",
+                "url": "https://tvf90.com/1.php?stream=disney1",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTE="
+            },
+            {
                 "name": "Universo",
                 "channel": "Universo",
                 "url": "https://tvf90.com/1.php?stream=universo",
@@ -147,6 +153,12 @@
                 "channel": "ESPN 4 | OP3",
                 "url": "https://tvf90.com/3.php?stream=espn4",
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG40"
+            },
+            {
+                "name": "Disney+",
+                "channel": "Disney+",
+                "url": "https://tvf90.com/1.php?stream=disney2",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTI="
             },
             {
                 "name": "ESPN Deportes",
@@ -221,15 +233,6 @@
     },
     {
         "datetime": "2026-09-07T18:00:00Z",
-        "flagUrl": "https://futbollibretv.org.pe/uploads/uruguay_e2b9597af8_6abda609fb.png",
-        "league": "Primera División",
-        "homeTeam": "Albion",
-        "awayTeam": "Progreso",
-        "servers": [],
-        "id": 8
-    },
-    {
-        "datetime": "2026-09-07T18:00:00Z",
         "flagUrl": "https://futbollibretv.org.pe/uploads/paises_bajos_f773e994b9_3bb0d207d2.png",
         "league": "Eerste Divisie",
         "homeTeam": "PSV II",
@@ -254,7 +257,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4xX25s"
             }
         ],
-        "id": 9
+        "id": 8
     },
     {
         "datetime": "2026-09-07T18:00:00Z",
@@ -286,6 +289,22 @@
                 "channel": "FOX Deportes | OP3",
                 "url": "https://tvf90.com/3.php?stream=foxdeportes",
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWZveGRlcG9ydGVz"
+            }
+        ],
+        "id": 9
+    },
+    {
+        "datetime": "2026-09-07T18:00:00Z",
+        "flagUrl": "https://futbollibretv.org.pe/uploads/uruguay_e2b9597af8_6abda609fb.png",
+        "league": "Primera División",
+        "homeTeam": "Albion",
+        "awayTeam": "Progreso",
+        "servers": [
+            {
+                "name": "Disney+",
+                "channel": "Disney+",
+                "url": "https://tvf90.com/1.php?stream=disney3",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTM="
             }
         ],
         "id": 10
@@ -320,6 +339,12 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT11bml2ZXJzbw=="
             },
             {
+                "name": "Disney+",
+                "channel": "Disney+",
+                "url": "https://tvf90.com/1.php?stream=disney4",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTQ="
+            },
+            {
                 "name": "Universo",
                 "channel": "Universo",
                 "url": "https://tvf90.com/1.php?stream=universo",
@@ -343,7 +368,14 @@
         "league": "Primera División",
         "homeTeam": "Guaraní",
         "awayTeam": "Deportivo Recoleta",
-        "servers": [],
+        "servers": [
+            {
+                "name": "fanatiz 01",
+                "channel": "fanatiz 01",
+                "url": "https://tvf90.com/1.php?stream=fanatiz1",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZhbmF0aXox"
+            }
+        ],
         "id": 14
     },
     {
@@ -370,6 +402,12 @@
                 "channel": "ESPN 4 | OP3",
                 "url": "https://tvf90.com/3.php?stream=espn4",
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG40"
+            },
+            {
+                "name": "Disney+",
+                "channel": "Disney+",
+                "url": "https://tvf90.com/1.php?stream=disney5",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTU="
             },
             {
                 "name": "ESPN Deportes",
