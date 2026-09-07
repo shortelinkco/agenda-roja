@@ -1,39 +1,5 @@
 [
     {
-        "datetime": "2026-09-07T00:30:00Z",
-        "flagUrl": "https://futbollibretv.org.pe/uploads/argentina_2bd748026e_628913fc18.png",
-        "league": "Liga Profesional",
-        "homeTeam": "Racing Club",
-        "awayTeam": "Atlético Tucumán",
-        "servers": [
-            {
-                "name": "ESPN Premium┃HD",
-                "channel": "ESPN Premium┃HD",
-                "url": "https://tvf90.com/hd.php?stream=espnpremium",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BucHJlbWl1bQ=="
-            },
-            {
-                "name": "ESPN Premium",
-                "channel": "ESPN Premium",
-                "url": "https://tvf90.com/1.php?stream=espnpremium",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG5wcmVtaXVt"
-            },
-            {
-                "name": "ESPN Premium┃OP2",
-                "channel": "ESPN Premium┃OP2",
-                "url": "https://tvf90.com/2.php?stream=espnpremium",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG5wcmVtaXVt"
-            },
-            {
-                "name": "ESPN Premium┃OP3",
-                "channel": "ESPN Premium┃OP3",
-                "url": "https://tvf90.com/3.php?stream=espnpremium",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG5wcmVtaXVt"
-            }
-        ],
-        "id": 1
-    },
-    {
         "datetime": "2026-09-07T01:15:00Z",
         "flagUrl": "https://futbollibretv.org.pe/uploads/leagues_cup_f7b23c5e8d_a6922075d9.png",
         "league": "Leagues Cup",
@@ -89,6 +55,6 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09dW5pdmlzaW9u"
             }
         ],
-        "id": 2
+        "id": 1
     }
 ]
