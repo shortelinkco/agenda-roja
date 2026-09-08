@@ -1,103 +1,5 @@
 [
     {
-        "datetime": "2026-09-08T13:00:00Z",
-        "flagUrl": "https://futbollibretv.org.pe/uploads/copamundial_69c33e7ee4.png",
-        "league": "Mundial Femenina Sub-20 de la FIFA",
-        "homeTeam": "Brasil",
-        "awayTeam": "Canadá",
-        "servers": [
-            {
-                "name": "Sportv 2 BR",
-                "channel": "Sportv 2 BR",
-                "url": "https://tvf90.com/1.php?stream=sportv2",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXNwb3J0djI="
-            },
-            {
-                "name": "Dsports 2 | HD",
-                "channel": "Dsports 2 | HD",
-                "url": "https://tvf90.com/hd.php?stream=dsports2",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1kc3BvcnRzMg=="
-            },
-            {
-                "name": "Dsports 2",
-                "channel": "Dsports 2",
-                "url": "https://tvf90.com/3.php?stream=dsports2",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWRzcG9ydHMy"
-            },
-            {
-                "name": "Dsports 2 | OP2",
-                "channel": "Dsports 2 | OP2",
-                "url": "https://tvf90.com/1.php?stream=dsports2",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRzcG9ydHMy"
-            },
-            {
-                "name": "Dsports 2 | OP3",
-                "channel": "Dsports 2 | OP3",
-                "url": "https://tvf90.com/2.php?stream=dsports2",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWRzcG9ydHMy"
-            },
-            {
-                "name": "TUDN MX",
-                "channel": "TUDN MX",
-                "url": "https://tvf90.com/1.php?stream=tudn_mx",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXR1ZG5fbXg="
-            },
-            {
-                "name": "Fox Sports 2 USA",
-                "channel": "Fox Sports 2 USA",
-                "url": "https://tvf90.com/1.php?stream=foxsports2_usa",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZveHNwb3J0czJfdXNh"
-            },
-            {
-                "name": "Fox Sports 2 USA | OP2",
-                "channel": "Fox Sports 2 USA | OP2",
-                "url": "https://tvf90.com/2.php?stream=foxsports2_usa",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWZveHNwb3J0czJfdXNh"
-            }
-        ],
-        "id": 1
-    },
-    {
-        "datetime": "2026-09-08T13:00:00Z",
-        "flagUrl": "https://futbollibretv.org.pe/uploads/copamundial_69c33e7ee4.png",
-        "league": "Mundial Femenina Sub-20 de la FIFA",
-        "homeTeam": "Benín",
-        "awayTeam": "Argentina",
-        "servers": [
-            {
-                "name": "Dsports Argentina",
-                "channel": "Dsports Argentina",
-                "url": "https://tv-90.com/dsportsar.php",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90di05MC5jb20vZHNwb3J0c2FyLnBocA=="
-            },
-            {
-                "name": "DSports",
-                "channel": "DSports",
-                "url": "https://tvf90.com/1.php?stream=dsports",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRzcG9ydHM="
-            },
-            {
-                "name": "DSports | OP3",
-                "channel": "DSports | OP3",
-                "url": "https://tvf90.com/2.php?stream=dsports",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWRzcG9ydHM="
-            },
-            {
-                "name": "Telemundo | HD",
-                "channel": "Telemundo | HD",
-                "url": "https://tvf90.com/hd.php?stream=telemundo",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT10ZWxlbXVuZG8="
-            },
-            {
-                "name": "Telemundo",
-                "channel": "Telemundo",
-                "url": "https://tvf90.com/1.php?stream=telemundo",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXRlbGVtdW5kbw=="
-            }
-        ],
-        "id": 2
-    },
-    {
         "datetime": "2026-09-08T14:00:00Z",
         "flagUrl": "https://futbollibretv.org.pe/uploads/uefa_youth_league_340883829a.png",
         "league": "UEFA Youth League",
@@ -111,7 +13,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTI="
             }
         ],
-        "id": 3
+        "id": 1
     },
     {
         "datetime": "2026-09-08T15:30:00Z",
@@ -145,7 +47,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4y"
             }
         ],
-        "id": 4
+        "id": 2
     },
     {
         "datetime": "2026-09-08T16:00:00Z",
@@ -185,7 +87,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXR1ZG5fbXg="
             }
         ],
-        "id": 5
+        "id": 3
     },
     {
         "datetime": "2026-09-08T16:00:00Z",
@@ -219,7 +121,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWRzcG9ydHMy"
             }
         ],
-        "id": 6
+        "id": 4
     },
     {
         "datetime": "2026-09-08T16:45:00Z",
@@ -247,7 +149,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4xX25s"
             }
         ],
-        "id": 7
+        "id": 5
     },
     {
         "datetime": "2026-09-08T16:45:00Z",
@@ -299,7 +201,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXBhcmFtb3VudDI="
             }
         ],
-        "id": 8
+        "id": 6
     },
     {
         "datetime": "2026-09-08T16:45:00Z",
@@ -345,7 +247,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXBhcmFtb3VudDE="
             }
         ],
-        "id": 9
+        "id": 7
     },
     {
         "datetime": "2026-09-08T17:00:00Z",
@@ -379,7 +281,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4y"
             }
         ],
-        "id": 10
+        "id": 8
     },
     {
         "datetime": "2026-09-08T18:00:00Z",
@@ -401,7 +303,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXNwb3J0dg=="
             }
         ],
-        "id": 11
+        "id": 9
     },
     {
         "datetime": "2026-09-08T18:00:00Z",
@@ -435,7 +337,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXRudHNwb3J0cw=="
             }
         ],
-        "id": 12
+        "id": 10
     },
     {
         "datetime": "2026-09-08T18:00:00Z",
@@ -481,7 +383,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWZveHNwb3J0czJfdXNh"
             }
         ],
-        "id": 13
+        "id": 11
     },
     {
         "datetime": "2026-09-08T18:45:00Z",
@@ -497,7 +399,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTU="
             }
         ],
-        "id": 14
+        "id": 12
     },
     {
         "datetime": "2026-09-08T18:45:00Z",
@@ -513,7 +415,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTc="
             }
         ],
-        "id": 15
+        "id": 13
     },
     {
         "datetime": "2026-09-08T18:45:00Z",
@@ -529,7 +431,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTY="
             }
         ],
-        "id": 16
+        "id": 14
     },
     {
         "datetime": "2026-09-08T19:00:00Z",
@@ -545,7 +447,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1ldmVuMQ=="
             }
         ],
-        "id": 17
+        "id": 15
     },
     {
         "datetime": "2026-09-08T19:00:00Z",
@@ -615,7 +517,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPW1heDE="
             }
         ],
-        "id": 18
+        "id": 16
     },
     {
         "datetime": "2026-09-08T19:00:00Z",
@@ -667,7 +569,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWZveHNwb3J0cw=="
             }
         ],
-        "id": 19
+        "id": 17
     },
     {
         "datetime": "2026-09-08T19:00:00Z",
@@ -683,7 +585,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTEy"
             }
         ],
-        "id": 20
+        "id": 18
     },
     {
         "datetime": "2026-09-08T19:00:00Z",
@@ -699,7 +601,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTEz"
             }
         ],
-        "id": 21
+        "id": 19
     },
     {
         "datetime": "2026-09-08T19:00:00Z",
@@ -733,7 +635,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTk="
             }
         ],
-        "id": 22
+        "id": 20
     },
     {
         "datetime": "2026-09-08T19:00:00Z",
@@ -767,7 +669,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTEw"
             }
         ],
-        "id": 23
+        "id": 21
     },
     {
         "datetime": "2026-09-08T22:00:00Z",
@@ -801,7 +703,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWJlaW5zcG9ydGVz"
             }
         ],
-        "id": 24
+        "id": 22
     },
     {
         "datetime": "2026-09-08T22:00:00Z",
@@ -829,7 +731,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4="
             }
         ],
-        "id": 25
+        "id": 23
     },
     {
         "datetime": "2026-09-08T22:30:00Z",
@@ -845,7 +747,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1ldmVuMQ=="
             }
         ],
-        "id": 26
+        "id": 24
     },
     {
         "datetime": "2026-09-08T23:00:00Z",
@@ -879,7 +781,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4y"
             }
         ],
-        "id": 27
+        "id": 25
     },
     {
         "datetime": "2026-09-09T00:30:00Z",
@@ -895,7 +797,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1ldmVuMQ=="
             }
         ],
-        "id": 28
+        "id": 26
     },
     {
         "datetime": "2026-09-09T00:30:00Z",
@@ -923,7 +825,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4="
             }
         ],
-        "id": 29
+        "id": 27
     },
     {
         "datetime": "2026-09-09T00:30:00Z",
@@ -957,7 +859,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXdpbnNwb3J0cw=="
             }
         ],
-        "id": 30
+        "id": 28
     },
     {
         "datetime": "2026-09-09T01:30:00Z",
@@ -985,6 +887,6 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG40"
             }
         ],
-        "id": 31
+        "id": 29
     }
 ]
