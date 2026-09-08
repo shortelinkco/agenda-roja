@@ -61,6 +61,48 @@
                 "channel": "Sportv 2 BR",
                 "url": "https://tvf90.com/1.php?stream=sportv2",
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXNwb3J0djI="
+            },
+            {
+                "name": "Dsports 2 | HD",
+                "channel": "Dsports 2 | HD",
+                "url": "https://tvf90.com/hd.php?stream=dsports2",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1kc3BvcnRzMg=="
+            },
+            {
+                "name": "Dsports 2",
+                "channel": "Dsports 2",
+                "url": "https://tvf90.com/3.php?stream=dsports2",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWRzcG9ydHMy"
+            },
+            {
+                "name": "Dsports 2 | OP2",
+                "channel": "Dsports 2 | OP2",
+                "url": "https://tvf90.com/1.php?stream=dsports2",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRzcG9ydHMy"
+            },
+            {
+                "name": "Dsports 2 | OP3",
+                "channel": "Dsports 2 | OP3",
+                "url": "https://tvf90.com/2.php?stream=dsports2",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWRzcG9ydHMy"
+            },
+            {
+                "name": "TUDN MX",
+                "channel": "TUDN MX",
+                "url": "https://tvf90.com/1.php?stream=tudn_mx",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXR1ZG5fbXg="
+            },
+            {
+                "name": "Fox Sports 2 USA",
+                "channel": "Fox Sports 2 USA",
+                "url": "https://tvf90.com/1.php?stream=foxsports2_usa",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZveHNwb3J0czJfdXNh"
+            },
+            {
+                "name": "Fox Sports 2 USA | OP2",
+                "channel": "Fox Sports 2 USA | OP2",
+                "url": "https://tvf90.com/2.php?stream=foxsports2_usa",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWZveHNwb3J0czJfdXNh"
             }
         ],
         "id": 3
@@ -72,6 +114,24 @@
         "homeTeam": "Benín",
         "awayTeam": "Argentina",
         "servers": [
+            {
+                "name": "Dsports Argentina",
+                "channel": "Dsports Argentina",
+                "url": "https://tv-90.com/dsportsar.php",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90di05MC5jb20vZHNwb3J0c2FyLnBocA=="
+            },
+            {
+                "name": "DSports",
+                "channel": "DSports",
+                "url": "https://tvf90.com/1.php?stream=dsports",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRzcG9ydHM="
+            },
+            {
+                "name": "DSports | OP3",
+                "channel": "DSports | OP3",
+                "url": "https://tvf90.com/2.php?stream=dsports",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWRzcG9ydHM="
+            },
             {
                 "name": "Telemundo | HD",
                 "channel": "Telemundo | HD",
@@ -93,7 +153,14 @@
         "league": "UEFA Youth League",
         "homeTeam": "Real Madrid",
         "awayTeam": "Inter",
-        "servers": [],
+        "servers": [
+            {
+                "name": "Disney+",
+                "channel": "Disney+",
+                "url": "https://tvf90.com/1.php?stream=disney2",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTI="
+            }
+        ],
         "id": 5
     },
     {
@@ -160,6 +227,12 @@
                 "channel": "Universo",
                 "url": "https://tvf90.com/1.php?stream=universo",
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXVuaXZlcnNv"
+            },
+            {
+                "name": "TUDN MX",
+                "channel": "TUDN MX",
+                "url": "https://tvf90.com/1.php?stream=tudn_mx",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXR1ZG5fbXg="
             }
         ],
         "id": 7
@@ -172,22 +245,28 @@
         "awayTeam": "Tanzania",
         "servers": [
             {
-                "name": "DSports | HD",
-                "channel": "DSports | HD",
-                "url": "https://tv-90.com/dsportsar.php",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90di05MC5jb20vZHNwb3J0c2FyLnBocA=="
+                "name": "Dsports 2 | HD",
+                "channel": "Dsports 2 | HD",
+                "url": "https://tvf90.com/hd.php?stream=dsports2",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1kc3BvcnRzMg=="
             },
             {
-                "name": "DSports",
-                "channel": "DSports",
-                "url": "https://tvf90.com/1.php?stream=dsports",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRzcG9ydHM="
+                "name": "Dsports 2",
+                "channel": "Dsports 2",
+                "url": "https://tvf90.com/3.php?stream=dsports2",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWRzcG9ydHMy"
             },
             {
-                "name": "DSports | OP3",
-                "channel": "DSports | OP3",
-                "url": "https://tvf90.com/2.php?stream=dsports",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWRzcG9ydHM="
+                "name": "Dsports 2 | OP2",
+                "channel": "Dsports 2 | OP2",
+                "url": "https://tvf90.com/1.php?stream=dsports2",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRzcG9ydHMy"
+            },
+            {
+                "name": "Dsports 2 | OP3",
+                "channel": "Dsports 2 | OP3",
+                "url": "https://tvf90.com/2.php?stream=dsports2",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWRzcG9ydHMy"
             }
         ],
         "id": 8
@@ -224,6 +303,58 @@
         "datetime": "2026-09-08T16:45:00Z",
         "flagUrl": "https://futbollibretv.org.pe/uploads/UEFA_Champions_L_e95eab40e4_9fff1e273b.png",
         "league": "UEFA Champions League",
+        "homeTeam": "Club Brugge",
+        "awayTeam": "Aston Villa",
+        "servers": [
+            {
+                "name": "ESPN",
+                "channel": "ESPN",
+                "url": "https://tvf90.com/canal.php?stream=espn",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3Bu"
+            },
+            {
+                "name": "ESPN AR┃OP2",
+                "channel": "ESPN AR┃OP2",
+                "url": "https://tvf90.com/2.php?stream=espn",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG4="
+            },
+            {
+                "name": "ESPN AR┃OP3",
+                "channel": "ESPN AR┃OP3",
+                "url": "https://tvf90.com/3.php?stream=espn",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4="
+            },
+            {
+                "name": "Disney+",
+                "channel": "Disney+",
+                "url": "https://tvf90.com/1.php?stream=disney4",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTQ="
+            },
+            {
+                "name": "Fox Sports",
+                "channel": "Fox Sports",
+                "url": "https://tvf90.com/1.php?stream=foxsports",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZveHNwb3J0cw=="
+            },
+            {
+                "name": "Fox Sports | OP2",
+                "channel": "Fox Sports | OP2",
+                "url": "https://tvf90.com/2.php?stream=foxsports",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWZveHNwb3J0cw=="
+            },
+            {
+                "name": "Paramount+",
+                "channel": "Paramount+",
+                "url": "https://tvf90.com/1.php?stream=paramount2",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXBhcmFtb3VudDI="
+            }
+        ],
+        "id": 10
+    },
+    {
+        "datetime": "2026-09-08T16:45:00Z",
+        "flagUrl": "https://futbollibretv.org.pe/uploads/UEFA_Champions_L_e95eab40e4_9fff1e273b.png",
+        "league": "UEFA Champions League",
         "homeTeam": "AEK Athens",
         "awayTeam": "LASK Linz",
         "servers": [
@@ -250,49 +381,43 @@
                 "channel": "ESPN 5 | OP3",
                 "url": "https://tvf90.com/3.php?stream=espn5",
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG41"
-            }
-        ],
-        "id": 10
-    },
-    {
-        "datetime": "2026-09-08T16:45:00Z",
-        "flagUrl": "https://futbollibretv.org.pe/uploads/UEFA_Champions_L_e95eab40e4_9fff1e273b.png",
-        "league": "UEFA Champions League",
-        "homeTeam": "Club Brugge",
-        "awayTeam": "Aston Villa",
-        "servers": [
-            {
-                "name": "ESPN",
-                "channel": "ESPN",
-                "url": "https://tvf90.com/canal.php?stream=espn",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3Bu"
             },
             {
-                "name": "ESPN AR┃OP2",
-                "channel": "ESPN AR┃OP2",
-                "url": "https://tvf90.com/2.php?stream=espn",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG4="
+                "name": "Disney+",
+                "channel": "Disney+",
+                "url": "https://tvf90.com/1.php?stream=disney3",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTM="
             },
             {
-                "name": "ESPN AR┃OP3",
-                "channel": "ESPN AR┃OP3",
-                "url": "https://tvf90.com/3.php?stream=espn",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4="
-            },
-            {
-                "name": "Fox Sports",
-                "channel": "Fox Sports",
-                "url": "https://tvf90.com/1.php?stream=foxsports",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZveHNwb3J0cw=="
-            },
-            {
-                "name": "Fox Sports | OP2",
-                "channel": "Fox Sports | OP2",
-                "url": "https://tvf90.com/2.php?stream=foxsports",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWZveHNwb3J0cw=="
+                "name": "Paramount+",
+                "channel": "Paramount+",
+                "url": "https://tvf90.com/1.php?stream=paramount1",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXBhcmFtb3VudDE="
             }
         ],
         "id": 11
+    },
+    {
+        "datetime": "2026-09-08T18:00:00Z",
+        "flagUrl": "https://futbollibretv.org.pe/uploads/arabia_saudita_82c6f9c376_70d77b2bc2.png",
+        "league": "Pro League",
+        "homeTeam": "Al Ittihad",
+        "awayTeam": "Al-Fayha",
+        "servers": [
+            {
+                "name": "Sportv BR HD",
+                "channel": "Sportv BR HD",
+                "url": "https://tvf90.com/hd.php?stream=sportv",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1zcG9ydHY="
+            },
+            {
+                "name": "Sportv BR",
+                "channel": "Sportv BR",
+                "url": "https://tvf90.com/1.php?stream=sportv",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXNwb3J0dg=="
+            }
+        ],
+        "id": 12
     },
     {
         "datetime": "2026-09-08T18:00:00Z",
@@ -326,7 +451,101 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXRudHNwb3J0cw=="
             }
         ],
-        "id": 12
+        "id": 13
+    },
+    {
+        "datetime": "2026-09-08T18:00:00Z",
+        "flagUrl": "https://futbollibretv.org.pe/uploads/arabia_saudita_82c6f9c376_70d77b2bc2.png",
+        "league": "Pro League",
+        "homeTeam": "Al Quadisiya",
+        "awayTeam": "Al-Ahli",
+        "servers": [
+            {
+                "name": "FOX Deportes | HD",
+                "channel": "FOX Deportes | HD",
+                "url": "https://tvf90.com/hd.php?stream=foxdeportes",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1mb3hkZXBvcnRlcw=="
+            },
+            {
+                "name": "FOX Deportes",
+                "channel": "FOX Deportes",
+                "url": "https://tvf90.com/1.php?stream=foxdeportes",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZveGRlcG9ydGVz"
+            },
+            {
+                "name": "FOX Deportes | OP2",
+                "channel": "FOX Deportes | OP2",
+                "url": "https://tvf90.com/2.php?stream=foxdeportes",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWZveGRlcG9ydGVz"
+            },
+            {
+                "name": "FOX Deportes | OP3",
+                "channel": "FOX Deportes | OP3",
+                "url": "https://tvf90.com/3.php?stream=foxdeportes",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWZveGRlcG9ydGVz"
+            },
+            {
+                "name": "Fox Sports 2 USA",
+                "channel": "Fox Sports 2 USA",
+                "url": "https://tvf90.com/1.php?stream=foxsports2_usa",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZveHNwb3J0czJfdXNh"
+            },
+            {
+                "name": "Fox Sports 2 USA | OP2",
+                "channel": "Fox Sports 2 USA | OP2",
+                "url": "https://tvf90.com/2.php?stream=foxsports2_usa",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWZveHNwb3J0czJfdXNh"
+            }
+        ],
+        "id": 14
+    },
+    {
+        "datetime": "2026-09-08T18:45:00Z",
+        "flagUrl": "https://futbollibretv.org.pe/uploads/inglaterra_823176495f_fc4f47c43e.png",
+        "league": "Carabao Cup",
+        "homeTeam": "Crystal Palace",
+        "awayTeam": "Middlesbrough",
+        "servers": [
+            {
+                "name": "Disney+",
+                "channel": "Disney+",
+                "url": "https://tvf90.com/1.php?stream=disney5",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTU="
+            }
+        ],
+        "id": 15
+    },
+    {
+        "datetime": "2026-09-08T18:45:00Z",
+        "flagUrl": "https://futbollibretv.org.pe/uploads/inglaterra_823176495f_fc4f47c43e.png",
+        "league": "Carabao Cup",
+        "homeTeam": "Sunderland",
+        "awayTeam": "Hull City",
+        "servers": [
+            {
+                "name": "Disney+",
+                "channel": "Disney+",
+                "url": "https://tvf90.com/1.php?stream=disney7",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTc="
+            }
+        ],
+        "id": 16
+    },
+    {
+        "datetime": "2026-09-08T18:45:00Z",
+        "flagUrl": "https://futbollibretv.org.pe/uploads/inglaterra_823176495f_fc4f47c43e.png",
+        "league": "Carabao Cup",
+        "homeTeam": "AFC Bournemouth",
+        "awayTeam": "Lincoln City",
+        "servers": [
+            {
+                "name": "Disney+",
+                "channel": "Disney+",
+                "url": "https://tvf90.com/1.php?stream=disney6",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTY="
+            }
+        ],
+        "id": 17
     },
     {
         "datetime": "2026-09-08T19:00:00Z",
@@ -342,7 +561,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1ldmVuMQ=="
             }
         ],
-        "id": 13
+        "id": 18
     },
     {
         "datetime": "2026-09-08T19:00:00Z",
@@ -370,7 +589,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4="
             }
         ],
-        "id": 14
+        "id": 19
     },
     {
         "datetime": "2026-09-08T19:00:00Z",
@@ -416,7 +635,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWZveHNwb3J0cw=="
             }
         ],
-        "id": 15
+        "id": 20
     },
     {
         "datetime": "2026-09-08T19:00:00Z",
@@ -425,7 +644,7 @@
         "homeTeam": "Bolton Wanderers",
         "awayTeam": "West Ham United",
         "servers": [],
-        "id": 16
+        "id": 21
     },
     {
         "datetime": "2026-09-08T19:00:00Z",
@@ -453,7 +672,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG40"
             }
         ],
-        "id": 17
+        "id": 22
     },
     {
         "datetime": "2026-09-08T19:00:00Z",
@@ -481,7 +700,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG42"
             }
         ],
-        "id": 18
+        "id": 23
     },
     {
         "datetime": "2026-09-08T22:00:00Z",
@@ -515,7 +734,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4z"
             }
         ],
-        "id": 19
+        "id": 24
     },
     {
         "datetime": "2026-09-08T22:00:00Z",
@@ -543,7 +762,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4="
             }
         ],
-        "id": 20
+        "id": 25
     },
     {
         "datetime": "2026-09-08T22:30:00Z",
@@ -559,7 +778,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1ldmVuMQ=="
             }
         ],
-        "id": 21
+        "id": 26
     },
     {
         "datetime": "2026-09-08T23:00:00Z",
@@ -593,7 +812,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4y"
             }
         ],
-        "id": 22
+        "id": 27
     },
     {
         "datetime": "2026-09-09T00:30:00Z",
@@ -609,7 +828,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1ldmVuMQ=="
             }
         ],
-        "id": 23
+        "id": 28
     },
     {
         "datetime": "2026-09-09T00:30:00Z",
@@ -637,7 +856,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4="
             }
         ],
-        "id": 24
+        "id": 29
     },
     {
         "datetime": "2026-09-09T00:30:00Z",
@@ -671,7 +890,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXdpbnNwb3J0cw=="
             }
         ],
-        "id": 25
+        "id": 30
     },
     {
         "datetime": "2026-09-09T01:30:00Z",
@@ -699,6 +918,6 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG40"
             }
         ],
-        "id": 26
+        "id": 31
     }
 ]
