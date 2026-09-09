@@ -102,13 +102,6 @@ def obtener_bandera(liga, encuentro):
     # Balón por defecto
     return "https://cdn-icons-png.flaticon.com/512/53/53283.png"
 
-def proxy_imagen(url):
-    if not url:
-        return ""
-    if "flaticon.com" in url or "flagcdn.com" in url:
-        return url
-    return f"https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=2592000&url={urllib.parse.quote(url, safe='')}"
-
 def desencriptar_enlace(iframe_str):
     try:
         if 'r=' in str(iframe_str):
@@ -345,8 +338,6 @@ def extraer_partidos():
                             
                 if not bandera_magica:
                     bandera_magica = obtener_bandera(liga, encuentro)
-
-                bandera_magica = proxy_imagen(bandera_magica)
 
                 partidos_agrupados[match_key] = {
                     "datetime": datetime_utc,
