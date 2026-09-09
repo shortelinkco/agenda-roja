@@ -6,8 +6,6 @@ import re
 import time
 import urllib.parse 
 import os
-import urllib3
-urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 # ==========================================================
 # 1. PANEL DE CONFIGURACIÓN GENERAL (¡MODIFICA ESTO PARA CADA BOT!)
@@ -166,24 +164,6 @@ def extraer_iframe_limpio(url_sucia):
         return re.sub(r'/[^/]+\.php\?stream=', '/6.php?stream=', url_sucia)
         
     return url_sucia
-
-def url_a_base64(url):
-    if not url or url.startswith("data:"):
-        return url
-    try:
-        h = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
-        res = requests.get(url, headers=h, timeout=5, verify=False)
-        if res.status_code == 200:
-            b64 = base64.b64encode(res.content).decode('utf-8')
-            mime = "image/png"
-            if ".jpg" in url.lower() or ".jpeg" in url.lower(): mime = "image/jpeg"
-            elif ".webp" in url.lower(): mime = "image/webp"
-            return f"data:{mime};base64,{b64}"
-    except Exception:
-        pass
-    
-    # Si falla la descarga extrema, entregamos el balón genérico en Base64
-    return "https://cdn-icons-png.flaticon.com/512/53/53283.png"
 
 def extraer_partidos():
     timestamp = int(time.time() * 1000)
@@ -358,11 +338,6 @@ def extraer_partidos():
                             
                 if not bandera_magica:
                     bandera_magica = obtener_bandera(liga, encuentro)
-
-                # ==========================================
-                # SOLUCIÓN ESTRICTA: BLINDAJE BASE64
-                # ==========================================
-                bandera_magica = url_a_base64(bandera_magica)
 
                 partidos_agrupados[match_key] = {
                     "datetime": datetime_utc,
