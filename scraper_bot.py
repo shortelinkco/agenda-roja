@@ -107,14 +107,13 @@ def obtener_bandera(liga, encuentro):
     
     # Balón por defecto
     return "https://cdn-icons-png.flaticon.com/512/53/53283.png"
-
-def desencriptar_enlace(iframe_str):
     def proxy_imagen(url):
     if not url:
         return ""
     if "flaticon.com" in url or "flagcdn.com" in url:
         return url
     return f"https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=2592000&url={urllib.parse.quote(url, safe='')}"
+def desencriptar_enlace(iframe_str):
     try:
         if 'r=' in str(iframe_str):
             b64_texto = str(iframe_str).split('r=')[1].split('&')[0].split('"')[0]
