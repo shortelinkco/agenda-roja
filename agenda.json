@@ -1,77 +1,5 @@
 [
     {
-        "datetime": "2026-09-09T00:30:00Z",
-        "flagUrl": "https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=2592000&url=https%3A%2F%2Ffutbollibretv.org.pe%2Fuploads%2Fbolivia_png_81cfc9f71f.png",
-        "league": "Copa de la División Profesional",
-        "homeTeam": "Oriente Petrolero",
-        "awayTeam": "Guabirá",
-        "servers": [
-            {
-                "name": "Entel TV PLUS+",
-                "channel": "Entel TV PLUS+",
-                "url": "https://tvf90.com/5.php?stream=even1",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1ldmVuMQ=="
-            }
-        ],
-        "id": 1
-    },
-    {
-        "datetime": "2026-09-09T00:30:00Z",
-        "flagUrl": "https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=2592000&url=https%3A%2F%2Ffutbollibretv.org.pe%2Fuploads%2Fimage_modified_f8ce531f01_b000a25a9e.png",
-        "league": "Copa Sudamericana",
-        "homeTeam": "Boca Juniors",
-        "awayTeam": "São Paulo",
-        "servers": [
-            {
-                "name": "ESPN",
-                "channel": "ESPN",
-                "url": "https://tvf90.com/6.php?stream=espn",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3Bu"
-            },
-            {
-                "name": "Disney+",
-                "channel": "Disney+",
-                "url": "https://tvf90.com/5.php?stream=disney15",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWRpc25leTE1"
-            },
-            {
-                "name": "ESPN TV",
-                "channel": "ESPN TV",
-                "url": "https://tvf90.com/5.php?stream=espn",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4="
-            },
-            {
-                "name": "ESPN TV HD",
-                "channel": "ESPN TV HD",
-                "url": "https://tvf90.com/5.php?stream=even2",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWV2ZW4y"
-            },
-            {
-                "name": "fanatiz 03",
-                "channel": "fanatiz 03",
-                "url": "https://tvf90.com/5.php?stream=fanatiz3",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZhbmF0aXoz"
-            }
-        ],
-        "id": 2
-    },
-    {
-        "datetime": "2026-09-09T00:30:00Z",
-        "flagUrl": "https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=2592000&url=https%3A%2F%2Ffutbollibretv.org.pe%2Fuploads%2Fcolombia_dcf9cc2637_a1661b26da.png",
-        "league": "Primera B",
-        "homeTeam": "Internacional Palmira",
-        "awayTeam": "Atlético Cali",
-        "servers": [
-            {
-                "name": "Win Sports | HD",
-                "channel": "Win Sports | HD",
-                "url": "https://tvf90.com/5.php?stream=winsports",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT13aW5zcG9ydHM="
-            }
-        ],
-        "id": 3
-    },
-    {
         "datetime": "2026-09-09T01:30:00Z",
         "flagUrl": "https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=2592000&url=https%3A%2F%2Ffutbollibretv.org.pe%2Fuploads%2Fmlb_f5711cc440_dde64767e4.png",
         "league": "Fútbol",
@@ -81,11 +9,23 @@
             {
                 "name": "ESPN 4 | HD",
                 "channel": "ESPN 4 | HD",
-                "url": "https://tvf90.com/5.php?stream=espn4",
+                "url": "https://tvf90.com/1.php?stream=espn4",
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG40"
+            },
+            {
+                "name": "ESPN 4 | OP2",
+                "channel": "ESPN 4 | OP2",
+                "url": "https://tvf90.com/2.php?stream=espn4",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG40"
+            },
+            {
+                "name": "ESPN 4 | OP3",
+                "channel": "ESPN 4 | OP3",
+                "url": "https://tvf90.com/3.php?stream=espn4",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG40"
             }
         ],
-        "id": 4
+        "id": 1
     },
     {
         "datetime": "2026-09-09T03:00:00Z",
@@ -97,16 +37,34 @@
             {
                 "name": "ESPN 2 | HD",
                 "channel": "ESPN 2 | HD",
-                "url": "https://tvf90.com/5.php?stream=espn2",
+                "url": "https://tvf90.com/hd.php?stream=espn2",
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMg=="
+            },
+            {
+                "name": "ESPN 2",
+                "channel": "ESPN 2",
+                "url": "https://tvf90.com/1.php?stream=espn2",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4y"
+            },
+            {
+                "name": "ESPN 2 | OP2",
+                "channel": "ESPN 2 | OP2",
+                "url": "https://tvf90.com/2.php?stream=espn2",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG4y"
+            },
+            {
+                "name": "ESPN 2 | OP3",
+                "channel": "ESPN 2 | OP3",
+                "url": "https://tvf90.com/3.php?stream=espn2",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4y"
             },
             {
                 "name": "Eventos",
                 "channel": "Eventos",
-                "url": "https://tvf90.com/5.php?stream=eventos3",
+                "url": "https://tvf90.com/1.php?stream=eventos3",
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWV2ZW50b3Mz"
             }
         ],
-        "id": 5
+        "id": 2
     }
 ]
