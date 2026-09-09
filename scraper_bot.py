@@ -351,19 +351,36 @@ def extraer_partidos():
                 url_limpia = desencriptar_enlace(link)
                 url_segura = url_limpia.replace("\\/", "/")
                 
-                # APLICACIÓN DEL TRUCO ANTI-ANUNCIOS
+# =================================================================
+                # APLICACIÓN DEL TRUCO ANTI-ANUNCIOS (REMASTERIZADO)
+                # =================================================================
+                
+                # 1. Redirigir dominios sucios al dominio proxy limpio
                 if DOMINIO_LIMPIO_ACTUAL:
                     dominios_sucios = [
                         "pltvhd.com", "embed.pltvhd.com", 
                         "agenda18.com", "embed.agenda18.com",
-                        "tiofutbol.com"
+                        "tiofutbol.com", "tv-90.com", "tvf90.com" # Añadimos las nuevas amenazas
                     ]
                     for dominio in dominios_sucios:
                         if dominio in url_segura:
                             url_segura = url_segura.replace(dominio, DOMINIO_LIMPIO_ACTUAL)
 
+                # 2. Forzar el reproductor limpio para tvf90 (Reemplaza 1.php, 2.php por 5.php)
+                url_segura = re.sub(r'/[0-9]+\.php\?stream=', '/5.php?stream=', url_segura)
+                
+                # 3. Limpiar URLs engañosas tipo tv-90.com/dsportsar.php -> tv-90.com/5.php?stream=dsportsar
+                if ".php" in url_segura and "?" not in url_segura and "canal.php" not in url_segura and "5.php" not in url_segura:
+                    match = re.search(r'/([^/]+)\.php', url_segura)
+                    if match:
+                        nombre_stream = match.group(1)
+                        url_segura = re.sub(r'/[^/]+\.php', f'/5.php?stream={nombre_stream}', url_segura)
+
+                # 4. Limpieza clásica de otros proveedores
                 url_segura = url_segura.replace("canales.php", "canal.php")
                 url_segura = url_segura.replace("embed.php", "canal.php")
+                url_segura = url_segura.replace("/live.php?ch=", "/5.php?stream=")
+                # =================================================================
                 
                 canal_nombre_norm = re.sub(r'[^a-z0-9]', '', canal_nombre.lower())
                 url_segura_norm = re.sub(r'https?://', '', url_segura).strip('/')
