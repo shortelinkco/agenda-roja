@@ -40,7 +40,7 @@ DOMINIOS_INDEXNOW = [
 # 1. ENLACES Y RED DE RESPALDOS (FUENTES DE AGENDA)
 # ==========================================================
 FUENTES_AGENDA = [
-    "https://futbollibretv.org.pe/diaries.json?v",
+    "https://agenda18.com/agenda.json",
     "https://la18hd.su//eventos/json/agenda123.json",
     "https://agenda18.com/agenda.json",
 ]
