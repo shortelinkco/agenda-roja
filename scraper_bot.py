@@ -107,7 +107,7 @@ def obtener_bandera(liga, encuentro):
     
     # Balón por defecto
     return "https://cdn-icons-png.flaticon.com/512/53/53283.png"
-    def proxy_imagen(url):
+def proxy_imagen(url):
     if not url:
         return ""
     if "flaticon.com" in url or "flagcdn.com" in url:
