@@ -60,7 +60,7 @@ HEADERS = {
 # ==========================================================
 # Si el bot tiene que usar una fuente de respaldo llena de pop-ups, 
 # usará este dominio para limpiar los reproductores (iframes).
-DOMINIO_LIMPIO_ACTUAL = "la20hd.com" 
+DOMINIO_LIMPIO_ACTUAL = "" 
 
 # ==========================================================
 # 3. LÓGICA DE BANDERAS Y LOGOS (CEREBRO VISUAL)
