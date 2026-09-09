@@ -9,7 +9,7 @@
             {
                 "name": "Entel TV PLUS+",
                 "channel": "Entel TV PLUS+",
-                "url": "https://tvf90.com/plus1.php?stream=even1",
+                "url": "https://tvf90.com/5.php?stream=even1",
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1ldmVuMQ=="
             }
         ],
@@ -25,14 +25,8 @@
             {
                 "name": "ESPN 2 | HD",
                 "channel": "ESPN 2 | HD",
-                "url": "https://tvf90.com/hd.php?stream=espn2",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMg=="
-            },
-            {
-                "name": "ESPN 2",
-                "channel": "ESPN 2",
                 "url": "https://tvf90.com/5.php?stream=espn2",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4y"
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMg=="
             }
         ],
         "id": 2
@@ -47,7 +41,7 @@
             {
                 "name": "Entel TV PLUS+",
                 "channel": "Entel TV PLUS+",
-                "url": "https://tvf90.com/plus1.php?stream=even1",
+                "url": "https://tvf90.com/5.php?stream=even1",
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vcGx1czEucGhwP3N0cmVhbT1ldmVuMQ=="
             }
         ],
@@ -63,14 +57,8 @@
             {
                 "name": "ESPN 2 | HD",
                 "channel": "ESPN 2 | HD",
-                "url": "https://tvf90.com/hd.php?stream=espn2",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMg=="
-            },
-            {
-                "name": "ESPN 2",
-                "channel": "ESPN 2",
                 "url": "https://tvf90.com/5.php?stream=espn2",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4y"
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMg=="
             }
         ],
         "id": 4
@@ -85,7 +73,7 @@
             {
                 "name": "ESPN",
                 "channel": "ESPN",
-                "url": "https://tvf90.com/canal.php?stream=espn",
+                "url": "https://tvf90.com/6.php?stream=espn",
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vY2FuYWwucGhwP3N0cmVhbT1lc3Bu"
             },
             {
@@ -125,14 +113,8 @@
             {
                 "name": "Win Sports | HD",
                 "channel": "Win Sports | HD",
-                "url": "https://tvf90.com/hd.php?stream=winsports",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT13aW5zcG9ydHM="
-            },
-            {
-                "name": "Win Sports",
-                "channel": "Win Sports",
                 "url": "https://tvf90.com/5.php?stream=winsports",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPXdpbnNwb3J0cw=="
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT13aW5zcG9ydHM="
             }
         ],
         "id": 6
