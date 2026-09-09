@@ -140,6 +140,38 @@ def obtener_anidado(diccionario, *claves):
             return None
     return diccionario
 
+def extraer_iframe_limpio(url_sucia):
+    # Solo aplicamos este escaneo profundo a los dominios problemáticos
+    if "tv-90.com" not in url_sucia and "tvf90.com" not in url_sucia:
+        return url_sucia
+        
+    try:
+        # El bot visita la URL con anuncios y lee su código fuente
+        res = requests.get(url_sucia, headers=HEADERS, timeout=5)
+        if res.status_code == 200:
+            # Busca automáticamente cualquier iframe interno (ej. src="./6.php?stream=espn")
+            match = re.search(r'<iframe[^>]+src=["\']([^"\']+\.php\?stream=[^"\']+)["\']', res.text)
+            if match:
+                ruta_interna = match.group(1)
+                dominio_base = "https://" + url_sucia.split('/')[2]
+                
+                # Limpiamos el "./" inicial si existe para armar la URL perfecta
+                ruta_limpia = ruta_interna.replace("./", "/")
+                if not ruta_limpia.startswith("/"):
+                    ruta_limpia = "/" + ruta_limpia
+                    
+                return dominio_base + ruta_limpia
+    except Exception:
+        pass
+        
+    # Plan de contingencia: Si la web tiene protección anti-bots y rechaza la conexión, 
+    # asume el último reproductor conocido (6.php) para no dejar la agenda vacía.
+    match_stream = re.search(r'\?stream=([^&]+)', url_sucia)
+    if match_stream:
+        return re.sub(r'/[^/]+\.php\?stream=', '/6.php?stream=', url_sucia)
+        
+    return url_sucia
+
 def extraer_partidos():
     timestamp = int(time.time() * 1000)
     
@@ -351,35 +383,10 @@ def extraer_partidos():
                 url_limpia = desencriptar_enlace(link)
                 url_segura = url_limpia.replace("\\/", "/")
                 
-# =================================================================
-                # APLICACIÓN DEL TRUCO ANTI-ANUNCIOS (REMASTERIZADO)
+               # =================================================================
+                # APLICACIÓN DEL TRUCO ANTI-ANUNCIOS (EXTRACTOR DINÁMICO)
                 # =================================================================
-                
-                # 1. Redirigir dominios sucios al dominio proxy limpio
-                if DOMINIO_LIMPIO_ACTUAL:
-                    dominios_sucios = [
-                        "pltvhd.com", "embed.pltvhd.com", 
-                        "agenda18.com", "embed.agenda18.com",
-                        "tiofutbol.com", "tv-90.com", "tvf90.com" # Añadimos las nuevas amenazas
-                    ]
-                    for dominio in dominios_sucios:
-                        if dominio in url_segura:
-                            url_segura = url_segura.replace(dominio, DOMINIO_LIMPIO_ACTUAL)
-
-                # 2. Forzar el reproductor limpio para tvf90 (Reemplaza 1.php, 2.php por 5.php)
-                url_segura = re.sub(r'/[0-9]+\.php\?stream=', '/5.php?stream=', url_segura)
-                
-                # 3. Limpiar URLs engañosas tipo tv-90.com/dsportsar.php -> tv-90.com/5.php?stream=dsportsar
-                if ".php" in url_segura and "?" not in url_segura and "canal.php" not in url_segura and "5.php" not in url_segura:
-                    match = re.search(r'/([^/]+)\.php', url_segura)
-                    if match:
-                        nombre_stream = match.group(1)
-                        url_segura = re.sub(r'/[^/]+\.php', f'/5.php?stream={nombre_stream}', url_segura)
-
-                # 4. Limpieza clásica de otros proveedores
-                url_segura = url_segura.replace("canales.php", "canal.php")
-                url_segura = url_segura.replace("embed.php", "canal.php")
-                url_segura = url_segura.replace("/live.php?ch=", "/5.php?stream=")
+                url_segura = extraer_iframe_limpio(url_segura)
                 # =================================================================
                 
                 canal_nombre_norm = re.sub(r'[^a-z0-9]', '', canal_nombre.lower())
