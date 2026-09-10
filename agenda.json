@@ -1,51 +1,5 @@
 [
     {
-        "datetime": "2026-09-10T00:30:00Z",
-        "flagUrl": "https://img.agenda18.com/uploads/copa_libertadores_f60faf808a.png",
-        "league": "Copa Libertadores",
-        "homeTeam": "Estudiantes",
-        "awayTeam": "Corinthians",
-        "servers": [
-            {
-                "name": "ESPN",
-                "channel": "ESPN",
-                "url": "https://la18hd.su/vivo/canal.php?stream=espn",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4="
-            },
-            {
-                "name": "Disney+",
-                "channel": "Disney+",
-                "url": "https://la18hd.su/vivo/canal.php?stream=disney12",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTEy"
-            },
-            {
-                "name": "ESPN Movil",
-                "channel": "ESPN Movil",
-                "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn1tv.html",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG4xdHYuaHRtbA=="
-            },
-            {
-                "name": "Fox Sports ",
-                "channel": "Fox Sports ",
-                "url": "https://la18hd.su/vivo/canal.php?stream=foxsports",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZveHNwb3J0cw=="
-            },
-            {
-                "name": "ESPN3 MX",
-                "channel": "ESPN3 MX",
-                "url": "https://la18hd.su/vivo/canal.php?stream=espn3mx",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4zbXg="
-            },
-            {
-                "name": "beIN Sports Ñ",
-                "channel": "beIN Sports Ñ",
-                "url": "https://la18hd.su/vivo/canal.php?stream=beinsportes",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWJlaW5zcG9ydGVz"
-            }
-        ],
-        "id": 1
-    },
-    {
         "datetime": "2026-09-10T01:00:00Z",
         "flagUrl": "https://img.agenda18.com/uploads/copa_centroamericana_59d23aa32c.png",
         "league": "Copa Centroamericana",
@@ -59,7 +13,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTEz"
             }
         ],
-        "id": 2
+        "id": 1
     },
     {
         "datetime": "2026-09-10T03:00:00Z",
@@ -75,6 +29,6 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE0"
             }
         ],
-        "id": 3
+        "id": 2
     }
 ]
