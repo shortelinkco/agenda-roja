@@ -1,1 +1,214 @@
-[]
+[
+    {
+        "datetime": "2026-09-11T11:30:00Z",
+        "flagUrl": "https://img.agenda18.com/uploads/moto_g_145967b8f1.png",
+        "league": "F1 | GP de España",
+        "homeTeam": "Entrenamientos #1",
+        "awayTeam": "",
+        "servers": [
+            {
+                "name": "ESPN2",
+                "channel": "ESPN2",
+                "url": "https://la18hd.su/vivo/canal.php?stream=espn2",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4y"
+            },
+            {
+                "name": "Disney+",
+                "channel": "Disney+",
+                "url": "https://la18hd.su/vivo/canal.php?stream=disney1",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE="
+            },
+            {
+                "name": "ESPN2 Movil",
+                "channel": "ESPN2 Movil",
+                "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn2tv.html",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG4ydHYuaHRtbA=="
+            },
+            {
+                "name": "Fox Sports ",
+                "channel": "Fox Sports ",
+                "url": "https://la18hd.su/vivo/canal.php?stream=foxsports",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZveHNwb3J0cw=="
+            }
+        ],
+        "id": 1
+    },
+    {
+        "datetime": "2026-09-11T13:00:00Z",
+        "flagUrl": "https://img.agenda18.com/uploads/fifa_ee72f5c955.png",
+        "league": "Copa Mundial Femenina",
+        "homeTeam": "Inglaterra Sub-20",
+        "awayTeam": "Brasil Sub-20",
+        "servers": [
+            {
+                "name": "Dsports 2",
+                "channel": "Dsports 2",
+                "url": "https://la18hd.su/vivo/canal.php?stream=dsports2",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRzcG9ydHMy"
+            },
+            {
+                "name": "Dsports 2 Movil",
+                "channel": "Dsports 2 Movil",
+                "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/dsports2.html",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2RzcG9ydHMyLmh0bWw="
+            },
+            {
+                "name": "Sportv",
+                "channel": "Sportv",
+                "url": "https://la18hd.su/vivo/canales.php?stream=sportv",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbGVzLnBocD9zdHJlYW09c3BvcnR2"
+            },
+            {
+                "name": "FOX Sports 2 USA",
+                "channel": "FOX Sports 2 USA",
+                "url": "https://la18hd.su/vivo/canal.php?stream=foxsports2_usa",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZveHNwb3J0czJfdXNh"
+            }
+        ],
+        "id": 2
+    },
+    {
+        "datetime": "2026-09-11T15:00:00Z",
+        "flagUrl": "https://img.agenda18.com/uploads/moto_g_145967b8f1.png",
+        "league": "F1 | GP de España",
+        "homeTeam": "Entrenamientos #1",
+        "awayTeam": "",
+        "servers": [
+            {
+                "name": "ESPN2",
+                "channel": "ESPN2",
+                "url": "https://la18hd.su/vivo/canal.php?stream=espn2",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4y"
+            },
+            {
+                "name": "ESPN2 Movil",
+                "channel": "ESPN2 Movil",
+                "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn2tv.html",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG4ydHYuaHRtbA=="
+            },
+            {
+                "name": "Disney+",
+                "channel": "Disney+",
+                "url": "https://la18hd.su/vivo/canal.php?stream=disney2",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTI="
+            },
+            {
+                "name": "Fox Sports ",
+                "channel": "Fox Sports ",
+                "url": "https://la18hd.su/vivo/canal.php?stream=foxsports",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZveHNwb3J0cw=="
+            }
+        ],
+        "id": 3
+    },
+    {
+        "datetime": "2026-09-11T17:00:00Z",
+        "flagUrl": "https://img.agenda18.com/uploads/pavo_980d87b7ad.png",
+        "league": "Super Lig",
+        "homeTeam": "Beşiktaş",
+        "awayTeam": "BB Erzurumspor",
+        "servers": [
+            {
+                "name": "Disney+",
+                "channel": "Disney+",
+                "url": "https://la18hd.su/vivo/canal.php?stream=disney3",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTM="
+            }
+        ],
+        "id": 4
+    },
+    {
+        "datetime": "2026-09-11T18:00:00Z",
+        "flagUrl": "https://img.agenda18.com/uploads/paises_bajos_f773e994b9.png",
+        "league": "Eredivisie",
+        "homeTeam": "AZ",
+        "awayTeam": "Willem II",
+        "servers": [
+            {
+                "name": "Disney+",
+                "channel": "Disney+",
+                "url": "https://la18hd.su/vivo/canal.php?stream=disney4",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTQ="
+            }
+        ],
+        "id": 5
+    },
+    {
+        "datetime": "2026-09-11T18:00:00Z",
+        "flagUrl": "https://img.agenda18.com/uploads/arabia_saudita_82c6f9c376.png",
+        "league": "Liga Profesional Saudí",
+        "homeTeam": "Al-Ahli",
+        "awayTeam": "Al Hazm",
+        "servers": [
+            {
+                "name": "FOX Deportes",
+                "channel": "FOX Deportes",
+                "url": "https://la18hd.su/vivo/canal.php?stream=foxdeportes",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZveGRlcG9ydGVz"
+            },
+            {
+                "name": "FOX Deportes | Móvil",
+                "channel": "FOX Deportes | Móvil",
+                "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/foxdeportestv.html",
+                "iframe": "/embed/eventos?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2ZveGRlcG9ydGVzdHYuaHRtbA=="
+            }
+        ],
+        "id": 6
+    },
+    {
+        "datetime": "2026-09-11T18:30:00Z",
+        "flagUrl": "https://img.agenda18.com/uploads/alemania_e50aa475de.png",
+        "league": "Bundesliga",
+        "homeTeam": "Union Berlin",
+        "awayTeam": "Schalke 04",
+        "servers": [
+            {
+                "name": "ESPN5",
+                "channel": "ESPN5",
+                "url": "https://la18hd.su/vivo/canal.php?stream=espn5",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG41"
+            },
+            {
+                "name": "Disney+",
+                "channel": "Disney+",
+                "url": "https://la18hd.su/vivo/canal.php?stream=disney5",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTU="
+            },
+            {
+                "name": "ESPN5 Movil",
+                "channel": "ESPN5 Movil",
+                "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn5tv.html",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG41dHYuaHRtbA=="
+            },
+            {
+                "name": "Sportv",
+                "channel": "Sportv",
+                "url": "https://la18hd.su/vivo/canales.php?stream=sportv",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbGVzLnBocD9zdHJlYW09c3BvcnR2"
+            },
+            {
+                "name": "Universo",
+                "channel": "Universo",
+                "url": "https://la18hd.su/vivo/canal.php?stream=universo",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXVuaXZlcnNv"
+            }
+        ],
+        "id": 7
+    },
+    {
+        "datetime": "2026-09-11T18:30:00Z",
+        "flagUrl": "https://img.agenda18.com/uploads/espana_a8510f9b5f.png",
+        "league": "LaLiga 2",
+        "homeTeam": "Burgos",
+        "awayTeam": "Ceuta",
+        "servers": [
+            {
+                "name": "LaLiga TV Hypermotion",
+                "channel": "LaLiga TV Hypermotion",
+                "url": "https://la18hd.su/vivo/canal.php?stream=hypermotion1",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWh5cGVybW90aW9uMQ=="
+            }
+        ],
+        "id": 8
+    }
+]
