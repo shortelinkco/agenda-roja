@@ -1,7 +1,7 @@
 [
     {
         "datetime": "2026-09-11T18:30:00Z",
-        "flagUrl": "https://img.agenda18.com/uploads/alemania_e50aa475de.png",
+        "flagUrl": "https://flagcdn.com/w40/de.png",
         "league": "Bundesliga",
         "homeTeam": "Union Berlin",
         "awayTeam": "Schalke 04",
@@ -9,77 +9,77 @@
             {
                 "name": "ESPN5",
                 "channel": "ESPN5",
-                "url": "https://la18hd.su/vivo/canal.php?stream=espn5",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG41"
+                "url": "https://la18hd.su/vivo/canales.php?stream=espn5",
+                "iframe": "https://la18hd.su/vivo/canales.php?stream=espn5"
             },
             {
-                "name": "Disney+",
-                "channel": "Disney+",
-                "url": "https://la18hd.su/vivo/canal.php?stream=disney5",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTU="
+                "name": "DISNEY5",
+                "channel": "DISNEY5",
+                "url": "https://la18hd.su/vivo/canales.php?stream=disney5",
+                "iframe": "https://la18hd.su/vivo/canales.php?stream=disney5"
             },
             {
-                "name": "ESPN5 Movil",
-                "channel": "ESPN5 Movil",
+                "name": "Opción ()",
+                "channel": "Opción ()",
                 "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn5tv.html",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG41dHYuaHRtbA=="
+                "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn5tv.html"
             },
             {
-                "name": "Sportv",
-                "channel": "Sportv",
+                "name": "SPORTV",
+                "channel": "SPORTV",
                 "url": "https://la18hd.su/vivo/canales.php?stream=sportv",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbGVzLnBocD9zdHJlYW09c3BvcnR2"
+                "iframe": "https://la18hd.su/vivo/canales.php?stream=sportv"
             },
             {
-                "name": "Universo",
-                "channel": "Universo",
-                "url": "https://la18hd.su/vivo/canal.php?stream=universo",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXVuaXZlcnNv"
+                "name": "UNIVERSO",
+                "channel": "UNIVERSO",
+                "url": "https://la18hd.su/vivo/canales.php?stream=universo",
+                "iframe": "https://la18hd.su/vivo/canales.php?stream=universo"
             }
         ],
         "id": 1
     },
     {
         "datetime": "2026-09-11T18:30:00Z",
-        "flagUrl": "https://img.agenda18.com/uploads/espana_a8510f9b5f.png",
+        "flagUrl": "https://flagcdn.com/w40/es.png",
         "league": "LaLiga 2",
         "homeTeam": "Burgos",
         "awayTeam": "Ceuta",
         "servers": [
             {
-                "name": "LaLiga TV Hypermotion",
-                "channel": "LaLiga TV Hypermotion",
-                "url": "https://la18hd.su/vivo/canal.php?stream=hypermotion1",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWh5cGVybW90aW9uMQ=="
+                "name": "HYPERMOTION1",
+                "channel": "HYPERMOTION1",
+                "url": "https://la18hd.su/vivo/canales.php?stream=hypermotion1",
+                "iframe": "https://la18hd.su/vivo/canales.php?stream=hypermotion1"
             }
         ],
         "id": 2
     },
     {
         "datetime": "2026-09-11T18:45:00Z",
-        "flagUrl": "https://img.agenda18.com/uploads/francia_e9d1a8ab33.png",
+        "flagUrl": "https://flagcdn.com/w40/fr.png",
         "league": "Ligue 1",
         "homeTeam": "Rennes",
         "awayTeam": "Olympique Marseille",
         "servers": [
             {
-                "name": "Disney+",
-                "channel": "Disney+",
-                "url": "https://la18hd.su/vivo/canal.php?stream=disney8",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTg="
+                "name": "DISNEY8",
+                "channel": "DISNEY8",
+                "url": "https://la18hd.su/vivo/canales.php?stream=disney8",
+                "iframe": "https://la18hd.su/vivo/canales.php?stream=disney8"
             },
             {
-                "name": "beIN Sports Ñ",
-                "channel": "beIN Sports Ñ",
-                "url": "https://la18hd.su/vivo/canal.php?stream=beinsportes",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWJlaW5zcG9ydGVz"
+                "name": "BEINSPORTES",
+                "channel": "BEINSPORTES",
+                "url": "https://la18hd.su/vivo/canales.php?stream=beinsportes",
+                "iframe": "https://la18hd.su/vivo/canales.php?stream=beinsportes"
             }
         ],
         "id": 3
     },
     {
         "datetime": "2026-09-11T18:45:00Z",
-        "flagUrl": "https://img.agenda18.com/uploads/italia_cb19445d70.png",
+        "flagUrl": "https://flagcdn.com/w40/it.png",
         "league": "Serie A",
         "homeTeam": "Venezia",
         "awayTeam": "Fiorentina",
@@ -87,27 +87,21 @@
             {
                 "name": "ESPN4",
                 "channel": "ESPN4",
-                "url": "https://la18hd.su/vivo/canal.php?stream=espn4",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG40"
+                "url": "https://la18hd.su/vivo/canales.php?stream=espn4",
+                "iframe": "https://la18hd.su/vivo/canales.php?stream=espn4"
             },
             {
-                "name": "Disney+",
-                "channel": "Disney+",
-                "url": "https://la18hd.su/vivo/canal.php?stream=disney9",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTk="
-            },
-            {
-                "name": "ESPN4 Movil",
-                "channel": "ESPN4 Movil",
-                "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn4tv.html",
-                "iframe": "/embed/eventos?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG40dHYuaHRtbA=="
+                "name": "DISNEY9",
+                "channel": "DISNEY9",
+                "url": "https://la18hd.su/vivo/canales.php?stream=disney9",
+                "iframe": "https://la18hd.su/vivo/canales.php?stream=disney9"
             }
         ],
         "id": 4
     },
     {
         "datetime": "2026-09-11T19:00:00Z",
-        "flagUrl": "https://img.agenda18.com/uploads/inglaterra_823176495f.png",
+        "flagUrl": "https://cdn-icons-png.flaticon.com/512/520/520786.png",
         "league": "Championship",
         "homeTeam": "West Ham United",
         "awayTeam": "Wrexham",
@@ -115,43 +109,37 @@
             {
                 "name": "ESPN7",
                 "channel": "ESPN7",
-                "url": "https://la18hd.su/vivo/canal.php?stream=espn7",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG43"
+                "url": "https://la18hd.su/vivo/canales.php?stream=espn7",
+                "iframe": "https://la18hd.su/vivo/canales.php?stream=espn7"
             },
             {
-                "name": "Disney+",
-                "channel": "Disney+",
-                "url": "https://la18hd.su/vivo/canal.php?stream=disney11",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTEx"
-            },
-            {
-                "name": "ESPN7 Movil",
-                "channel": "ESPN7 Movil",
-                "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn7.11.html",
-                "iframe": "/embed/eventos?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG43LjExLmh0bWw="
+                "name": "DISNEY11",
+                "channel": "DISNEY11",
+                "url": "https://la18hd.su/vivo/canales.php?stream=disney11",
+                "iframe": "https://la18hd.su/vivo/canales.php?stream=disney11"
             }
         ],
         "id": 5
     },
     {
         "datetime": "2026-09-11T19:00:00Z",
-        "flagUrl": "https://img.agenda18.com/uploads/paraguay_fc9dd78de7.png",
+        "flagUrl": "https://cdn-icons-png.flaticon.com/512/53/53283.png",
         "league": "Copa de Primera",
         "homeTeam": "Sportivo Ameliano",
         "awayTeam": "Sportivo San Lorenzo",
         "servers": [
             {
-                "name": "Fanatiz01",
-                "channel": "Fanatiz01",
-                "url": "https://la18hd.su/vivo/canal.php?stream=fanatiz1",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXox"
+                "name": "FANATIZ1",
+                "channel": "FANATIZ1",
+                "url": "https://la18hd.su/vivo/canales.php?stream=fanatiz1",
+                "iframe": "https://la18hd.su/vivo/canales.php?stream=fanatiz1"
             }
         ],
         "id": 6
     },
     {
         "datetime": "2026-09-11T19:00:00Z",
-        "flagUrl": "https://img.agenda18.com/uploads/espana_a8510f9b5f.png",
+        "flagUrl": "https://flagcdn.com/w40/es.png",
         "league": "LaLiga",
         "homeTeam": "Sevilla",
         "awayTeam": "Valencia",
@@ -159,209 +147,209 @@
             {
                 "name": "ESPN5",
                 "channel": "ESPN5",
-                "url": "https://la18hd.su/vivo/canal.php?stream=espn5",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG41"
+                "url": "https://la18hd.su/vivo/canales.php?stream=espn5",
+                "iframe": "https://la18hd.su/vivo/canales.php?stream=espn5"
             },
             {
-                "name": "Disney+",
-                "channel": "Disney+",
-                "url": "https://la18hd.su/vivo/canal.php?stream=disney10",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTEw"
+                "name": "DISNEY10",
+                "channel": "DISNEY10",
+                "url": "https://la18hd.su/vivo/canales.php?stream=disney10",
+                "iframe": "https://la18hd.su/vivo/canales.php?stream=disney10"
             },
             {
-                "name": "ESPN5 Movil",
-                "channel": "ESPN5 Movil",
+                "name": "Opción ()",
+                "channel": "Opción ()",
                 "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn5tv.html",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG41dHYuaHRtbA=="
+                "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn5tv.html"
             },
             {
-                "name": "ESPN Deportes",
-                "channel": "ESPN Deportes",
-                "url": "https://la18hd.su/vivo/canal.php?stream=espndeportes",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG5kZXBvcnRlcw=="
+                "name": "ESPNDEPORTES",
+                "channel": "ESPNDEPORTES",
+                "url": "https://la18hd.su/vivo/canales.php?stream=espndeportes",
+                "iframe": "https://la18hd.su/vivo/canales.php?stream=espndeportes"
             }
         ],
         "id": 7
     },
     {
         "datetime": "2026-09-11T20:00:00Z",
-        "flagUrl": "https://img.agenda18.com/uploads/argentina_2bd748026e.png",
+        "flagUrl": "https://flagcdn.com/w40/ar.png",
         "league": "Liga Profesional",
         "homeTeam": "Newell's Old Boys",
         "awayTeam": "Vélez Sarsfield",
         "servers": [
             {
-                "name": "ESPN Premium",
-                "channel": "ESPN Premium",
-                "url": "https://la18hd.su/vivo/canal.php?stream=espnpremium",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG5wcmVtaXVt"
+                "name": "ESPNPREMIUM",
+                "channel": "ESPNPREMIUM",
+                "url": "https://la18hd.su/vivo/canales.php?stream=espnpremium",
+                "iframe": "https://la18hd.su/vivo/canales.php?stream=espnpremium"
             },
             {
-                "name": "Fanatiz02",
-                "channel": "Fanatiz02",
-                "url": "https://la18hd.su/vivo/canal.php?stream=fanatiz2",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXoy"
+                "name": "FANATIZ2",
+                "channel": "FANATIZ2",
+                "url": "https://la18hd.su/vivo/canales.php?stream=fanatiz2",
+                "iframe": "https://la18hd.su/vivo/canales.php?stream=fanatiz2"
             },
             {
-                "name": "ESPN Premium Movil",
-                "channel": "ESPN Premium Movil",
+                "name": "Opción ()",
+                "channel": "Opción ()",
                 "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espnpremium2.html",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG5wcmVtaXVtMi5odG1s"
+                "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espnpremium2.html"
             }
         ],
         "id": 8
     },
     {
         "datetime": "2026-09-11T20:00:00Z",
-        "flagUrl": "https://img.agenda18.com/uploads/peru_ddc4e685cf.png",
+        "flagUrl": "https://flagcdn.com/w40/pe.png",
         "league": "Liga 1",
         "homeTeam": "UTC Cajamarca",
         "awayTeam": "Juan Pablo II College",
         "servers": [
             {
-                "name": "Liga1max",
-                "channel": "Liga1max",
-                "url": "https://la18hd.su/vivo/canal.php?stream=liga1max",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWxpZ2ExbWF4"
+                "name": "LIGA1MAX",
+                "channel": "LIGA1MAX",
+                "url": "https://la18hd.su/vivo/canales.php?stream=liga1max",
+                "iframe": "https://la18hd.su/vivo/canales.php?stream=liga1max"
             },
             {
-                "name": "Liga1max Movil",
-                "channel": "Liga1max Movil",
+                "name": "Opción ()",
+                "channel": "Opción ()",
                 "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/ligaperu.html",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2xpZ2FwZXJ1Lmh0bWw="
+                "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/ligaperu.html"
             }
         ],
         "id": 9
     },
     {
         "datetime": "2026-09-11T21:30:00Z",
-        "flagUrl": "https://img.agenda18.com/uploads/paraguay_fc9dd78de7.png",
+        "flagUrl": "https://cdn-icons-png.flaticon.com/512/53/53283.png",
         "league": "Copa de Primera",
         "homeTeam": "2 de Mayo",
         "awayTeam": "Libertad",
         "servers": [
             {
-                "name": "Fanatiz03",
-                "channel": "Fanatiz03",
-                "url": "https://la18hd.su/vivo/canal.php?stream=fanatiz3",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXoz"
+                "name": "FANATIZ3",
+                "channel": "FANATIZ3",
+                "url": "https://la18hd.su/vivo/canales.php?stream=fanatiz3",
+                "iframe": "https://la18hd.su/vivo/canales.php?stream=fanatiz3"
             }
         ],
         "id": 10
     },
     {
         "datetime": "2026-09-11T22:15:00Z",
-        "flagUrl": "https://img.agenda18.com/uploads/argentina_2bd748026e.png",
+        "flagUrl": "https://cdn-icons-png.flaticon.com/512/6104/6104033.png",
         "league": "Liga Profesional",
         "homeTeam": "Defensa y Justicia",
         "awayTeam": "Gimnasia Mendoza",
         "servers": [
             {
-                "name": "TNT Sports",
-                "channel": "TNT Sports",
-                "url": "https://la18hd.su/vivo/canal.php?stream=tntsports",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXRudHNwb3J0cw=="
+                "name": "TNTSPORTS",
+                "channel": "TNTSPORTS",
+                "url": "https://la18hd.su/vivo/canales.php?stream=tntsports",
+                "iframe": "https://la18hd.su/vivo/canales.php?stream=tntsports"
             },
             {
-                "name": "TNT Sports Movil",
-                "channel": "TNT Sports Movil",
+                "name": "Opción ()",
+                "channel": "Opción ()",
                 "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/tntsports2.html",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL3RudHNwb3J0czIuaHRtbA=="
+                "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/tntsports2.html"
             },
             {
-                "name": "Fanatiz04",
-                "channel": "Fanatiz04",
-                "url": "https://la18hd.su/vivo/canal.php?stream=fanatiz4",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXo0"
+                "name": "FANATIZ4",
+                "channel": "FANATIZ4",
+                "url": "https://la18hd.su/vivo/canales.php?stream=fanatiz4",
+                "iframe": "https://la18hd.su/vivo/canales.php?stream=fanatiz4"
             }
         ],
         "id": 11
     },
     {
         "datetime": "2026-09-11T23:00:00Z",
-        "flagUrl": "https://img.agenda18.com/uploads/colombia_dcf9cc2637.png",
+        "flagUrl": "https://flagcdn.com/w40/co.png",
         "league": "Liga BetPlay",
         "homeTeam": "Jaguares de Córdoba",
         "awayTeam": "Fortaleza CEIF",
         "servers": [
             {
-                "name": "Win Sports + HD",
-                "channel": "Win Sports + HD",
-                "url": "https://la18hd.su/vivo/canal.php?stream=winsports2",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXdpbnNwb3J0czI="
+                "name": "WINSPORTS2",
+                "channel": "WINSPORTS2",
+                "url": "https://la18hd.su/vivo/canales.php?stream=winsports2",
+                "iframe": "https://la18hd.su/vivo/canales.php?stream=winsports2"
             },
             {
-                "name": "Win Sports + |  opc3",
-                "channel": "Win Sports + |  opc3",
+                "name": "Opción (Español)",
+                "channel": "Opción (Español)",
                 "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/winsports.html",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL3dpbnNwb3J0cy5odG1s"
+                "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/winsports.html"
             }
         ],
         "id": 12
     },
     {
         "datetime": "2026-09-12T00:00:00Z",
-        "flagUrl": "https://img.agenda18.com/uploads/brasil_25a533e5f7.png",
+        "flagUrl": "https://flagcdn.com/w40/br.png",
         "league": "Brasileirão",
         "homeTeam": "Coritiba",
         "awayTeam": "Athletico-PR",
         "servers": [
             {
-                "name": "Premiere BR",
-                "channel": "Premiere BR",
-                "url": "https://la18hd.su/vivo/canal.php?stream=premiere1",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXByZW1pZXJlMQ=="
+                "name": "PREMIERE1",
+                "channel": "PREMIERE1",
+                "url": "https://la18hd.su/vivo/canales.php?stream=premiere1",
+                "iframe": "https://la18hd.su/vivo/canales.php?stream=premiere1"
             },
             {
-                "name": "Sportv",
-                "channel": "Sportv",
+                "name": "SPORTV",
+                "channel": "SPORTV",
                 "url": "https://la18hd.su/vivo/canales.php?stream=sportv",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbGVzLnBocD9zdHJlYW09c3BvcnR2"
+                "iframe": "https://la18hd.su/vivo/canales.php?stream=sportv"
             }
         ],
         "id": 13
     },
     {
         "datetime": "2026-09-12T00:00:00Z",
-        "flagUrl": "https://img.agenda18.com/uploads/uruguay_e2b9597af8.png",
+        "flagUrl": "https://flagcdn.com/w40/uy.png",
         "league": "Segunda División",
         "homeTeam": "Oriental",
         "awayTeam": "Miramar Misiones",
         "servers": [
             {
-                "name": "Disney+",
-                "channel": "Disney+",
-                "url": "https://la18hd.su/vivo/canal.php?stream=disney12",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTEy"
+                "name": "DISNEY12",
+                "channel": "DISNEY12",
+                "url": "https://la18hd.su/vivo/canales.php?stream=disney12",
+                "iframe": "https://la18hd.su/vivo/canales.php?stream=disney12"
             }
         ],
         "id": 14
     },
     {
         "datetime": "2026-09-12T00:00:00Z",
-        "flagUrl": "https://img.agenda18.com/uploads/peru_ddc4e685cf.png",
+        "flagUrl": "https://flagcdn.com/w40/pe.png",
         "league": "Liga 1",
         "homeTeam": "Cusco",
         "awayTeam": "Melgar",
         "servers": [
             {
-                "name": "Liga1max",
-                "channel": "Liga1max",
-                "url": "https://la18hd.su/vivo/canal.php?stream=liga1max",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWxpZ2ExbWF4"
+                "name": "LIGA1MAX",
+                "channel": "LIGA1MAX",
+                "url": "https://la18hd.su/vivo/canales.php?stream=liga1max",
+                "iframe": "https://la18hd.su/vivo/canales.php?stream=liga1max"
             },
             {
-                "name": "Liga1max Movil",
-                "channel": "Liga1max Movil",
+                "name": "Opción ()",
+                "channel": "Opción ()",
                 "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/ligaperu.html",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2xpZ2FwZXJ1Lmh0bWw="
+                "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/ligaperu.html"
             }
         ],
         "id": 15
     },
     {
         "datetime": "2026-09-12T00:30:00Z",
-        "flagUrl": "https://img.agenda18.com/uploads/argentina_2bd748026e.png",
+        "flagUrl": "https://flagcdn.com/w40/ar.png",
         "league": "Liga Profesional",
         "homeTeam": "Boca Juniors",
         "awayTeam": "Central Córdoba SdE",
@@ -369,154 +357,130 @@
             {
                 "name": "ESPN",
                 "channel": "ESPN",
-                "url": "https://la18hd.su/vivo/canal.php?stream=espn",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4="
+                "url": "https://la18hd.su/vivo/canales.php?stream=espn",
+                "iframe": "https://la18hd.su/vivo/canales.php?stream=espn"
             },
             {
-                "name": "Disney+",
-                "channel": "Disney+",
-                "url": "https://la18hd.su/vivo/canal.php?stream=disney13",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTEz"
+                "name": "DISNEY13",
+                "channel": "DISNEY13",
+                "url": "https://la18hd.su/vivo/canales.php?stream=disney13",
+                "iframe": "https://la18hd.su/vivo/canales.php?stream=disney13"
             },
             {
-                "name": "ESPN Movil",
-                "channel": "ESPN Movil",
+                "name": "Opción ()",
+                "channel": "Opción ()",
                 "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn1tv.html",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG4xdHYuaHRtbA=="
+                "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn1tv.html"
             },
             {
-                "name": "ESPN Premium",
-                "channel": "ESPN Premium",
-                "url": "https://la18hd.su/vivo/canal.php?stream=espnpremium",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG5wcmVtaXVt"
-            },
-            {
-                "name": "ESPN Premium Movil",
-                "channel": "ESPN Premium Movil",
-                "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espnpremium2.html",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG5wcmVtaXVtMi5odG1s"
+                "name": "ESPNPREMIUM",
+                "channel": "ESPNPREMIUM",
+                "url": "https://la18hd.su/vivo/canales.php?stream=espnpremium",
+                "iframe": "https://la18hd.su/vivo/canales.php?stream=espnpremium"
             }
         ],
         "id": 16
     },
     {
         "datetime": "2026-09-12T01:00:00Z",
-        "flagUrl": "https://img.agenda18.com/uploads/bandera_fbc29cb609.png",
+        "flagUrl": "https://cdn-icons-png.flaticon.com/512/53/53283.png",
         "league": "Liga de Expansión MX",
         "homeTeam": "Correcaminos UAT",
         "awayTeam": "Cancún",
         "servers": [
             {
-                "name": "Disney+",
-                "channel": "Disney+",
-                "url": "https://la18hd.su/vivo/canal.php?stream=disney14",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE0"
+                "name": "DISNEY14",
+                "channel": "DISNEY14",
+                "url": "https://la18hd.su/vivo/canales.php?stream=disney14",
+                "iframe": "https://la18hd.su/vivo/canales.php?stream=disney14"
             },
             {
-                "name": "ESPN2 MX",
-                "channel": "ESPN2 MX",
-                "url": "https://la18hd.su/vivo/canal.php?stream=espn2mx",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4ybXg="
+                "name": "ESPN2MX",
+                "channel": "ESPN2MX",
+                "url": "https://la18hd.su/vivo/canales.php?stream=espn2mx",
+                "iframe": "https://la18hd.su/vivo/canales.php?stream=espn2mx"
             }
         ],
         "id": 17
     },
     {
         "datetime": "2026-09-12T01:00:00Z",
-        "flagUrl": "https://img.agenda18.com/uploads/bandera_fbc29cb609.png",
+        "flagUrl": "https://flagcdn.com/w40/mx.png",
         "league": "Liga MX",
         "homeTeam": "Necaxa",
         "awayTeam": "Puebla",
         "servers": [
             {
-                "name": "FOX Deportes",
-                "channel": "FOX Deportes",
-                "url": "https://la18hd.su/vivo/canal.php?stream=foxdeportes",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZveGRlcG9ydGVz"
-            },
-            {
-                "name": "FOX Deportes | Móvil",
-                "channel": "FOX Deportes | Móvil",
-                "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/foxdeportestv.html",
-                "iframe": "/embed/eventos?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2ZveGRlcG9ydGVzdHYuaHRtbA=="
+                "name": "FOXDEPORTES",
+                "channel": "FOXDEPORTES",
+                "url": "https://la18hd.su/vivo/canales.php?stream=foxdeportes",
+                "iframe": "https://la18hd.su/vivo/canales.php?stream=foxdeportes"
             }
         ],
         "id": 18
     },
     {
         "datetime": "2026-09-12T01:30:00Z",
-        "flagUrl": "https://img.agenda18.com/uploads/colombia_dcf9cc2637.png",
+        "flagUrl": "https://flagcdn.com/w40/co.png",
         "league": "Liga BetPlay",
         "homeTeam": "Santa Fe",
         "awayTeam": "Deportes Tolima",
         "servers": [
             {
-                "name": "Win Sports + HD",
-                "channel": "Win Sports + HD",
-                "url": "https://la18hd.su/vivo/canal.php?stream=winsports2",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXdpbnNwb3J0czI="
+                "name": "WINSPORTS2",
+                "channel": "WINSPORTS2",
+                "url": "https://la18hd.su/vivo/canales.php?stream=winsports2",
+                "iframe": "https://la18hd.su/vivo/canales.php?stream=winsports2"
             },
             {
-                "name": "Win Sports + |  opc3",
-                "channel": "Win Sports + |  opc3",
+                "name": "Opción (Español)",
+                "channel": "Opción (Español)",
                 "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/winsports.html",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL3dpbnNwb3J0cy5odG1s"
+                "iframe": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/winsports.html"
             }
         ],
         "id": 19
     },
     {
         "datetime": "2026-09-12T03:00:00Z",
-        "flagUrl": "https://img.agenda18.com/uploads/bandera_fbc29cb609.png",
+        "flagUrl": "https://flagcdn.com/w40/mx.png",
         "league": "Liga MX",
         "homeTeam": "Tijuana",
         "awayTeam": "Querétaro",
         "servers": [
             {
-                "name": "TUDN USA",
-                "channel": "TUDN USA",
-                "url": "https://la18hd.su/vivo/canal.php?stream=tudn",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXR1ZG4="
+                "name": "TUDN",
+                "channel": "TUDN",
+                "url": "https://la18hd.su/vivo/canales.php?stream=tudn",
+                "iframe": "https://la18hd.su/vivo/canales.php?stream=tudn"
             },
             {
-                "name": "TUDN USA Movil",
-                "channel": "TUDN USA Movil",
-                "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/tudnusatv.html",
-                "iframe": "/embed/eventos?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL3R1ZG51c2F0di5odG1s"
-            },
-            {
-                "name": "UniMás",
-                "channel": "UniMás",
-                "url": "https://la18hd.su/vivo/canal.php?stream=unimas",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXVuaW1hcw=="
+                "name": "UNIMAS",
+                "channel": "UNIMAS",
+                "url": "https://la18hd.su/vivo/canales.php?stream=unimas",
+                "iframe": "https://la18hd.su/vivo/canales.php?stream=unimas"
             }
         ],
         "id": 20
     },
     {
         "datetime": "2026-09-12T03:00:00Z",
-        "flagUrl": "https://img.agenda18.com/uploads/bandera_fbc29cb609.png",
+        "flagUrl": "https://flagcdn.com/w40/mx.png",
         "league": "Liga MX",
         "homeTeam": "Atlante",
         "awayTeam": "Pachuca",
         "servers": [
             {
-                "name": "Azteca 7",
-                "channel": "Azteca 7",
-                "url": "https://la18hd.su/vivo/canal.php?stream=azteca7",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWF6dGVjYTc="
+                "name": "AZTECA7",
+                "channel": "AZTECA7",
+                "url": "https://la18hd.su/vivo/canales.php?stream=azteca7",
+                "iframe": "https://la18hd.su/vivo/canales.php?stream=azteca7"
             },
             {
-                "name": "Azteca 7 Movil",
-                "channel": "Azteca 7 Movil",
-                "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/azteca7tv.html",
-                "iframe": "/embed/eventos?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2F6dGVjYTd0di5odG1s"
-            },
-            {
-                "name": "ESPN2 MX",
-                "channel": "ESPN2 MX",
-                "url": "https://la18hd.su/vivo/canal.php?stream=espn2mx",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4ybXg="
+                "name": "ESPN2MX",
+                "channel": "ESPN2MX",
+                "url": "https://la18hd.su/vivo/canales.php?stream=espn2mx",
+                "iframe": "https://la18hd.su/vivo/canales.php?stream=espn2mx"
             }
         ],
         "id": 21
