@@ -629,6 +629,68 @@
     },
     {
         "datetime": "2026-09-13T17:00:00Z",
+        "flagUrl": "https://img.agenda18.com/uploads/NFL_840ecc1d05.png",
+        "league": "NFL",
+        "homeTeam": "Bills",
+        "awayTeam": "Texans",
+        "servers": [
+            {
+                "name": "ESPN5",
+                "channel": "ESPN5",
+                "url": "https://la18hd.su/vivo/canal.php?stream=espn5",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG41"
+            },
+            {
+                "name": "Fox Sports 2",
+                "channel": "Fox Sports 2",
+                "url": "https://la18hd.su/vivo/canal.php?stream=foxsports2",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZveHNwb3J0czI="
+            },
+            {
+                "name": "ESPN5 Movil",
+                "channel": "ESPN5 Movil",
+                "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn5tv.html",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG41dHYuaHRtbA=="
+            },
+            {
+                "name": "Canal 5 MX",
+                "channel": "Canal 5 MX",
+                "url": "https://la18hd.su/vivo/canal.php?stream=canal5",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWNhbmFsNQ=="
+            }
+        ],
+        "id": 26
+    },
+    {
+        "datetime": "2026-09-13T17:00:00Z",
+        "flagUrl": "https://img.agenda18.com/uploads/NFL_840ecc1d05.png",
+        "league": "NFL",
+        "homeTeam": "Bucanneers",
+        "awayTeam": "Bengals",
+        "servers": [
+            {
+                "name": "ESPN7",
+                "channel": "ESPN7",
+                "url": "https://la18hd.su/vivo/canal.php?stream=espn7",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG43"
+            },
+            {
+                "name": "ESPN7 Movil",
+                "channel": "ESPN7 Movil",
+                "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn7.11.html",
+                "iframe": "/embed/eventos?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG43LjExLmh0bWw="
+            },
+            {
+                "name": "Fox Sports 3",
+                "channel": "Fox Sports 3",
+                "url": "https://la18hd.su/vivo/canal.php?stream=foxsports3",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZveHNwb3J0czM="
+            }
+        ],
+        "id": 27
+    },
+    {
+        "datetime": "2026-09-13T17:00:00Z",
         "flagUrl": "https://img.agenda18.com/uploads/portugal_914accbdd5.png",
         "league": "Primeira",
         "homeTeam": "Benfica",
@@ -647,7 +709,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2RzcG9ydHMyLmh0bWw="
             }
         ],
-        "id": 26
+        "id": 28
     },
     {
         "datetime": "2026-09-13T17:00:00Z",
@@ -663,7 +725,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE3"
             }
         ],
-        "id": 27
+        "id": 29
     },
     {
         "datetime": "2026-09-13T17:45:00Z",
@@ -685,7 +747,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG5wcmVtaXVtMi5odG1s"
             }
         ],
-        "id": 28
+        "id": 30
     },
     {
         "datetime": "2026-09-13T17:45:00Z",
@@ -707,7 +769,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL3RudHNwb3J0czIuaHRtbA=="
             }
         ],
-        "id": 29
+        "id": 31
     },
     {
         "datetime": "2026-09-13T18:00:00Z",
@@ -729,7 +791,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2xpZ2FwZXJ1Lmh0bWw="
             }
         ],
-        "id": 30
+        "id": 32
     },
     {
         "datetime": "2026-09-13T18:00:00Z",
@@ -751,7 +813,7 @@
                 "iframe": "/embed/eventos?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL3RudGNoaWxlLmh0bWw="
             }
         ],
-        "id": 31
+        "id": 33
     },
     {
         "datetime": "2026-09-13T18:00:00Z",
@@ -773,7 +835,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4ybXg="
             }
         ],
-        "id": 32
+        "id": 34
     },
     {
         "datetime": "2026-09-13T18:30:00Z",
@@ -789,7 +851,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE5"
             }
         ],
-        "id": 33
+        "id": 35
     },
     {
         "datetime": "2026-09-13T18:45:00Z",
@@ -823,7 +885,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWJlaW5zcG9ydGVz"
             }
         ],
-        "id": 34
+        "id": 36
     },
     {
         "datetime": "2026-09-13T18:45:00Z",
@@ -845,7 +907,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXRlbGVtdW5kbw=="
             }
         ],
-        "id": 35
+        "id": 37
     },
     {
         "datetime": "2026-09-13T19:00:00Z",
@@ -861,7 +923,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWh5cGVybW90aW9uMQ=="
             }
         ],
-        "id": 36
+        "id": 38
     },
     {
         "datetime": "2026-09-13T19:00:00Z",
@@ -907,7 +969,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG5kZXBvcnRlcw=="
             }
         ],
-        "id": 37
+        "id": 39
     },
     {
         "datetime": "2026-09-13T19:00:00Z",
@@ -923,7 +985,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTI="
             }
         ],
-        "id": 38
+        "id": 40
     },
     {
         "datetime": "2026-09-13T19:00:00Z",
@@ -939,7 +1001,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXByZW1pZXJlMg=="
             }
         ],
-        "id": 39
+        "id": 41
     },
     {
         "datetime": "2026-09-13T19:00:00Z",
@@ -955,7 +1017,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXo2"
             }
         ],
-        "id": 40
+        "id": 42
     },
     {
         "datetime": "2026-09-13T19:00:00Z",
@@ -977,7 +1039,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL3dpbnNwb3J0cy5odG1s"
             }
         ],
-        "id": 41
+        "id": 43
     },
     {
         "datetime": "2026-09-13T19:30:00Z",
@@ -999,7 +1061,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2RzcG9ydHMyLmh0bWw="
             }
         ],
-        "id": 42
+        "id": 44
     },
     {
         "datetime": "2026-09-13T20:00:00Z",
@@ -1021,7 +1083,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL3RudHNwb3J0czIuaHRtbA=="
             }
         ],
-        "id": 43
+        "id": 45
     },
     {
         "datetime": "2026-09-13T20:15:00Z",
@@ -1043,7 +1105,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2xpZ2FwZXJ1Lmh0bWw="
             }
         ],
-        "id": 44
+        "id": 46
     },
     {
         "datetime": "2026-09-13T20:30:00Z",
@@ -1083,7 +1145,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWNhbmFsNQ=="
             }
         ],
-        "id": 45
+        "id": 47
     },
     {
         "datetime": "2026-09-13T20:30:00Z",
@@ -1099,7 +1161,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXByZW1pZXJlMQ=="
             }
         ],
-        "id": 46
+        "id": 48
     },
     {
         "datetime": "2026-09-13T20:30:00Z",
@@ -1121,7 +1183,7 @@
                 "iframe": "/embed/eventos?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL3RudGNoaWxlLmh0bWw="
             }
         ],
-        "id": 47
+        "id": 49
     },
     {
         "datetime": "2026-09-13T21:05:00Z",
@@ -1143,7 +1205,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL3dpbnNwb3J0cy5odG1s"
             }
         ],
-        "id": 48
+        "id": 50
     },
     {
         "datetime": "2026-09-13T21:30:00Z",
@@ -1159,7 +1221,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWZhbmF0aXoxMA=="
             }
         ],
-        "id": 49
+        "id": 51
     },
     {
         "datetime": "2026-09-13T22:15:00Z",
@@ -1181,7 +1243,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG5wcmVtaXVtMi5odG1s"
             }
         ],
-        "id": 50
+        "id": 52
     },
     {
         "datetime": "2026-09-13T22:30:00Z",
@@ -1197,7 +1259,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTQ="
             }
         ],
-        "id": 51
+        "id": 53
     },
     {
         "datetime": "2026-09-13T23:00:00Z",
@@ -1219,7 +1281,7 @@
                 "iframe": "/embed/eventos?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL3RudGNoaWxlLmh0bWw="
             }
         ],
-        "id": 52
+        "id": 54
     },
     {
         "datetime": "2026-09-13T23:10:00Z",
@@ -1241,7 +1303,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL3dpbnNwb3J0cy5odG1s"
             }
         ],
-        "id": 53
+        "id": 55
     },
     {
         "datetime": "2026-09-14T00:30:00Z",
@@ -1263,7 +1325,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL3RudHNwb3J0czIuaHRtbA=="
             }
         ],
-        "id": 54
+        "id": 56
     },
     {
         "datetime": "2026-09-14T00:30:00Z",
@@ -1303,7 +1365,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4ybXg="
             }
         ],
-        "id": 55
+        "id": 57
     },
     {
         "datetime": "2026-09-14T01:00:00Z",
@@ -1343,7 +1405,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG5teC4xLmh0bWw="
             }
         ],
-        "id": 56
+        "id": 58
     },
     {
         "datetime": "2026-09-14T01:00:00Z",
@@ -1359,7 +1421,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXRlbGVtdW5kbw=="
             }
         ],
-        "id": 57
+        "id": 59
     },
     {
         "datetime": "2026-09-14T01:00:00Z",
@@ -1375,7 +1437,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPW1sczNlbg=="
             }
         ],
-        "id": 58
+        "id": 60
     },
     {
         "datetime": "2026-09-14T01:15:00Z",
@@ -1397,6 +1459,6 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL3dpbnNwb3J0cy5odG1s"
             }
         ],
-        "id": 59
+        "id": 61
     }
 ]
