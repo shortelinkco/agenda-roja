@@ -1,1 +1,152 @@
-[]
+[
+    {
+        "datetime": "2026-09-14T16:00:00Z",
+        "flagUrl": "https://img.agenda18.com/uploads/afc_champions_L_e5d321e635.png",
+        "league": "AFC Champions League Elite",
+        "homeTeam": "Al Shamal",
+        "awayTeam": "Al Ittihad",
+        "servers": [
+            {
+                "name": "Disney+",
+                "channel": "Disney+",
+                "url": "https://la18hd.su/vivo/canal.php?stream=disney1",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE="
+            },
+            {
+                "name": "ESPN MX",
+                "channel": "ESPN MX",
+                "url": "https://la18hd.su/vivo/canal.php?stream=espnmx",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG5teA=="
+            },
+            {
+                "name": "ESPN MX MOVIL",
+                "channel": "ESPN MX MOVIL",
+                "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espnmx.1.html",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG5teC4xLmh0bWw="
+            }
+        ],
+        "id": 1
+    },
+    {
+        "datetime": "2026-09-14T16:30:00Z",
+        "flagUrl": "https://img.agenda18.com/uploads/italia_cb19445d70.png",
+        "league": "Serie A",
+        "homeTeam": "Como",
+        "awayTeam": "Parma",
+        "servers": [
+            {
+                "name": "Disney+",
+                "channel": "Disney+",
+                "url": "https://la18hd.su/vivo/canal.php?stream=disney2",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTI="
+            }
+        ],
+        "id": 2
+    },
+    {
+        "datetime": "2026-09-14T16:30:00Z",
+        "flagUrl": "https://img.agenda18.com/uploads/italia_cb19445d70.png",
+        "league": "Serie A",
+        "homeTeam": "Torino",
+        "awayTeam": "Roma",
+        "servers": [
+            {
+                "name": "ESPN2",
+                "channel": "ESPN2",
+                "url": "https://la18hd.su/vivo/canal.php?stream=espn2",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4y"
+            },
+            {
+                "name": "Disney+",
+                "channel": "Disney+",
+                "url": "https://la18hd.su/vivo/canal.php?stream=disney3",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTM="
+            },
+            {
+                "name": "ESPN2 Movil",
+                "channel": "ESPN2 Movil",
+                "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn2tv.html",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG4ydHYuaHRtbA=="
+            },
+            {
+                "name": "Universo",
+                "channel": "Universo",
+                "url": "https://la18hd.su/vivo/canal.php?stream=universo",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXVuaXZlcnNv"
+            }
+        ],
+        "id": 3
+    },
+    {
+        "datetime": "2026-09-14T17:00:00Z",
+        "flagUrl": "https://img.agenda18.com/uploads/pavo_980d87b7ad.png",
+        "league": "Super Lig",
+        "homeTeam": "Gaziantep FK",
+        "awayTeam": "Fenerbahçe",
+        "servers": [
+            {
+                "name": "ESPN5",
+                "channel": "ESPN5",
+                "url": "https://la18hd.su/vivo/canal.php?stream=espn5",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG41"
+            },
+            {
+                "name": "Disney+",
+                "channel": "Disney+",
+                "url": "https://la18hd.su/vivo/canal.php?stream=disney5",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTU="
+            },
+            {
+                "name": "ESPN5 Movil",
+                "channel": "ESPN5 Movil",
+                "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/espn5tv.html",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2VzcG41dHYuaHRtbA=="
+            },
+            {
+                "name": "ESPN2 MX",
+                "channel": "ESPN2 MX",
+                "url": "https://la18hd.su/vivo/canal.php?stream=espn2mx",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG4ybXg="
+            },
+            {
+                "name": "beIN Sports Ñ",
+                "channel": "beIN Sports Ñ",
+                "url": "https://la18hd.su/vivo/canal.php?stream=beinsportes",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWJlaW5zcG9ydGVz"
+            }
+        ],
+        "id": 4
+    },
+    {
+        "datetime": "2026-09-14T18:15:00Z",
+        "flagUrl": "https://img.agenda18.com/uploads/afc_champions_L_e5d321e635.png",
+        "league": "AFC Champions League Elite",
+        "homeTeam": "Al-Ahli",
+        "awayTeam": "Pakhtakor",
+        "servers": [
+            {
+                "name": "Disney+",
+                "channel": "Disney+",
+                "url": "https://la18hd.su/vivo/canal.php?stream=disney4",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTQ="
+            }
+        ],
+        "id": 5
+    },
+    {
+        "datetime": "2026-09-14T18:30:00Z",
+        "flagUrl": "https://img.agenda18.com/uploads/espana_a8510f9b5f.png",
+        "league": "LaLiga 2",
+        "homeTeam": "Celta de Vigo II",
+        "awayTeam": "Eibar",
+        "servers": [
+            {
+                "name": "LaLiga TV Hypermotion",
+                "channel": "LaLiga TV Hypermotion",
+                "url": "https://la18hd.su/vivo/canal.php?stream=hypermotion1",
+                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWh5cGVybW90aW9uMQ=="
+            }
+        ],
+        "id": 6
+    }
+]
