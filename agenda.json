@@ -1,33 +1,5 @@
 [
     {
-        "datetime": "2026-09-16T22:30:00Z",
-        "flagUrl": "https://img.agenda18.com/uploads/brasil_25a533e5f7.png",
-        "league": "Brasileirão",
-        "homeTeam": "Botafogo",
-        "awayTeam": "Grêmio",
-        "servers": [
-            {
-                "name": "Premiere BR",
-                "channel": "Premiere BR",
-                "url": "https://la18hd.su/vivo/canal.php?stream=premiere1",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXByZW1pZXJlMQ=="
-            },
-            {
-                "name": "Liga1max",
-                "channel": "Liga1max",
-                "url": "https://la18hd.su/vivo/canal.php?stream=liga1max",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWxpZ2ExbWF4"
-            },
-            {
-                "name": "Liga1max Movil",
-                "channel": "Liga1max Movil",
-                "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/ligaperu.html",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2xpZ2FwZXJ1Lmh0bWw="
-            }
-        ],
-        "id": 1
-    },
-    {
         "datetime": "2026-09-16T23:15:00Z",
         "flagUrl": "https://img.agenda18.com/uploads/colombia_dcf9cc2637.png",
         "league": "Liga BetPlay",
@@ -47,7 +19,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL3dpbnNwb3J0cy5odG1s"
             }
         ],
-        "id": 2
+        "id": 1
     },
     {
         "datetime": "2026-09-17T00:00:00Z",
@@ -69,7 +41,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXR1ZG5fbXg="
             }
         ],
-        "id": 3
+        "id": 2
     },
     {
         "datetime": "2026-09-17T00:30:00Z",
@@ -85,7 +57,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTIw"
             }
         ],
-        "id": 4
+        "id": 3
     },
     {
         "datetime": "2026-09-17T00:30:00Z",
@@ -125,7 +97,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG40bXg="
             }
         ],
-        "id": 5
+        "id": 4
     },
     {
         "datetime": "2026-09-17T01:20:00Z",
@@ -147,7 +119,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL3dpbnNwb3J0cy5odG1s"
             }
         ],
-        "id": 6
+        "id": 5
     },
     {
         "datetime": "2026-09-17T03:00:00Z",
@@ -163,6 +135,6 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE="
             }
         ],
-        "id": 7
+        "id": 6
     }
 ]
