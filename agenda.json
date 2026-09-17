@@ -1,27 +1,5 @@
 [
     {
-        "datetime": "2026-09-16T23:15:00Z",
-        "flagUrl": "https://img.agenda18.com/uploads/colombia_dcf9cc2637.png",
-        "league": "Liga BetPlay",
-        "homeTeam": "Once Caldas",
-        "awayTeam": "Deportes Tolima",
-        "servers": [
-            {
-                "name": "Win Sports + HD",
-                "channel": "Win Sports + HD",
-                "url": "https://la18hd.su/vivo/canal.php?stream=winsports2",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXdpbnNwb3J0czI="
-            },
-            {
-                "name": "Win Sports + |  opc3",
-                "channel": "Win Sports + |  opc3",
-                "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/winsports.html",
-                "iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL3dpbnNwb3J0cy5odG1s"
-            }
-        ],
-        "id": 1
-    },
-    {
         "datetime": "2026-09-17T00:00:00Z",
         "flagUrl": "https://img.agenda18.com/uploads/leagues_cup_f7b23c5e8d.png",
         "league": "Campeones Cup",
@@ -41,7 +19,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXR1ZG5fbXg="
             }
         ],
-        "id": 2
+        "id": 1
     },
     {
         "datetime": "2026-09-17T00:30:00Z",
@@ -57,7 +35,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTIw"
             }
         ],
-        "id": 3
+        "id": 2
     },
     {
         "datetime": "2026-09-17T00:30:00Z",
@@ -97,7 +75,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWVzcG40bXg="
             }
         ],
-        "id": 4
+        "id": 3
     },
     {
         "datetime": "2026-09-17T01:20:00Z",
@@ -119,7 +97,7 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL3dpbnNwb3J0cy5odG1s"
             }
         ],
-        "id": 5
+        "id": 4
     },
     {
         "datetime": "2026-09-17T03:00:00Z",
@@ -135,6 +113,6 @@
                 "iframe": "/embed/eventos.html?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE="
             }
         ],
-        "id": 6
+        "id": 5
     }
 ]
